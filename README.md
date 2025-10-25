@@ -15,7 +15,7 @@ Minimal patcher for Valex External. You must provide the original, unmodified Va
   - Output: `patched_Valex_External.exe`
 
 ## Build (Windows)
-- Open the project in Visual Studio (x64, Release) and build.
+- Open a command prompt and run the `builder.bat` script.
 - Produces `xylera.exe`.
 
 ## Notes
