@@ -1,0 +1,47 @@
+// Windows resource script to embed application icon and file details
+// Ensure image.ico exists in the same directory as this file
+
+#include <winres.h>
+
+// Application icon
+IDI_APP_ICON ICON "image.ico"
+
+// File version information shown in the EXE properties
+// Adjust the values below as needed
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        // 040C = Français (France), 04B0 = codepage Unicode 1200
+        BLOCK "040C04B0"
+        BEGIN
+            VALUE "CompanyName",      "Xylera\0"
+            VALUE "FileDescription",  "Valex Patcher\0"
+            VALUE "FileVersion",      "1.0.0.0\0"
+            VALUE "InternalName",     "Valex_patcher\0"
+            VALUE "OriginalFilename", "xylera.exe\0"
+            VALUE "ProductName",      "Valex\0"
+            VALUE "ProductVersion",   "1.0.0.0\0"
+            VALUE "LegalCopyright",   "(c) 2025 Xylera. All rights reserved.\0"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x040C, 1200
+    END
+END
+
+// Embed a modern application manifest (UAC + DPI awareness + OS compatibility)
+1 RT_MANIFEST "app.manifest"

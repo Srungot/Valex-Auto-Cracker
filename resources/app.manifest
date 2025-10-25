@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly manifestVersion="1.0"
+          xmlns="urn:schemas-microsoft-com:asm.v1"
+          xmlns:asmv2="urn:schemas-microsoft-com:asm.v2"
+          xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"
+          xmlns:compat="urn:schemas-microsoft-com:compatibility.v1">
+  <assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Valex.Xylera" type="win32" />
+  <description>Valex Patcher</description>
+
+  <!-- UAC: run with the privileges of the launching user (no admin prompt) -->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+
+  <!-- Common Controls v6 for modern visual styles -->
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32"
+                        name="Microsoft.Windows.Common-Controls"
+                        version="6.0.0.0"
+                        processorArchitecture="*"
+                        publicKeyToken="6595b64144ccf1df"
+                        language="*" />
+    </dependentAssembly>
+  </dependency>
+
+  <!-- OS compatibility (Windows 7 through Windows 11) -->
+  <compat:compatibility>
+    <compat:application>
+      <!-- Windows 7 -->
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />
+      <!-- Windows 8 -->
+      <supportedOS Id="{1e544e69-4bfc-4de7-a8e5-61e9f64d5ea4}" />
+      <!-- Windows 8.1 -->
+      <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />
+      <!-- Windows 10/11 -->
+      <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />
+    </compat:application>
+  </compat:compatibility>
+
+  <!-- DPI awareness: Per Monitor V2 for crisp UI on multi-DPI setups -->
+  <asmv3:application>
+    <!-- Legacy tag for older Windows versions -->
+    <asmv3:windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true/pm</dpiAware>
+    </asmv3:windowsSettings>
+  </asmv3:application>
+  <!-- Newer WindowsSettings schema -->
+  <asmv3:application xmlns:ws2="http://schemas.microsoft.com/SMI/2016/WindowsSettings">
+    <ws2:windowsSettings>
+      <ws2:dpiAwareness>PerMonitorV2</ws2:dpiAwareness>
+      <ws2:longPathAware>true</ws2:longPathAware>
+    </ws2:windowsSettings>
+  </asmv3:application>
+</assembly>
