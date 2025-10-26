@@ -1,0 +1,28 @@
+{
+  "pattern_call": "E8 ? ? ? ? 84 C0 0F 85 8D 00 00 00",
+  "pattern_version": "48 8D 0D ? ? ? ? 48 89 08 48 8D 0D",
+  "pattern_jnz": "0F 85 8D 00 00 00 48 8D 05",
+  "pattern_jnz_before_links": "0F 85 0D 01 00 00 48 8D 15",
+  "pattern_target_jnz_links": "48 8B C8 FF 15 ? ? ? ? 90 C7 44 24 28 05 00 00 00",
+  "pattern_debug_range": "No more ADB into valex",
+  "pattern_str_ref": "48 8D 35 ? ? ? ? 4C 8B CE 0F 14 C1 66 49 0F 7E C0",
+  "old_url": "https://1cheats.com/store/product/41-Valex-external-key-bypass-lifetime-license/",
+  "new_url": "https://nizzix.ovh/discord",
+  "from_str": "VALEX V5",
+  "to_str": "Cracked",
+  "replacement_banner_str": "Valex cracked by xylera",
+  "neutralize_targets": [
+    "https://discord.gg/Valex",
+    "https://extkey.Valex.io/"
+  ],
+  "pattern_avmadb_jnz": "84 C0 0F 85",
+  "pattern_avmadb_jz": "84 C0 0F 84",
+
+  "check_key_call": "E8 ? ? ? ? 84 C0 0F 85 8D 00 00 00",
+  "jnz_check_key": "0F 85 7E 02 00 00 F2 0F 10 05",
+  "jnz_check_key_2": "0F 85 8D 00 00 00 48 8D 05",
+  "UserInput_key_std_cin": "E8 ? ? ? ? 48 8D 44 24 58",
+  "Authentication_successfull": "0F 57 C0 33 C0 0F 11 44 24 30 48 89 44 24 40 44 89 74 24 38 48 8D 05 ? ? ? ? 48 89 84 24 30 01 00 00 48 C7 84 24 38 01 00 00 1A 00 00 00 4C 89 74 24 50 44 89 74 24 58 48 8B 44 24 38 48 C1 E8 20 89 44 24 5C 4C 89 74 24 60 0F 28 84 24 30 01 00 00 66 0F 7F 44 24 70 0F 10 4C 24 50 0F 29 4C 24 30 F2 0F 10 44 24 60 F2 0F 11 44 24 40 4C 8D 4C 24 70 41 B8 02 00 00 00 48 8D 54 24 30 48 8B 0B E8 ? ? ? ? FF 15",
+  "if_key_json_exist_JZ":"0F 84 56 05 00 00",
+  "auto_login_check_key_jnz": "0F 85 ED 02 00 00 48 8D 8C 24 10 01 00 00"
+}

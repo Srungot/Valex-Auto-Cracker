@@ -83,3 +83,13 @@ Minimal patcher for Valex External. You must provide the original, unmodified Va
 
 ## Roadmap
 - Nothing
+
+### Quick patch options if you want to do an patcher by yourself
+- **Invert key checks**
+  - `jnz_check_key`: flip JNZ to JZ.
+  - `jnz_check_key_2`: flip JNZ to JZ.
+- **Force success path**
+  - Replace `jnz_check_key_2` with `JMP` to `Authentication_successfull`.
+  - NOP the `check_key_call`.
+- **Auto-login**
+  - `auto_login_check_key_jnz`: flip JNZ to JZ or NOP the conditional.
