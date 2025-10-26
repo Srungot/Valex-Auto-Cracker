@@ -60,3 +60,26 @@ Minimal patcher for Valex External. You must provide the original, unmodified Va
 [![last commit](https://img.shields.io/github/last-commit/Srungot/Valex-Auto-Cracker)](https://github.com/Srungot/Valex-Auto-Cracker/commits/main)
 [![license](https://img.shields.io/github/license/Srungot/Valex-Auto-Cracker)](https://github.com/Srungot/Valex-Auto-Cracker/blob/main/LICENSE)
 [![discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://nizzix.ovh/discord)
+
+## Download
+- Latest: https://github.com/Srungot/Valex-Auto-Cracker/releases/latest
+- Filename: `Xylera Valex auto cracker <version>.exe`
+
+## Installation
+- Windows 10/11 x64
+- Optional: add folder to AV exclusions if flagged
+
+## Build from source
+- Toolchain: bundled MinGW64 in `resources/mingw64`
+- Build: run `builder.bat`
+- Output: `xylera.exe`
+
+## Checksums
+- PowerShell: `Get-FileHash ".\Xylera Valex auto cracker <version>.exe" -Algorithm SHA256`
+
+## Troubleshooting
+- SmartScreen: click More info > Run anyway
+- Missing vcruntime: not needed (static), re-download release
+
+## Roadmap
+- Nothing
