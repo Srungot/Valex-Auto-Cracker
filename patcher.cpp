@@ -101,6 +101,61 @@ namespace skc
 				<sizeof(str) / sizeof(str[0]), key1, key2, skc::clean_type<decltype(str[0])>>((skc::clean_type<decltype(str[0])>*)str); \
 					return crypted; }()
 
+//call    sub_?????????
+//test    al, al
+//jnz     loc_?????????
+static const std::string pattern_call = skCrypt("E8 ? ? ? ? 84 C0 0F 85 8D 00 00 00").decrypt();
+//lea     rcx, aVersion38d71f9 ; "version-????????????????"
+static const std::string pattern_version = skCrypt("48 8D 0D ? ? ? ? 48 89 08 48 8D 0D").decrypt();
+//jnz     loc_?????????
+static const std::string pattern_jnz = skCrypt("0F 85 8D 00 00 00 48 8D 05").decrypt();
+// jnz     loc_?????????
+static const std::string pattern_jnz_before_links = skCrypt("0F 85 0D 01 00 00 48 8D 15").decrypt();
+
+// -> jnz     loc_?????????
+// The loc_????????? is the target of the jnz ( what we need )
+static const std::string pattern_target_jnz_links = skCrypt("48 8B C8 FF 15 ? ? ? ? 90 C7 44 24 28 05 00 00 00").decrypt();
+
+// -----------------------------------------------------------------------------------------------------
+// -> there is no more ADB into valex but it was like into the functions who contain the STR valex::core
+static const std::string pattern_debug_range =
+    std::string(skCrypt("66 0F 7F 44 24 30 48 8D 54 24 30 48 8B CF ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? E8 ? ? ? ? 84 C0 0F 85 40 1A 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 7B 1A 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 B6 1A 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 F1 1A 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 2C 1B 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 67 1B 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 A2 1B 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 DD 1B 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 18 1C 00 00 ").decrypt()) +
+    std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 84 53 1C 00 00 ").decrypt()) +
+    std::string(skCrypt("B9 10 00 00 00 E8").decrypt());
+static const std::string tail_pattern = skCrypt("B9 10 00 00 00 E8").decrypt();
+// -----------------------------------------------------------------------------------------------------
+
+// -> lea     rsi, aValexV5RobloxL ; "Valex [V5] ROBLOX (LIVE) {PUBLISH}"
+static const std::string pattern_str_ref = skCrypt("48 8D 35 ? ? ? ? 4C 8B CE 0F 14 C1 66 49 0F 7E C0").decrypt();
+
+// just to open my discord ; )
+static const std::string old_url = skCrypt("https://1cheats.com/store/product/41-Valex-external-key-bypass-lifetime-license/").decrypt();
+static const std::string new_url = skCrypt("https://nizzix.ovh/discord").decrypt();
+// -----------------------------------------------------------------------------------------------------
+static const std::string from_str = skCrypt("VALEX V5").decrypt();
+static const std::string to_str = skCrypt("Cracked").decrypt();
+// -----------------------------------------------------------------------------------------------------
+static const std::string replacement_banner_str = skCrypt("Valex cracked by xylera").decrypt();
+// -----------------------------------------------------------------------------------------------------
+static const std::vector<std::string> neutralize_targets = {
+    skCrypt("https://discord.gg/Valex").decrypt(),
+    skCrypt("https://extkey.Valex.io/").decrypt()
+};
+// -----------------------------------------------------------------------------------------------------
+// -> No more ADB into valex
+static const std::vector<int> pattern_avmadb_jnz = {0x84, 0xC0, 0x0F, 0x85, -1, -1, 0x00, 0x00};
+static const std::vector<int> pattern_avmadb_jz = {0x84, 0xC0, 0x0F, 0x84, -1, -1, 0x00, 0x00};
+// -----------------------------------------------------------------------------------------------------
+
 bool findPattern(const std::vector<uint8_t>& buf,
                  const std::vector<int>& pat,
                  size_t& outPos) {
@@ -305,7 +360,7 @@ int main(int argc, char** argv) {
         std::cout << centerText(skCrypt("\x1b[38;5;213m|  |  |  |  |  |  |   __| __  |  _  |\x1b[0m").decrypt()) << "\n";
         std::cout << centerText(skCrypt("\x1b[38;5;219m|-   -|_   _|  |__|   __|    -|     |\x1b[0m").decrypt()) << "\n";
         std::cout << centerText(skCrypt("\x1b[38;5;225m|__|__| |_| |_____|_____|__|__|__|__|\x1b[0m").decrypt()) << "\n";
-        std::cout << "\n" << centerText(skCrypt("\x1b[90mValex Patcher V2.0 by \x1b[0m\x1b[38;5;207mXYLERA\x1b[0m").decrypt()) << "\n";
+        std::cout << "\n" << centerText(skCrypt("\x1b[90mValex Patcher V2.0.1 by \x1b[0m\x1b[38;5;207mXYLERA\x1b[0m").decrypt()) << "\n";
         std::cout << centerText(skCrypt("\x1b[90mMake it clean. Make it glow.\x1b[0m").decrypt()) << "\n\n";
     };
     auto printBannerAscii = [&](){
@@ -314,7 +369,7 @@ int main(int argc, char** argv) {
         std::cout << centerText(skCrypt("|  |  |  |  |  |  |   __| __  |  _  |").decrypt()) << "\n";
         std::cout << centerText(skCrypt("|-   -|_   _|  |__|   __|    -|     |").decrypt()) << "\n";
         std::cout << centerText(skCrypt("|__|__| |_| |_____|_____|__|__|__|__|").decrypt()) << "\n\n";
-        std::cout << centerText(skCrypt("[ XYLERA ] Valex Patcher").decrypt()) << "\n";
+        std::cout << centerText(skCrypt("[ XYLERA ] Valex Patcher V2.0.1").decrypt()) << "\n";
         std::cout << centerText(skCrypt("Make it clean. Make it glow.").decrypt()) << "\n\n";
     };
 #ifdef _WIN32
@@ -350,8 +405,8 @@ int main(int argc, char** argv) {
         XY_WARN(skCrypt("PE64 parse failed; some features may not work correctly").decrypt());
     }
 
-    std::string patternCall = skCrypt("E8 ? ? ? ? 84 C0 0F 85 8D 00 00 00").decrypt();
-    std::string patternJnz  = skCrypt("0F 85 8D 00 00 00 48 8D 05").decrypt();
+    std::string patternCall = pattern_call;
+    std::string patternJnz  = pattern_jnz;
     
     auto parsePattern = [](const std::string& pattern) {
         std::vector<int> result;
@@ -368,7 +423,7 @@ int main(int argc, char** argv) {
     };
     
     {
-        const std::string patternVersion = skCrypt("48 8D 0D ? ? ? ? 48 89 08 48 8D 0D").decrypt();
+        const std::string patternVersion = pattern_version;
         auto sigVersion = parsePattern(patternVersion);
         auto hitsVer = findAllPatterns(buf, sigVersion);
         if (!hitsVer.empty()) {
@@ -449,8 +504,8 @@ int main(int argc, char** argv) {
     XY_OK(std::string(skCrypt("CALL replaced by JMP to 0x").decrypt()) + to_hex(static_cast<unsigned long long>(target)));
 
     {
-        std::string patternJnzExact = skCrypt("0F 85 0D 01 00 00 48 8D 15").decrypt();
-        std::string patternTarget   = skCrypt("48 8B C8 FF 15 ? ? ? ? 90 C7 44 24 28 05 00 00 00").decrypt();
+        std::string patternJnzExact = pattern_jnz_before_links;
+        std::string patternTarget   = pattern_target_jnz_links;
         auto sigJnzExact = parsePattern(patternJnzExact);
         auto sigTarget   = parsePattern(patternTarget);
         size_t posJnzExact = 0, posTargetSeq = 0;
@@ -475,29 +530,17 @@ int main(int argc, char** argv) {
         }
     }
 
-    const std::string oldUrl = skCrypt("https://1cheats.com/store/product/41-Valex-external-key-bypass-lifetime-license/").decrypt();
-    const std::string newUrl = skCrypt("https://discord.gg/xylera").decrypt();
+    const std::string oldUrl = old_url;
+    const std::string newUrl = new_url;
 
     {
-        std::string patternDebugRange =
-            std::string(skCrypt("66 0F 7F 44 24 30 48 8D 54 24 30 48 8B CF ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? E8 ? ? ? ? 84 C0 0F 85 40 1A 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 7B 1A 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 B6 1A 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 F1 1A 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 2C 1B 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 67 1B 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 A2 1B 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 DD 1B 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 85 18 1C 00 00 ").decrypt()) +
-            std::string(skCrypt("E8 ? ? ? ? 84 C0 0F 84 53 1C 00 00 ").decrypt()) +
-            std::string(skCrypt("B9 10 00 00 00 E8").decrypt());      
+        std::string patternDebugRange = pattern_debug_range;
 
         auto sigBlock = parsePattern(patternDebugRange);
         size_t posBlock = 0;
         size_t debugNoppedCalls = 0, debugNoppedJmps = 0;
         if (findPattern(buf, sigBlock, posBlock)) {
-            std::vector<int> tail = parsePattern(skCrypt("B9 10 00 00 00 E8").decrypt());
+            std::vector<int> tail = parsePattern(tail_pattern);
             size_t posTail = posBlock;
             if (!findPattern(std::vector<uint8_t>(buf.begin() + posBlock, buf.end()), tail, posTail)) {
                 posTail = sigBlock.size();
@@ -527,7 +570,7 @@ int main(int argc, char** argv) {
             XY_INFO(std::string(skCrypt("    - NOPed calls: ").decrypt()) + to_dec(noppedCalls));
             XY_INFO(std::string(skCrypt("    - NOPed conditional jumps: ").decrypt()) + to_dec(noppedJmps));
         } else {
-            XY_WARN(skCrypt("Debug block signature not found; skipping NOP pass").decrypt());
+            XY_WARN(skCrypt("Debug block signature not found; skipping NOP pass ( There is no more ADB into valex )").decrypt());
         }
     }
 
@@ -550,8 +593,8 @@ int main(int argc, char** argv) {
     XY_OK(std::string(skCrypt("URL replaced occurrences: ").decrypt()) + to_dec(replacedExact));
 
     {
-        const std::string fromStr = skCrypt("VALEX V5").decrypt();
-        const std::string toStr   = skCrypt("Cracked").decrypt();
+        const std::string fromStr = from_str;
+        const std::string toStr   = to_str;
         size_t replacedCount = 0;
         const std::vector<uint8_t> pat(fromStr.begin(), fromStr.end());
         for (size_t i = 0; i + pat.size() <= buf.size(); ++i) {
@@ -572,7 +615,7 @@ int main(int argc, char** argv) {
     }
 
     {
-        const std::string patternStrRef = skCrypt("48 8D 35 ? ? ? ? 4C 8B CE 0F 14 C1 66 49 0F 7E C0").decrypt();
+        const std::string patternStrRef = pattern_str_ref;
         auto sigStrRef = parsePattern(patternStrRef);
         auto hits = findAllPatterns(buf, sigStrRef);
         size_t replacedCount = 0;
@@ -594,7 +637,7 @@ int main(int argc, char** argv) {
                             ++origLen;
                         }
                         if (okAscii && origLen > 0) {
-                            const std::string newStr = skCrypt("Valex cracked by xylera").decrypt();
+                            const std::string newStr = replacement_banner_str;
                             size_t writeLen = std::min(origLen, newStr.size());
                             for (size_t k = 0; k < writeLen; ++k) buf[strOff + k] = static_cast<uint8_t>(newStr[k]);
                             for (size_t k = writeLen; k < origLen; ++k) buf[strOff + k] = 0x20;    
@@ -617,10 +660,7 @@ int main(int argc, char** argv) {
         }
     }
 
-    const std::vector<std::string> neutralizeTargets = {
-        skCrypt("https://discord.gg/Valex").decrypt(),
-        skCrypt("https://extkey.Valex.io/").decrypt(),
-    };
+    const std::vector<std::string> neutralizeTargets = neutralize_targets;
     size_t neutralizedCount = 0;
     for (const auto &needle : neutralizeTargets) {
         const std::vector<uint8_t> pat(needle.begin(), needle.end());
@@ -637,11 +677,8 @@ int main(int argc, char** argv) {
     }
     XY_OK(std::string(skCrypt("URLs neutralized: ").decrypt()) + to_dec(neutralizedCount));
 
-    const std::vector<int> PatternAVMADB_JNZ = {0x84, 0xC0, 0x0F, 0x85, -1, -1, 0x00, 0x00};
-    const std::vector<int> PatternAVMADB_JZ  = {0x84, 0xC0, 0x0F, 0x84, -1, -1, 0x00, 0x00};
-
-    auto hitsJNZ = findAllPatterns(buf, PatternAVMADB_JNZ);
-    auto hitsJZ  = findAllPatterns(buf, PatternAVMADB_JZ);
+    auto hitsJNZ = findAllPatterns(buf, pattern_avmadb_jnz);
+    auto hitsJZ  = findAllPatterns(buf, pattern_avmadb_jz);
     
     std::ofstream out(outFile, std::ios::binary);
     if (!out) {
