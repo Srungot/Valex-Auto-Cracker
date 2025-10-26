@@ -2,6 +2,8 @@ name: auto-release
 
 on:
   push:
+    branches:
+      - main
     tags:
       - 'v*'
   workflow_dispatch:
@@ -30,28 +32,46 @@ jobs:
         shell: cmd
         run: builder.bat
 
+      - name: compute version and filename
+        shell: pwsh
+        run: |
+          $refType = "${{ github.ref_type }}"
+          if ($refType -eq "tag") {
+            $version = "${{ github.ref_name }}"
+            $prerelease = "false"
+          }
+          else {
+            $version = "nightly-${{ github.run_number }}"
+            $prerelease = "true"
+          }
+          $file = "Xylera Valex auto cracker $version.exe"
+          $releaseName = "Xylera Valex auto cracker $version"
+          echo "VERSION=$version" >> $env:GITHUB_ENV
+          echo "FILE_NAME=$file" >> $env:GITHUB_ENV
+          echo "RELEASE_NAME=$releaseName" >> $env:GITHUB_ENV
+          echo "TAG=$version" >> $env:GITHUB_ENV
+          echo "PRERELEASE=$prerelease" >> $env:GITHUB_ENV
+
       - name: rename exe with version
         shell: pwsh
         run: |
-          $version = "$env:GITHUB_REF_NAME"
-          $newName = "Xylera Valex auto cracker $version.exe"
-          Rename-Item -Path "xylera.exe" -NewName $newName
-          echo "built $newName"
+          Rename-Item -Path "xylera.exe" -NewName "$env:FILE_NAME"
+          echo "built $env:FILE_NAME"
 
       - name: upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: xylera-exe
-          path: "Xylera Valex auto cracker ${{ github.ref_name }}.exe"
+          path: "${{ env.FILE_NAME }}"
 
       - name: create release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref_name }}
-          name: Xylera Valex auto cracker ${{ github.ref_name }}
-          prerelease: false
+          tag_name: ${{ env.TAG }}
+          name: ${{ env.RELEASE_NAME }}
+          prerelease: ${{ env.PRERELEASE }}
           draft: false
           files: |
-            Xylera Valex auto cracker ${{ github.ref_name }}.exe
+            ${{ env.FILE_NAME }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
