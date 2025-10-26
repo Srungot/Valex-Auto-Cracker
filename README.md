@@ -50,10 +50,13 @@ Minimal patcher for Valex External. You must provide the original, unmodified Va
 - `pattern_avmadb_jnz` -> `84 C0 0F 85`
 - `pattern_avmadb_jz` -> `84 C0 0F 84`
 
-[![release](https://img.shields.io/github/v/release/USER/REPO)](https://github.com/USER/REPO/releases)
-[![downloads](https://img.shields.io/github/downloads/USER/REPO/total)](https://github.com/USER/REPO/releases)
-[![build](https://img.shields.io/github/actions/workflow/status/USER/REPO/auto-release.yml?branch=main)](https://github.com/USER/REPO/actions)
-[![discord](https://img.shields.io/discord/YOUR_DISCORD_ID?logo=discord&label=discord)](https://discord.gg/YOUR_INVITE)
-
+  
 ## Support
 - Discord -> https://nizzix.ovh/discord | <@483948013547683861>
+
+[![release](https://img.shields.io/github/v/release/Srungot/Valex-Auto-Cracker)](https://github.com/Srungot/Valex-Auto-Cracker/releases)
+[![downloads](https://img.shields.io/github/downloads/Srungot/Valex-Auto-Cracker/total)](https://github.com/Srungot/Valex-Auto-Cracker/releases)
+[![build](https://img.shields.io/github/actions/workflow/status/Srungot/Valex-Auto-Cracker/auto-release.yml?branch=main)](https://github.com/Srungot/Valex-Auto-Cracker/actions/workflows/auto-release.yml)
+[![last commit](https://img.shields.io/github/last-commit/Srungot/Valex-Auto-Cracker)](https://github.com/Srungot/Valex-Auto-Cracker/commits/main)
+[![license](https://img.shields.io/github/license/Srungot/Valex-Auto-Cracker)](https://github.com/Srungot/Valex-Auto-Cracker/blob/main/LICENSE)
+[![discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://nizzix.ovh/discord)
