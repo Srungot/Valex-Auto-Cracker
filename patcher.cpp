@@ -136,6 +136,9 @@ static const std::string tail_pattern = skCrypt("B9 10 00 00 00 E8").decrypt();
 
 // -> lea     rsi, aValexV5RobloxL ; "Valex [V5] ROBLOX (LIVE) {PUBLISH}"
 static const std::string pattern_str_ref = skCrypt("48 8D 35 ? ? ? ? 4C 8B CE 0F 14 C1 66 49 0F 7E C0").decrypt();
+ 
+static const std::string pattern_config_path = skCrypt("4C 8D 05 ? ? ? ? 48 8B D0 48 8D 8D C0 00 00 00").decrypt();
+static const std::string replacement_config_str = skCrypt("\\cracked\\configs\\").decrypt();
 
 // just to open my discord ; )
 static const std::string old_url = skCrypt("https://1cheats.com/store/product/41-Valex-external-key-bypass-lifetime-license/").decrypt();
@@ -659,6 +662,52 @@ int main(int argc, char** argv) {
             XY_WARN(skCrypt("String reference pattern not found (48 8D 35 ?? ?? ?? ?? 4C 8B CE 0F 14 C1 66 49 0F 7E C0)").decrypt());
         }
     }
+ 
+     {
+         const std::string patternCfg = pattern_config_path;
+         auto sigCfg = parsePattern(patternCfg);
+         auto hits = findAllPatterns(buf, sigCfg);
+         size_t replacedCount = 0;
+         if (!hits.empty()) {
+             size_t off = hits[0];
+             if (off + 7 <= buf.size()) {
+                 int32_t disp = readRel32(buf, off + 3);
+                 uint64_t instrVA = 0;
+                 if (fileOffsetToVA(imageBase, sections, off, instrVA)) {
+                     uint64_t ripVA = instrVA + 7;
+                     uint64_t targetVA = ripVA + static_cast<int64_t>(disp);
+                     size_t strOff = 0;
+                     if (vaToFileOffset(imageBase, sections, targetVA, strOff) && strOff < buf.size()) {
+                         size_t origLen = 0; bool okAscii = true;
+                         for (size_t i = strOff; i < buf.size() && origLen < 256; ++i) {
+                             uint8_t c = buf[i];
+                             if (c == 0) break;
+                             if (c < 0x20 || c > 0x7E) { okAscii = false; break; }
+                             ++origLen;
+                         }
+                         if (okAscii && origLen > 0) {
+                             const std::string newStr = replacement_config_str;
+                             size_t writeLen = std::min(origLen, newStr.size());
+                             for (size_t k = 0; k < writeLen; ++k) buf[strOff + k] = static_cast<uint8_t>(newStr[k]);
+                             for (size_t k = writeLen; k < origLen; ++k) buf[strOff + k] = 0x20;
+                             ++replacedCount;
+                             bool truncated = newStr.size() > origLen;
+                             XY_OK(std::string(skCrypt("Config path string replaced at 0x").decrypt()) + to_hex(static_cast<unsigned long long>(strOff)) +
+                                   (truncated ? std::string(" (truncated)") : std::string("")));
+                         } else {
+                             XY_WARN(skCrypt("Targeted config path is not a valid ASCII or length is 0").decrypt());
+                         }
+                     } else {
+                         XY_WARN(skCrypt("Could not resolve referenced string file offset for config path pattern").decrypt());
+                     }
+                 } else {
+                     XY_WARN(skCrypt("Could not map LEA file offset to VA for config path pattern").decrypt());
+                 }
+             }
+         } else {
+             XY_WARN(skCrypt("Config path pattern not found (4C 8D 05 ?? ?? ?? ?? 48 8B D0 48 8D 8D C0 00 00 00)").decrypt());
+         }
+     }
 
     const std::vector<std::string> neutralizeTargets = neutralize_targets;
     size_t neutralizedCount = 0;
