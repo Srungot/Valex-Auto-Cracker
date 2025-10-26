@@ -1,0 +1,627 @@
+COPYING: GNU General Public License, Version 3
+  [Copyright: 2007 Free Software Foundation, Inc. <http://fsf.org/>]
+ChangeLog: UNKNOWN
+  [Copyright: here]
+Makefile.am: UNKNOWN
+  [Copyright: 1999-2001 Lorenzo Bettini <http://www.lorenzobettini.it>]
+Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2001 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+NEWS: UNKNOWN
+  [Copyright: 1999-2011 Lorenzo Bettini / 1999-2008 Lorenzo Bettini Lorenzo Bettini]
+_sstream: GNU General Public License v3.0 or later
+  [Copyright: 2000 Free Software Foundation]
+acinclude.m4: GNU General Public License v2.0 or later
+  [Copyright: 2001 Lorenzo Bettini <http://www.lorenzobettini.it>]
+aclocal.m4: FSF Unlimited License (with License Retention) [generated file]
+  [Copyright: 2009-2017 Free Software Foundation, Inc. / 2006-2017 Free Software Foundation, Inc. / 2004-2017 Free Software Foundation, Inc. / 2003-2017 Free Software Foundation, Inc. / 2002-2017 Free Software Foundation, Inc. / 2001-2017 Free Software Foundation, Inc. / 1999-2017 Free Software Foundation, Inc. / 1998-2017 Free Software Foundation, Inc. / 1997-2017 Free Software Foundation, Inc. / 1996-2017 Free Software Foundation, Inc.]
+configure: FSF Unlimited License GNU General Public License, Version 2 [generated file]
+  [Copyright: 2014 Free Software Foundation, Inc. / 2012 Free Software Foundation, Inc. / 1992-1996, 1998-2012 Free Software Foundation, Inc.]
+configure.ac: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+source-highlight.spec: *No copyright* GNU General Public License
+source-highlight.spec.in: *No copyright* GNU General Public License
+build-aux/compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2017 Free Software Foundation, Inc.]
+build-aux/config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2017 Free Software Foundation, Inc. / 1992-2017 Free Software Foundation, Inc.]
+build-aux/config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2017 Free Software Foundation, Inc. / 1992-2017 Free Software Foundation, Inc.]
+build-aux/depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2017 Free Software Foundation, Inc.]
+build-aux/install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+build-aux/ltmain.sh: GNU General Public License v3.0 or later GNU General Public License v2.0 or later
+  [Copyright: 2010-2015 Free Software Foundation, Inc. / 2004-2015 Free Software Foundation, Inc. / 1996-2015 Free Software Foundation, Inc.]
+build-aux/mdate-sh: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1995-2017 Free Software Foundation, Inc.]
+build-aux/missing: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1996-2017 Free Software Foundation, Inc.]
+build-aux/test-driver: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2011-2017 Free Software Foundation, Inc.]
+build-aux/texinfo.tex: GNU General Public License v3.0 or later
+  [Copyright: {copyright}% / definedummywordregisteredsymbol / before the first topic whose initial is c / 1985-1986, 1988, 1990-2017 Free Software Foundation, Inc.]
+doc/Makefile.am: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+doc/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+doc/example-c.diff: *No copyright* GNU General Public License
+doc/example-c.diff.texinfo: *No copyright* GNU General Public License
+doc/example-u.diff: *No copyright* GNU General Public License
+doc/example-u.diff.texinfo: *No copyright* GNU General Public License
+doc/gpl.texinfo: GNU General Public License, Version 2
+  [Copyright: @var{year} @var{name of author} / @var{year} @var{name of author} / @copyright{} 1989, 1991 Free Software Foundation, Inc.]
+doc/source-highlight-lib.info: GNU Free Documentation License v1.1 or later
+  [Copyright: 2005-2008 Lorenzo Bettini, / 2005-2008 Lorenzo Bettini,]
+doc/source-highlight-lib.texi: GNU Free Documentation License v1.1 or later
+  [Copyright: @copyright{} 2005-2008 Lorenzo Bettini, @value{myhomepage}.]
+doc/source-highlight.info: GNU General Public License GNU Free Documentation License v1.1 or later
+  [Copyright: 2005-2008 Lorenzo Bettini, / 1999-2007 Lorenzo Bettini]
+doc/source-highlight.texi: GNU General Public License GNU Free Documentation License v1.1 or later
+  [Copyright: @copyright{} 2005-2008 Lorenzo Bettini, @value{myhomepage}.]
+doc/test_ref.h.texinfo: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini}}]
+gl/Makefile.am: GNU General Public License v3.0 or later
+  [Copyright: header cut off. / header cut / header cut / 2002-2011 Free Software Foundation, Inc.]
+gl/Makefile.in: GNU General Public License v3.0 or later [generated file]
+  [Copyright: header cut off. / header cut / header cut / 2002-2011 Free Software Foundation, Inc. / 1994-2017 Free Software Foundation, Inc.]
+gl/basename-lgpl.c: GNU General Public License v3.0 or later
+  [Copyright: 1990, 1998-2001, 2003-2006, 2009-2011 Free Software]
+gl/dirent.in.h: GNU General Public License v3.0 or later
+  [Copyright: 2006-2011 Free Software Foundation, Inc.]
+gl/dirname-lgpl.c: GNU General Public License v3.0 or later
+  [Copyright: 1990, 1998, 2000-2001, 2003-2006, 2009-2011 Free Software]
+gl/dirname.h: GNU General Public License v3.0 or later
+  [Copyright: 1998, 2001, 2003-2006, 2009-2011 Free Software Foundation,]
+gl/dosname.h: GNU General Public License v3.0 or later
+  [Copyright: 2000-2001, 2004-2006, 2009-2011 Free Software Foundation, Inc.]
+gl/getopt.c: GNU General Public License v3.0 or later
+  [Copyright: 1987-1996, 1998-2004, 2006, 2008-2011 Free Software]
+gl/getopt.in.h: GNU General Public License v3.0 or later
+  [Copyright: 1989-1994, 1996-1999, 2001, 2003-2007, 2009-2011 Free Software]
+gl/getopt1.c: GNU General Public License v3.0 or later
+  [Copyright: 1987-1994, 1996-1998, 2004, 2006, 2009-2011 Free Software]
+gl/getopt_int.h: GNU General Public License v3.0 or later
+  [Copyright: 1989-1994, 1996-1999, 2001, 2003-2004, 2009-2011 Free Software]
+gl/gettext.h: GNU General Public License v3.0 or later
+  [Copyright: 1995-1998, 2000-2002, 2004-2006, 2009-2011 Free Software]
+gl/malloc.c: GNU General Public License v3.0 or later
+  [Copyright: 1997-1998, 2006-2007, 2009-2011 Free Software Foundation, Inc.]
+gl/memset.c: GNU General Public License v3.0 or later
+  [Copyright: 1991, 2003, 2009-2011 Free Software Foundation, Inc.]
+gl/mkdir.c: GNU General Public License v3.0 or later
+  [Copyright: 2001, 2003, 2006, 2008-2011 Free Software Foundation, Inc.]
+gl/progname.c: GNU General Public License v3.0 or later
+  [Copyright: 2001-2003, 2005-2011 Free Software Foundation, Inc.]
+gl/progname.h: GNU General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006, 2009-2011 Free Software Foundation, Inc.]
+gl/stdbool.in.h: GNU General Public License v3.0 or later
+  [Copyright: 2001-2003, 2006-2011 Free Software Foundation, Inc.]
+gl/stddef.in.h: GNU General Public License v3.0 or later
+  [Copyright: 2009-2011 Free Software Foundation, Inc.]
+gl/stdlib.in.h: GNU General Public License v3.0 or later
+  [Copyright: 1995, 2001-2004, 2006-2011 Free Software Foundation, Inc.]
+gl/strdup.c: GNU General Public License v3.0 or later
+  [Copyright: 1991, 1996-1998, 2002-2004, 2006-2007, 2009-2011 Free Software]
+gl/string.in.h: GNU General Public License v3.0 or later
+  [Copyright: 1995-1996, 2001-2011 Free Software Foundation, Inc.]
+gl/stripslash.c: GNU General Public License v3.0 or later
+  [Copyright: 1990, 2001, 2003-2006, 2009-2011 Free Software Foundation,]
+gl/sys_stat.in.h: GNU General Public License v3.0 or later
+  [Copyright: 2005-2011 Free Software Foundation, Inc.]
+gl/time.in.h: GNU General Public License v3.0 or later
+  [Copyright: 2007-2011 Free Software Foundation, Inc.]
+gl/unistd.in.h: GNU General Public License v3.0 or later
+  [Copyright: 2003-2011 Free Software Foundation, Inc.]
+lib/Makefile.am: UNKNOWN
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+m4/Makefile.am: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+m4/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+m4/ax_boost_base.m4: FSF All Permissive License
+  [Copyright: 2009 Peter Adolphs / 2008 Thomas Porschberg <thomas@randspringer.de>]
+m4/ax_boost_regex.m4: FSF All Permissive License
+  [Copyright: 2008 Thomas Porschberg <thomas@randspringer.de> / 2008 Michael Tindal]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License, Version 2
+  [Copyright: 2014 Free Software Foundation, Inc. / 2011 Free Software Foundation, Inc. / 1996-2001, 2003-2015 Free Software Foundation, Inc.]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2015 Free Software]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2015 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2015 Free Software Foundation, Inc.]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2015 Free Software]
+src/Makefile.am: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+src/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+src/check-regexp.cpp: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 2007-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+src/check-regexp_cmd.ggo: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini, http://www.lorenzobettini.it]
+src/cmdline.ggo: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini, http://www.lorenzobettini.it]
+src/envmapper.c: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2001 Lorenzo Bettini <http://www.lorenzobettini.it>]
+src/envmapper.h: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2001 Lorenzo Bettini <http://www.lorenzobettini.it>]
+src/source-highlight-esc.sh.in: GNU General Public License v3.0 or later
+  [Copyright: 2012 Xavier-Emmanuel VINCENT]
+src/source-highlight-settings.cpp: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 2007-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+src/source-highlight.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it>",]
+src/ylwrap: GNU General Public License v2.0 or later
+  [Copyright: 1996-1998 Free Software Foundation, Inc.]
+tests/Makefile.am: UNKNOWN
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it>]
+tests/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+tests/syslog.log: UNKNOWN
+  [Copyright: 2000-2002 Netfilter core team]
+tests/test.conf: *No copyright* UNKNOWN [generated file]
+tests/test.diff: *No copyright* GNU General Public License
+tests/test.h: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini]
+tests/test.h.docbook: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini</emphasis>]
+tests/test.js: *No copyright* GNU General Public License, Version 2
+tests/test.l: GNU General Public License v2.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2001 Lorenzo Bettini]
+tests/test.php3: UNKNOWN
+  [Copyright: 2000 A.Barbet alian@alianwebserver.com.]
+tests/test.pm: UNKNOWN
+  [Copyright: 2001 A.Barbet alian@alianwebserver.com.]
+tests/test.spec: *No copyright* GNU General Public License
+tests/test.xorg: *No copyright* UNKNOWN [generated file]
+tests/test.y: GNU General Public License v2.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2001 Lorenzo Bettini <http://www.lorenzobettini.it>]
+tests/test2.diff: *No copyright* GNU General Public License
+tests/test_ref.docbook: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini</emphasis>]
+tests/test_ref.tex: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini}}]
+tests/test_ref.texinfo: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini}}]
+tests/test_ref.xhtml: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini</span>]
+tests/test_ref_post.tex: UNKNOWN
+  [Copyright: 1999-2007 Lorenzo Bettini}}]
+tests/test_refs.h: GNU General Public License v3.0 or later
+  [Copyright: 1999-2001 Lorenzo Bettini]
+build-aux/snippet/arg-nonnull.h: GNU General Public License v3.0 or later
+  [Copyright: 2009-2011 Free Software Foundation, Inc.]
+build-aux/snippet/c++defs.h: GNU General Public License v3.0 or later
+  [Copyright: 2010-2011 Free Software Foundation, Inc.]
+build-aux/snippet/warn-on-use.h: GNU General Public License v3.0 or later
+  [Copyright: 2010-2011 Free Software Foundation, Inc.]
+gl/m4/00gnulib.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2011 Free Software Foundation, Inc.]
+gl/m4/dirent_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2008-2011 Free Software Foundation, Inc.]
+gl/m4/dirname.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2006, 2009-2011 Free Software Foundation, Inc.]
+gl/m4/double-slash-root.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006, 2008-2011 Free Software Foundation, Inc.]
+gl/m4/extensions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2006-2011 Free Software Foundation, Inc.]
+gl/m4/getopt.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2006, 2008-2011 Free Software Foundation, Inc.]
+gl/m4/gnulib-cache.m4: GNU General Public License v3.0 or later
+  [Copyright: 2002-2011 Free Software Foundation, Inc.]
+gl/m4/gnulib-common.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2011 Free Software Foundation, Inc.]
+gl/m4/gnulib-comp.m4: GNU General Public License v3.0 or later
+  [Copyright: 2002-2011 Free Software Foundation, Inc.]
+gl/m4/include_next.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2011 Free Software Foundation, Inc.]
+gl/m4/malloc.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007, 2009-2011 Free Software Foundation, Inc.]
+gl/m4/memset.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002, 2009-2011 Free Software Foundation, Inc.]
+gl/m4/mkdir.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001, 2003-2004, 2006, 2008-2011 Free Software Foundation, Inc.]
+gl/m4/nocrash.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005, 2009-2011 Free Software Foundation, Inc.]
+gl/m4/ssize_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2003, 2006, 2010-2011 Free Software Foundation, Inc.]
+gl/m4/stdbool.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2006, 2009-2011 Free Software Foundation, Inc.]
+gl/m4/stddef_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2011 Free Software Foundation, Inc.]
+gl/m4/stdlib_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2011 Free Software Foundation, Inc.]
+gl/m4/strdup.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2011 Free Software Foundation, Inc.]
+gl/m4/string_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2011 Free Software Foundation, Inc.]
+gl/m4/sys_stat_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2011 Free Software Foundation, Inc.]
+gl/m4/time_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2000-2001, 2003-2007, 2009-2011 Free Software Foundation, Inc.]
+gl/m4/unistd_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2011 Free Software Foundation, Inc.]
+gl/m4/warn-on-use.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2010-2011 Free Software Foundation, Inc.]
+gl/m4/wchar_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2003, 2008-2011 Free Software Foundation, Inc.]
+lib/compat/Makefile.am: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/compat/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+lib/compat/compat_dirent.h: *No copyright* Public domain
+lib/compat/getopt.c: GNU General Public License v3.0 or later
+  [Copyright: 1987 88,89,90,91,92,93,94,95,96,98,99,2000,2001,2002,2003,2004,2006,2008]
+lib/compat/getopt.h: GNU General Public License v3.0 or later
+  [Copyright: 1989-1994, 1996-1999, 2001, 2003-2007 Free Software Foundation, Inc.]
+lib/compat/getopt1.c: GNU General Public License v3.0 or later
+  [Copyright: 1987 88,89,90,91,92,93,94,96,97,98,2004,2006]
+lib/compat/getopt_int.h: GNU General Public License v3.0 or later
+  [Copyright: 1989-1994, 1996-1999, 2001, 2003-2004 Free Software Foundation, Inc.]
+lib/examples/Makefile.am: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/examples/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+lib/examples/infoformatter-main.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/examples/infoformatter.h: UNKNOWN
+  [Copyright: 2009 Copyright: See COPYING file that comes with this distribution]
+lib/examples/source-highlight-console-main.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/examples/styleformatter-main.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/examples/styleformatter.h: UNKNOWN
+  [Copyright: 2009 Copyright: See COPYING file that comes with this distribution]
+lib/examples/styleformatterfactory.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/Makefile.am: UNKNOWN
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+lib/srchilite/bufferedoutput.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/bufferedoutput.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/chartranslator.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/chartranslator.h: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/colormap.h: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/ctagscollector.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/ctagscollector.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2009]
+lib/srchilite/ctagsformatter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/ctagsformatter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/ctagsmanager.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/ctagsmanager.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/debuglistener.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/debuglistener.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/delimitedlangelem.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/delimitedlangelem.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2009]
+lib/srchilite/docgenerator.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2011 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/docgenerator.h: GNU General Public License v3.0 or later
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/doctemplate.cpp: UNKNOWN
+  [Copyright: 2005-2007 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/doctemplate.h: UNKNOWN
+  [Copyright: 2005-2007 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/eventgenerator.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/fileinfo.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005]
+lib/srchilite/fileinfo.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005]
+lib/srchilite/fileutil.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 2000-2008 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/fileutil.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/formatter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/formatter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/formatterfactory.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/formattermanager.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/formattermanager.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/formatterparams.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightbuilderexception.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightbuilderexception.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightevent.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlighteventlistener.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightrule.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightrule.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightrulefactory.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstate.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstate.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstatebuilder.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstatebuilder.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstatebuilder.hpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstateprinter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlightstateprinter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlighttoken.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/highlighttoken.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/instances.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/instances.h: UNKNOWN
+  [Copyright: 2009 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/ioexception.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/ioexception.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/langdefmanager.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/langdefmanager.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/langdefparser.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it> / 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/langdefparser.h: GNU General Public License v3.0 or later
+  [Copyright: 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/langdefparser.yy: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/langdefparserfun.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/langdefscanner.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/langdefscanner.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/langdefscanner.ll: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2009 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/langelem.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/langelem.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 1999-2009]
+lib/srchilite/langelems.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/langelems.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 1999-2009]
+lib/srchilite/langelemsprinter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/langelemsprinter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/langelemsprinter.hpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/langmap.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/langmap.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/languageinfer.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/languageinfer.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/linebuffer.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005]
+lib/srchilite/linenumgenerator.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/linenumgenerator.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/lineranges.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/lineranges.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/matchingparameters.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/namedsubexpslangelem.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2007]
+lib/srchilite/namedsubexpslangelem.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2007-2009]
+lib/srchilite/outlangdefparser.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it> / 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/outlangdefparser.h: GNU General Public License v3.0 or later
+  [Copyright: 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/outlangdefparser.yy: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/outlangdefparserfun.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/outlangdefscanner.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2005 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/outlangdefscanner.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/outlangdefscanner.ll: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2005 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/parserexception.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/parserexception.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/parserinfo.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005-2008]
+lib/srchilite/parsestruct.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/parsestyles.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2007]
+lib/srchilite/preformatter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005]
+lib/srchilite/preformatter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005]
+lib/srchilite/readtags.c: UNKNOWN
+  [Copyright: 1996-2003 Darren Hiebert]
+lib/srchilite/readtags.h: UNKNOWN
+  [Copyright: 1996-2003 Darren Hiebert]
+lib/srchilite/regexhighlightrule.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/regexhighlightrule.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/regexpreprocessor.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 1999-2007]
+lib/srchilite/regexpreprocessor.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 1999-2007]
+lib/srchilite/regexranges.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/regexranges.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/regexrulefactory.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/regexrulefactory.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/settings.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/settings.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/sourcefilehighlighter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2008]
+lib/srchilite/sourcefilehighlighter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2008]
+lib/srchilite/sourcehighlight.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/sourcehighlight.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/sourcehighlighter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/sourcehighlighter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/sourcehighlightutils.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/sourcehighlightutils.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/srcuntabifier.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/srcuntabifier.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/statelangelem.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/statelangelem.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/statestartlangelem.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/statestartlangelem.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/stopwatch.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/stopwatch.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/stringdef.cpp: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/stringdef.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/stringlistlangelem.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/stringlistlangelem.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2009]
+lib/srchilite/stringtable.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/stringtable.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/stylecssparser.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it> / 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/stylecssparser.h: GNU General Public License v3.0 or later
+  [Copyright: 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/stylecssparser.yy: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/stylecssscanner.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/stylecssscanner.ll: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/stylefileparser.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/stylefileparser.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/stylekey.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2007]
+lib/srchilite/styleparser.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it> / 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/styleparser.h: GNU General Public License v3.0 or later
+  [Copyright: 1984, 1989-1990, 2000-2011 Free Software Foundation, Inc.]
+lib/srchilite/styleparser.yy: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/srchilite/stylescanner.cc: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/stylescanner.ll: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 1999-2007 Lorenzo Bettini, http://www.lorenzobettini.it]
+lib/srchilite/substfun.cpp: UNKNOWN
+  [Copyright: 2005 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/substfun.h: UNKNOWN
+  [Copyright: 2005 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/textstyle.cpp: UNKNOWN
+  [Copyright: 2005 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/textstyle.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005-2009]
+lib/srchilite/textstylebuilder.cpp: UNKNOWN
+  [Copyright: 2005 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/textstylebuilder.h: UNKNOWN
+  [Copyright: 2005 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/textstyleformatter.cpp: UNKNOWN
+  [Copyright: 2005-2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/textstyleformatter.h: UNKNOWN
+  [Copyright: 2005-2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/textstyleformatterfactory.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/textstyleformatterfactory.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/textstyles.h: UNKNOWN
+  [Copyright: 2005-2009 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/tostringcollection.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/utils.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/utils.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2006]
+lib/srchilite/vardefinitions.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/vardefinitions.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004]
+lib/srchilite/verbosity.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/verbosity.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/versions.cpp: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/versions.h: UNKNOWN
+  [Copyright: 2008 Copyright: See COPYING file that comes with this distribution]
+lib/srchilite/wordtokenizer.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/srchilite/wordtokenizer.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/tests/Makefile.am: UNKNOWN
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it>]
+lib/tests/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]
+lib/tests/asserttestexit.h: UNKNOWN
+  [Copyright: 2005-2008 Copyright: See COPYING file that comes with this distribution]
+lib/tests/logformatter.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/tests/logformatter.h: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/tests/test_exception_main.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/tests/test_highlightbuilder_main.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2004-2008]
+lib/tests/test_outlangparser_main.cpp: UNKNOWN
+  [Copyright: See COPYING file that comes with this distribution / 2005]
+lib/tests/test_regexpreprocessor_main.cpp: GNU General Public License v3.0 or later [obsolete FSF postal address (Mass Ave)]
+  [Copyright: 2007 Lorenzo Bettini <http://www.lorenzobettini.it>]
+tests/output_dir/Makefile.am: UNKNOWN
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it>]
+tests/output_dir/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1999-2008 Lorenzo Bettini <http://www.lorenzobettini.it> / 1994-2017 Free Software Foundation, Inc.]

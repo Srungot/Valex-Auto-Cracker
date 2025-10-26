@@ -1,0 +1,666 @@
+COPYING.LESSER: GNU Lesser General Public License, Version 3
+  [Copyright: 2007 Free Software Foundation, Inc. <http://fsf.org/>]
+INSTALL: FSF All Permissive License
+  [Copyright: 1994-1996, 1999-2002, 2004-2016 Free Software]
+Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2010-2014, 2020 INRIA]
+Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+Makefile.vc: GNU Lesser General Public License v2.1 or later
+  [Copyright: INRIA - CNRS, 2002, 2004, 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2016, 2017, 2018, 2020]
+NEWS: FSF All Permissive License
+  [Copyright: 2008-2014 INRIA]
+README: FSF All Permissive License
+  [Copyright: INRIA 2003, 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2018, 2020]
+aclocal.m4: FSF Unlimited License (with License Retention) [generated file]
+  [Copyright: 2011-2020 Free Software Foundation, Inc. / 2009-2020 Free Software Foundation, Inc. / 2006-2020 Free Software Foundation, Inc. / 2004-2020 Free Software Foundation, Inc. / 2003-2020 Free Software Foundation, Inc. / 2002-2020 Free Software Foundation, Inc. / 2001-2020 Free Software Foundation, Inc. / 1999-2020 Free Software Foundation, Inc. / 1997-2020 Free Software Foundation, Inc. / 1996-2020 Free Software Foundation, Inc.]
+configure: FSF Unlimited License GNU General Public License, Version 2 [generated file]
+  [Copyright: 2014 Free Software Foundation, Inc. / 2012 Free Software Foundation, Inc. / 1992-1996, 1998-2012 Free Software Foundation, Inc.]
+configure.ac: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012, 2014, 2016-2018, 2020 INRIA]
+build-aux/ar-lib: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2010-2020 Free Software Foundation, Inc.]
+build-aux/compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2020 Free Software Foundation, Inc.]
+build-aux/config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2020 Free Software Foundation, Inc. / 1992-2020 Free Software Foundation, Inc.]
+build-aux/config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2020 Free Software Foundation, Inc. / 1992-2020 Free Software Foundation, Inc.]
+build-aux/depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2020 Free Software Foundation, Inc.]
+build-aux/install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+build-aux/ltmain.sh: GNU General Public License v3.0 or later GNU General Public License v2.0 or later
+  [Copyright: 2010-2015 Free Software Foundation, Inc. / 2004-2015 Free Software Foundation, Inc. / 1996-2015 Free Software Foundation, Inc.]
+build-aux/mdate-sh: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1995-2020 Free Software Foundation, Inc.]
+build-aux/missing: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1996-2020 Free Software Foundation, Inc.]
+build-aux/test-driver: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2011-2020 Free Software Foundation, Inc.]
+build-aux/texinfo.tex: GNU General Public License v3.0 or later
+  [Copyright: {copyright}% / definedummywordregisteredsymbol / before the first topic whose initial is c / 1985-1986, 1988, 1990-2019 Free Software Foundation, Inc.]
+doc/Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008 INRIA]
+doc/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+doc/fdl-1.3.texi: GNU Free Documentation License v1.3 or later
+  [Copyright: resulting from the compilation is not used to limit the legal rights / @var{year} @var{your name}. / @copyright{} 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.]
+doc/mdate-sh: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1995-2014 Free Software Foundation, Inc.]
+doc/mpc.info: GNU Lesser General Public License v3.0 or later GNU Free Documentation License v1.3 or later
+  [Copyright: resulting from the compilation is not used to limit the / 2002-2013, 2016, 2018, 2020 INRIA / 2000-2002, 2007-2008 Free Software Foundation, Inc.]
+doc/mpc.texi: GNU Lesser General Public License v3.0 or later GNU Free Documentation License v1.3 or later
+  [Copyright: @copyright{} 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2016, 2018, 2020 INRIA]
+doc/texinfo.tex: GNU General Public License v3.0 or later
+  [Copyright: {copyright}% / definedummywordregisteredsymbol / before the first topic whose initial is c / 1985-1986, 1988, 1990-2013 Free Software Foundation, Inc.]
+m4/ax_c_check_flag.m4: GNU General Public License v2.0 or later
+  [Copyright: 2008 Francesco Salvestrini <salvestrini@users.sourceforge.net>]
+m4/ax_gcc_option.m4: GNU General Public License v2.0 or later
+  [Copyright: 2008 Francesco Salvestrini <salvestrini@users.sourceforge.net> / 2008 Bogdan Drozdowski <bogdandr@op.pl>]
+m4/ax_gcc_version.m4: GNU General Public License v2.0 or later
+  [Copyright: 2009 Francesco Salvestrini <salvestrini@users.sourceforge.net>]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License, Version 2
+  [Copyright: 2014 Free Software Foundation, Inc. / 2011 Free Software Foundation, Inc. / 1996-2001, 2003-2015 Free Software Foundation, Inc.]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2015 Free Software]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2015 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2015 Free Software Foundation, Inc.]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2015 Free Software]
+m4/mpc.m4: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012, 2014, 2018 INRIA]
+m4/valgrind-tests.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2008-2014 Free Software Foundation, Inc.]
+src/Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012, 2016, 2018, 2020 INRIA]
+src/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+src/abs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/acos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2012, 2020 INRIA]
+src/acosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2012 INRIA]
+src/add.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/add_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/add_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011 INRIA]
+src/add_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/arg.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/asin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2014, 2020 INRIA]
+src/asinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2012 INRIA]
+src/atan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2013, 2017, 2020 INRIA]
+src/atanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2012 INRIA]
+src/clear.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/cmp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009-2011 INRIA]
+src/cmp_abs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016 INRIA]
+src/cmp_si_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005, 2009, 2011 INRIA]
+src/conj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/cos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2011 INRIA]
+src/cosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: [0]; / [0]; / 2002-2005, 2008-2012, 2020 INRIA]
+src/div_2si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012 INRIA]
+src/div_2ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011-2012 INRIA]
+src/div_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2008-2012 INRIA]
+src/div_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/dot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018, 2020 INRIA]
+src/exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009-2012, 2020 INRIA]
+src/fma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2012 INRIA]
+src/fr_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011-2012 INRIA]
+src/fr_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: MPC_RND_RE (rnd)); / MPC_RND_IM (rnd)); / 2008-2009, 2011-2012 INRIA]
+src/get_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007, 2009-2010 INRIA]
+src/get_prec2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007, 2009-2010 INRIA]
+src/get_version.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012, 2017-2018, 2020 INRIA]
+src/get_x.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2011, 2020 INRIA]
+src/imag.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/init2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/init3.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/inp_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2011 INRIA]
+src/log.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012 INRIA]
+src/log10.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012, 2020 INRIA]
+src/logging.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011 INRIA]
+src/mem.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009 INRIA]
+src/mpc-impl.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2004-2005, 2008-2012, 2020 INRIA]
+src/mpc-log.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011 INRIA]
+src/mpc.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2005, 2007-2012, 2016-2018, 2020 INRIA]
+src/mul.c: UNKNOWN
+  [Copyright: 2002, 2004-2005, 2008-2012, 2016, 2020 INRIA]
+src/mul_2si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012 INRIA]
+src/mul_2ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011-2012 INRIA]
+src/mul_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2008-2012 INRIA]
+src/mul_i.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005, 2009-2012 INRIA]
+src/mul_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005, 2009, 2011 INRIA]
+src/mul_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/neg.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/norm.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2005, 2008-2012 INRIA]
+src/out_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011 INRIA]
+src/pow.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2012, 2014-2016, 2018, 2020 INRIA]
+src/pow_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009 INRIA]
+src/pow_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2012 INRIA]
+src/pow_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009 INRIA]
+src/pow_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2010 INRIA]
+src/pow_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2012 INRIA]
+src/pow_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2010 INRIA]
+src/proj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/real.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/rootofunity.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012, 2016 INRIA]
+src/set.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/set_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/set_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2011 INRIA]
+src/set_x.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2011 INRIA]
+src/set_x_x.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011 INRIA]
+src/sin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2011 INRIA]
+src/sin_cos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2012, 2020 INRIA / *MPFR_SIGN (mpc_imagref (op_loc)));]
+src/sinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011-2012 INRIA]
+src/sqr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2005, 2008-2012 INRIA]
+src/sqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2008-2012, 2020 INRIA]
+src/strtoc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2012 INRIA]
+src/sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/sub_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+src/sub_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009, 2011 INRIA]
+src/sum.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018 INRIA]
+src/swap.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011 INRIA]
+src/tan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2013, 2015, 2020 INRIA]
+src/tanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011-2012 INRIA]
+src/uceil_log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2009-2010 INRIA]
+src/ui_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2009 INRIA]
+src/ui_ui_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011 INRIA]
+src/urandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+tests/Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2013, 2016, 2020 INRIA]
+tests/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+tests/abs.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/abs.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/acos.dat: GNU Lesser General Public License, Version 3
+  [Copyright: INRIA]
+tests/acos.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/acosh.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009 INRIA]
+tests/acosh.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/add.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/add.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/add_fr.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2012 INRIA]
+tests/add_fr.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/add_si.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/add_ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/arg.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/arg.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/asin.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009, 2011, 2013-2014 INRIA]
+tests/asin.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/asinh.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009 INRIA]
+tests/asinh.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/atan.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009, 2012-2013, 2017 INRIA]
+tests/atan.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/atanh.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009, 2013 INRIA]
+tests/atanh.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/check_data.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2014 INRIA]
+tests/clear_parameters.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2014 INRIA]
+tests/close_datafile.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/cmp_abs.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2016 INRIA]
+tests/cmp_abs.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2016 INRIA]
+tests/comparisons.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011 INRIA]
+tests/conj.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2012 INRIA]
+tests/conj.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2013 INRIA]
+tests/copy_parameter.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2014 INRIA]
+tests/cos.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010 INRIA]
+tests/cos.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/cosh.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010 INRIA]
+tests/cosh.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/data_check.tpl: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/div.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008-2012 INRIA]
+tests/div.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/div_2si.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/div_2ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/div_fr.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/div_fr.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/div_ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/double_rounding.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013-2014 INRIA]
+tests/exceptions.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2015 INRIA]
+tests/exp.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010, 2016 INRIA]
+tests/exp.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/fma.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010, 2012 INRIA]
+tests/fma.dsc: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012 INRIA]
+tests/fr_div.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008-2009 INRIA]
+tests/fr_div.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/fr_sub.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2012 INRIA]
+tests/fr_sub.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/imag.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/init_parameters.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012, 2014 INRIA]
+tests/inp_str.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009 INRIA]
+tests/log.dat: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2010, 2012 INRIA]
+tests/log.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/log10.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2012 INRIA]
+tests/log10.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/mpc-tests.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2014, 2020 INRIA]
+tests/mpfr_flags.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013 INRIA]
+tests/mul.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/mul.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2012 INRIA]
+tests/mul_2si.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/mul_2ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/mul_fr.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/mul_fr.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/mul_i.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/mul_si.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/mul_ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/neg.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/neg.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/norm.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2011 INRIA]
+tests/norm.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/open_datafile.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/pow.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009, 2011-2012 INRIA]
+tests/pow.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2012 INRIA]
+tests/pow_d.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/pow_fr.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2011 INRIA]
+tests/pow_fr.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2012 INRIA]
+tests/pow_si.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2011 INRIA]
+tests/pow_si.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/pow_ui.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2010-2012 INRIA]
+tests/pow_ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/pow_z.dat: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012 INRIA]
+tests/pow_z.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2012 INRIA]
+tests/print_parameter.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2014 INRIA]
+tests/proj.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/proj.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/random.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012 INRIA]
+tests/read_data.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2012 INRIA]
+tests/read_description.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2014 INRIA]
+tests/read_line.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2014 INRIA]
+tests/real.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/rootofunity.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010, 2016 INRIA]
+tests/rootofunity.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2016 INRIA]
+tests/rounding.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013-2014 INRIA]
+tests/setprec_parameters.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013 INRIA]
+tests/sin.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010 INRIA]
+tests/sin.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/sin_cos.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013-2014 INRIA]
+tests/sinh.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010 INRIA]
+tests/sinh.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/sqr.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010, 2012 INRIA]
+tests/sqr.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/sqrt.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010 INRIA]
+tests/sqrt.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/strtoc.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2009 INRIA]
+tests/sub.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/sub.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2011, 2013 INRIA]
+tests/sub_fr.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/sub_fr.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2012 INRIA]
+tests/sub_ui.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/tabs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tacos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2013 INRIA]
+tests/tacosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2013 INRIA]
+tests/tadd.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2010-2013 INRIA]
+tests/tadd_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2010, 2012-2013 INRIA]
+tests/tadd_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2013 INRIA]
+tests/tadd_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2010, 2012-2013 INRIA]
+tests/tan.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008, 2010-2011 INRIA]
+tests/tan.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/tanh.dat: GNU Lesser General Public License, Version 3
+  [Copyright: 2008 INRIA]
+tests/tanh.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/targ.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tasin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2013 INRIA]
+tests/tasinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2013 INRIA]
+tests/tatan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2012-2013 INRIA]
+tests/tatanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2013 INRIA]
+tests/tcmp_abs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016 INRIA]
+tests/tconj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tcos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2011-2013 INRIA]
+tests/tcosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2013 INRIA]
+tests/tdiv.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2008-2009, 2011, 2013, 2020 INRIA]
+tests/tdiv_2si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tdiv_2ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2012-2013 INRIA]
+tests/tdiv_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tdiv_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tdot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018, 2020 INRIA]
+tests/texp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2008, 2013 INRIA]
+tests/tfma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2013 INRIA]
+tests/tfr_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tfr_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tgeneric.tpl: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2014 INRIA]
+tests/tget_version.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2005, 2007-2011 INRIA]
+tests/timag.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tio_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011, 2013-2014 INRIA]
+tests/tlog.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2009, 2013 INRIA]
+tests/tlog10.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tmul.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2005, 2008-2014, 2020 INRIA]
+tests/tmul_2si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tmul_2ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2012-2013 INRIA]
+tests/tmul_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tmul_i.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2013 INRIA]
+tests/tmul_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2005, 2008, 2013 INRIA]
+tests/tmul_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2005, 2008, 2013 INRIA]
+tests/tneg.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tnorm.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2011-2013 INRIA]
+tests/tpl_gmp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tpl_mpc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tpl_mpfr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tpl_native.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2013 INRIA]
+tests/tpow.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2013 INRIA]
+tests/tpow_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2013 INRIA]
+tests/tpow_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2013 INRIA]
+tests/tpow_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2014 INRIA]
+tests/tpow_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2012 INRIA]
+tests/tpow_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2010, 2012-2013 INRIA]
+tests/tpow_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011-2013 INRIA]
+tests/tprec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011 INRIA]
+tests/tproj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/treal.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/treimref.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2012 INRIA]
+tests/trootofunity.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012, 2016 INRIA]
+tests/tset.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: cimag (c)); / 2009-2012 INRIA]
+tests/tsin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2008, 2010, 2013 INRIA]
+tests/tsin_cos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011, 2013-2014 INRIA]
+tests/tsinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tsqr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2005, 2008, 2010-2013 INRIA]
+tests/tsqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013, 2020 INRIA]
+tests/tstrtoc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009, 2011 INRIA]
+tests/tsub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2011, 2013 INRIA]
+tests/tsub_fr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tsub_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tsum.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018 INRIA]
+tests/tswap.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011 INRIA]
+tests/ttan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2011-2013, 2020 INRIA]
+tests/ttanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/tui_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2011-2013 INRIA]
+tests/tui_ui_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008, 2013 INRIA]
+tests/ui_div.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tests/ui_ui_sub.dsc: GNU Lesser General Public License, Version 3
+  [Copyright: 2013 INRIA]
+tools/Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020 INRIA / 2014 CNRS]
+tools/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+tools/bench/Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014 CNRS]
+tools/bench/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+tools/bench/benchtime.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014 INRIA - CNRS]
+tools/bench/mpcbench.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014 CNRS - INRIA]
+tools/mpcheck/Makefile.am: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020 INRIA / 2014 CNRS]
+tools/mpcheck/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2020 Free Software Foundation, Inc.]
+tools/mpcheck/mpcheck-double.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020 INRIA]
+tools/mpcheck/mpcheck-float.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020 INRIA]
+tools/mpcheck/mpcheck-float128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020 INRIA]
+tools/mpcheck/mpcheck-longdouble.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020 INRIA]

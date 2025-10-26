@@ -1,0 +1,490 @@
+CMakeLists.txt: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+LICENSE: *No copyright* Apache License 2.0
+LICENSES/Apache-2.0.txt: *No copyright* Apache License 2.0
+samples/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+build/CMakeFiles/CMakeConfigureLog.yaml: UNKNOWN
+  [Copyright: Microsoft Corporation. / Microsoft Corporation.]
+build/CMakeFiles/cmake.check_cache: *No copyright* UNKNOWN [generated file]
+external/OpenCL-CLHPP/LICENSE.txt: *No copyright* Apache License 2.0
+external/OpenCL-Headers/LICENSE: *No copyright* Apache License 2.0
+external/OpenCL-ICD-Loader/LICENSE: *No copyright* Apache License 2.0
+samples/core/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/extensions/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+build/_deps/clinfo-src/legalcode.txt: *No copyright* Creative Commons CC0 1.0
+build/_deps/whereami-external-src/LICENSE.MIT: MIT License
+  [Copyright: Gregory Pakosz]
+build/_deps/whereami-external-src/LICENSE.WTFPLv2: Do What The Fuck You Want To Public License, Version 2
+  [Copyright: 2004 Sam Hocevar <sam@hocevar.net>]
+external/OpenCL-CLHPP/cmake/JoinPaths.cmake: UNKNOWN
+  [Copyright: 2020 Jan Tojnar]
+external/OpenCL-CLHPP/tests/test_versions.cpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl.h: Apache License 2.0
+  [Copyright: 2008-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_d3d10.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_d3d11.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_dx9_media_sharing.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_dx9_media_sharing_intel.h: Apache License 2.0
+  [Copyright: 2008-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_egl.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_ext.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_ext_intel.h: Apache License 2.0
+  [Copyright: 2008-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_function_types.h: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_gl.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_gl_ext.h: Apache License 2.0
+  [Copyright: 2008-2021 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_half.h: Apache License 2.0
+  [Copyright: 2019-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_icd.h: Apache License 2.0
+  [Copyright: 2019-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_layer.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_platform.h: Apache License 2.0
+  [Copyright: 2008-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_va_api_media_sharing_intel.h: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/cl_version.h: Apache License 2.0
+  [Copyright: 2018-2020 The Khronos Group Inc.]
+external/OpenCL-Headers/CL/opencl.h: Apache License 2.0
+  [Copyright: 2008-2021 The Khronos Group Inc.]
+external/OpenCL-Headers/cmake/JoinPaths.cmake: UNKNOWN
+  [Copyright: 2020 Jan Tojnar]
+external/OpenCL-Headers/scripts/cl_ext.h.mako: Apache License 2.0
+  [Copyright: 2008-2023 The Khronos Group Inc.]
+external/OpenCL-Headers/scripts/cl_function_types.h.mako: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+external/OpenCL-Headers/scripts/gen_headers.py: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_d3d10.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_d3d11.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_dx9_media_sharing.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_dx9_media_sharing_intel.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_egl.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_ext.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_ext_intel.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_gl.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_gl_ext.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_half.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_icd.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_layer.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_platform.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_cl_version.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_ext_headers.c: Apache License 2.0
+  [Copyright: 2024 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_headers.c: Apache License 2.0
+  [Copyright: 2020-2022 The Khronos Group Inc.]
+external/OpenCL-Headers/tests/test_opencl.h.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/cmake/JoinPaths.cmake: UNKNOWN
+  [Copyright: 2020 Jan Tojnar]
+external/OpenCL-ICD-Loader/include/cl_khr_icd2.h: Apache License 2.0
+  [Copyright: 2016-2025 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/cllayerinfo.c: Apache License 2.0
+  [Copyright: 2022 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd.c: Apache License 2.0
+  [Copyright: 2016-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd.h: Apache License 2.0
+  [Copyright: 2016-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd_dispatch.c: Apache License 2.0
+  [Copyright: 2012-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd_dispatch.h: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd_dispatch_generated.c: Apache License 2.0
+  [Copyright: 2012-2023 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd_envvars.h: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd_platform.h: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/icd_version.h: Apache License 2.0
+  [Copyright: 2016-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/scripts/gen_loader.py: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/scripts/gen_print_layer.py: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/scripts/icd_dispatch_generated.c.mako: Apache License 2.0
+  [Copyright: 2012-2023 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/scripts/icd_print_layer_generated.c.mako: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+lib/src/Extensions/CMakeLists.txt: MIT License
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/LICENSE-APACHE: *No copyright* Apache License 2.0
+lib/src/Extensions/LICENSE-MIT: MIT License
+  [Copyright: 2021-2025 Ben Ashbaugh]
+samples/core/binaries/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/binaries/Collatz.cl: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/binaries/main.c: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/binaries/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/core/blur/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/blur/blur.cpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/blur/main.c: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/blur/main.cpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/callback/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/callback/main.c: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/callback/main.cpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/copybuffer/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/copybuffer/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/core/copybufferkernel/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/copybufferkernel/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/core/enumopencl/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/enumopencl/main.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/core/enumopencl/main.cpp: Apache License 2.0
+  [Copyright: 2020-2023 The Khronos Group Inc.]
+samples/core/multi-device/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/multi-device/convolution.cl: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/multi-device/main.c: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/multi-device/main.cpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/core/reduce/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/reduce/main.c: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/reduce/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/core/reduce/reduce.cl: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/core/saxpy/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/saxpy/main.c: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/core/saxpy/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/extensions/khr/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+build/_deps/clinfo-subbuild/CMakeFiles/cmake.check_cache: *No copyright* UNKNOWN [generated file]
+build/_deps/whereami-external-src/src/whereami.c: *No copyright* Do What The Fuck You Want To Public License, Version 2
+build/_deps/whereami-external-src/src/whereami.h: *No copyright* Do What The Fuck You Want To Public License, Version 2
+build/_deps/whereami-external-subbuild/CMakeFiles/cmake.check_cache: *No copyright* UNKNOWN [generated file]
+external/OpenCL-CLHPP/external/CMock/LICENSE.txt: MIT License
+  [Copyright: 2007 -14 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/include/CL/cl2.hpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-CLHPP/include/CL/opencl.hpp: Apache License 2.0
+  [Copyright: 2008-2024 The Khronos Group Inc.]
+external/OpenCL-Headers/scripts/gen/__init__.py: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/linux/icd_exports.map: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/linux/icd_linux.c: Apache License 2.0
+  [Copyright: 2016-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/linux/icd_linux_envvars.c: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/OpenCL-mingw-i686.def: Apache License 2.0
+  [Copyright: 2022 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/OpenCL.def: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/OpenCL.rc: Apache License 2.0
+  [Copyright: 251 The Khronos Group Inc 2016-2023" / 2016-2023 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/adapter.h: Apache License 2.0
+  [Copyright: 2019 Valve Corporation / 2019 The Khronos Group Inc. / 2019 LunarG, Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows.c: Apache License 2.0
+  [Copyright: 2016-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows.h: Apache License 2.0
+  [Copyright: 2017-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_apppackage.c: Apache License 2.0
+  [Copyright: 2017-2022 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_apppackage.h: Apache License 2.0
+  [Copyright: 2017-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_dxgk.c: Apache License 2.0
+  [Copyright: 2017-2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_dxgk.h: Apache License 2.0
+  [Copyright: 2017-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_envvars.c: Apache License 2.0
+  [Copyright: 2016-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_hkr.c: Apache License 2.0
+  [Copyright: 2017-2022 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/loader/windows/icd_windows_hkr.h: Apache License 2.0
+  [Copyright: 2017-2019 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/scripts/gen/__init__.py: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/test/layer/icd_print_layer.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/test/layer/icd_print_layer.h: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-ICD-Loader/test/layer/icd_print_layer_generated.c: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+lib/include/CL/SDK/Random.h: Apache License 2.0
+  [Copyright: 2014 Melissa O'Neill <oneill@pcg-random.org> / 2014 M.E. O'Neill / pcg-random.org]
+lib/src/Extensions/scripts/call_all.c.mako: MIT License [generated file]
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/scripts/gen_openclext.py: MIT License
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/scripts/openclext.cpp.mako: MIT License [generated file]
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/src/openclext.cpp: MIT License [generated file]
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/tests/call_all.c: MIT License [generated file]
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/tests/dx_sharing_prototypes.h: MIT License
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/tests/loader_info_prototypes.h: MIT License
+  [Copyright: 2023-2025 Ben Ashbaugh]
+lib/src/Extensions/tests/test_extension_loader.c: MIT License
+  [Copyright: 2021-2025 Ben Ashbaugh]
+lib/src/Extensions/tests/test_extension_loader.cpp: MIT License
+  [Copyright: 2021-2025 Ben Ashbaugh]
+samples/extensions/khr/conway/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/extensions/khr/conway/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/extensions/khr/externalmemory/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/extensions/khr/externalmemory/main.c: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/extensions/khr/externalmemory/main.cpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/extensions/khr/externalmemory/vulkan_utils.h: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/extensions/khr/externalmemory/vulkan_utils.hpp: Apache License 2.0
+  [Copyright: 2023 The Khronos Group Inc.]
+samples/extensions/khr/histogram/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/extensions/khr/histogram/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+samples/extensions/khr/nbody/CMakeLists.txt: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+samples/extensions/khr/nbody/main.cpp: Apache License 2.0
+  [Copyright: 2020 The Khronos Group Inc.]
+external/OpenCL-CLHPP/external/CMock/config/production_environment.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/config/test_environment.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_config.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_file_writer.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_array.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_callback.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_cexception.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_expect.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_expect_any_args.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_ignore.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_plugin_ignore_stateless.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_generator_utils.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_header_parser.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_plugin_manager.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/lib/cmock_unityhelper_parser.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/src/cmock.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/src/cmock.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/src/cmock_internals.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/src/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/test/rakefile: MIT License
+  [Copyright: 2007-2014 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/rakefile_helper.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/test_helper.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+lib/src/Extensions/scripts/gen/__init__.py: Apache License 2.0
+  [Copyright: 2021 The Khronos Group Inc.]
+external/OpenCL-CLHPP/external/CMock/test/c/TestCMockC.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/c/TestCMockCDynamic.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/c/TestCMockCDynamic_Runner.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/c/TestCMockC_Runner.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/system/systest_generator.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_config_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_file_writer_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_main_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_array_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_callback_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_cexception_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_expect_a_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_expect_any_args_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_expect_b_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_ignore_arg_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_ignore_stateless_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_ignore_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_plugin_return_thru_ptr_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_generator_utils_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_header_parser_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_plugin_manager_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/unit/cmock_unityhelper_parser_test.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/c_exception/README.md: MIT License
+  [Copyright: 2007-2019 Mark VanderVoord*]
+external/OpenCL-CLHPP/external/CMock/vendor/c_exception/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/CMakeLists.txt: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/LICENSE.txt: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/README.md: UNKNOWN
+  [Copyright: 2007-2021 Unity Project by Mike Karlesky, Mark VanderVoord, and Greg Williams__]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/test/system/test_compilation/callingconv.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/system/test_compilation/const.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/system/test_compilation/osek.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/system/test_compilation/parsing.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/c_exception/docs/CException.md: MIT License
+  [Copyright: 2007-2020 Mark VanderVoord]
+external/OpenCL-CLHPP/external/CMock/vendor/c_exception/lib/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/colour_prompt.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/colour_reporter.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/generate_module.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/generate_test_runner.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/test_file_filter.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/unity_test_summary.py: MIT License
+  [Copyright: 2015 Alexander Mueller / XelaRellum@web.de]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/auto/unity_test_summary.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/src/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/src/unity.c: MIT License
+  [Copyright: 2007 -21 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/src/unity.h: MIT License
+  [Copyright: 2007 -21 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/src/unity_internals.h: MIT License
+  [Copyright: 2007 -21 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/rakefile: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/rakefile_helper.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/test/iar/iar_v5/srcIAR/Cstartup.s: UNKNOWN
+  [Copyright: 2006 Atmel Corporation]
+external/OpenCL-CLHPP/external/CMock/vendor/behaviors/lib/behaviors/reporttask.rb: MIT License
+  [Copyright: 2005 David Heinemeier Hansson]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/examples/example_1/makefile: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/examples/example_2/makefile: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/examples/example_4/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_generate_test_runner.rb: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_arrays.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_core.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_doubles.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_floats.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_integers.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_integers_64.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_memory.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_parameterized.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/test/tests/test_unity_strings.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/examples/example_4/src/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/examples/example_4/test/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/src/unity_fixture.c: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/src/unity_fixture.h: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/src/unity_fixture_internals.h: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/test/template_fixture_tests.c: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/test/unity_fixture_Test.c: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/test/unity_fixture_TestRunner.c: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/memory/src/unity_memory.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/memory/src/unity_memory.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/memory/test/unity_memory_Test.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/memory/test/unity_memory_TestRunner.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/memory/test/unity_output_Spy.c: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/memory/test/unity_output_Spy.h: MIT License
+  [Copyright: 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]
+external/OpenCL-CLHPP/external/CMock/vendor/unity/examples/example_4/test/test_runners/meson.build: *No copyright* MIT License
+external/OpenCL-CLHPP/external/CMock/vendor/unity/extras/fixture/test/main/AllTests.c: MIT License
+  [Copyright: 2010 James Grenning and Contributed to Unity Project / 2007 Mike Karlesky, Mark VanderVoord, Greg Williams]

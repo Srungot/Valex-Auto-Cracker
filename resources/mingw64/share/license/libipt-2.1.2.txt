@@ -1,0 +1,796 @@
+CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+CONTRIBUTING: BSD 3-Clause License
+  [Copyright: and I have not modified / 2004, 2006 The Linux Foundation and its contributors.]
+LICENSE: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+doc/getting_started.md: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+doc/howto_build.md: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+doc/howto_capture.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/howto_libipt.md: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+doc/howto_pttc.md: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+include/pt_compiler.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+include/pt_version.h: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+libipt/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pevent/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+ptdump/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptseg/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+pttc/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptxed/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+script/perf-copy-mapped-files.bash: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+script/perf-get-opts.bash: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+script/perf-read-aux.bash: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+script/perf-read-sideband.bash: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+script/test.bash: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+sideband/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_alloc_encoder.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_blk_alloc_decoder.3.md: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+doc/man/pt_blk_get_offset.3.md: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+doc/man/pt_blk_next.3.md: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+doc/man/pt_blk_sync_forward.3.md: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+doc/man/pt_config.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_enc_get_config.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_enc_get_offset.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_evt_alloc_decoder.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_evt_get_offset.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_evt_next.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_evt_sync_forward.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_image_add_file.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_image_alloc.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_image_remove_by_filename.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_image_set_callback.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_insn_alloc_decoder.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_insn_get_image.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_insn_get_offset.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_insn_next.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_insn_sync_forward.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_iscache_add_file.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_iscache_alloc.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_iscache_read.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_iscache_set_limit.3.md: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+doc/man/pt_library_version.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_packet.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_pkt_alloc_decoder.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_pkt_get_offset.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_pkt_sync_forward.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_qry_alloc_decoder.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_qry_cond_branch.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_qry_get_offset.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_qry_sync_forward.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+doc/man/pt_qry_time.3.md: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+include/posix/pt_threads.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+include/windows/inttypes.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+include/windows/pt_threads.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/include/intel-pt.h.in: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_asid.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/src/pt_block_cache.c: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/src/pt_block_decoder.c: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/src/pt_config.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_cpu.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_encoder.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/src/pt_error.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_event_decoder.c: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+libipt/src/pt_event_queue.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_ild.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_image.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_image_section_cache.c: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/src/pt_insn.c: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/src/pt_insn_decoder.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_last_ip.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_msec_cache.c: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+libipt/src/pt_packet.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_packet_decoder.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/src/pt_query_decoder.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/src/pt_retstack.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_section.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_section_file.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_sync.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_time.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/src/pt_tnt_cache.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/pt_version.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pevent/include/pevent.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+pevent/src/pevent.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+ptdump/src/ptdump.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptseg/src/ptseg.c: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+pttc/include/errcode.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/include/file.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/include/parse.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/include/pttc.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/include/util.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/include/yasm.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/errcode.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/file.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/main.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/parse.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/pttc.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/util.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/yasm.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/include/ptunit.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/include/ptunit_mkfile.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/include/ptunit_threads.h: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+ptunit/src/ptunit.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptxed/include/load_elf.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptxed/src/load_elf.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptxed/src/ptxed.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+sideband/include/libipt-sb.h.in: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/src/pt_sb_context.c: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/src/pt_sb_file.c: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/src/pt_sb_pevent.c: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/src/pt_sb_session.c: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/CMakeLists.txt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/apl11.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/apl12-psb.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/apl12-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/bad_cpu.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/bdm64-tip-xabort.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/bdm64-tnt-cond-xabort.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/bdm64-tnt-ind_call-xabort.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/bdm70-psb_fup-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/bdm70-tip_pgd-psb_fup-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/call_direct-ret_compressed-pic.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/call_direct-ret_compressed.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/call_direct-ret_uncompressed.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/call_indirect-ret_compressed.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/call_indirect-ret_uncompressed.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/call_indirect_deferred-ret_compressed.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/cbr-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/cbr-mtc-cyc-mtc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/cbr-tsc-cyc-tma.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/cbr-tsc-tma-mtc-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/direct_call-tip_pgd_noip-syscall.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/direct_jump-tip_pgd_noip-far_call.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/dump-all-packets.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/exstop_ip-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/fup-pip-vmcs-tip.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/fup-pip-vmcs-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/fup-tip-eos.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/fup-tip-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/fup-tip.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/fup-tip_pgd-stop.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/fup-tip_pgd-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/fup-tip_pgd-tip_pge_other_ip.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/fup-tip_pgd_noip.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/int-iret-cpl_0.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/int-iret-cpl_3.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/int-iret.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/linear-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/linear-tip.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/loop-tnt-64.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/loop-tnt-tnt.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/loop-tnt.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/mode_exec-tip.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/mtc-cyc_calibrate.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/mtc-ovf_keep-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/mtc-ovf_reset-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/mtc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/mwait-pwre-exstop_ip-fup-ovf.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/mwait-pwre-exstop_ip-ovf.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/mwait-pwre-exstop_ip-pwrx.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ovf-fup.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ovf-mnt-fup.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/ovf-mnt-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/ovf-pwre-pwrx-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ovf-timing-fup.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ovf-timing-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ovf-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ovf.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/pip-far_call.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/pip-pip_mov_cr3-fail.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/pip-vmcs-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/pip_mov_cr3-pip_mov_cr3.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/psb-empty.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-exstop.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/psb-fup-psbend.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-fup-tip_pgd-stop.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-mnt-fup-psbend.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/psb-mnt-psbend.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/psb-ovf-fup.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/psb-ovf-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/psb-pip-psb.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/psb-pip-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/psb-psb.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-stop.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-tnt-psb.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-tsx.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb-tsx_abort-tip-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/psb-tsx_abort-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/psb-tsx_abort.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/psb-vmcs.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/psb_nofup-psb.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/ptdump-bad_opc-resync.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/ptdump-exec-mode.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/ptdump-last-ip.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/ptdump-no-offset-raw.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptdump-no-offset.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptdump-trunc-resync.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/ptet-evd_cr2-cfe_iret.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-evd_cr2-evd_vmxq.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-evd_vmxq-cfe_intr.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-evd_vmxr-cfe_rsm.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-evd_vmxr-evd-cr2.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-init-sipi.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-int-iret-cpl_0.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptet-int-iret-cpl_3.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptet-int-iret.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptet-mode_exec-if.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptet-mode_exec-spurious.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptet-smi-rsm.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptet-uint-uiret.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-vmexit-vmentry-nonroot.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-vmexit-vmentry-root.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet-vmexit-vmentry.ptt: BSD 3-Clause License
+  [Copyright: 2023-2025 Intel Corporation]
+test/src/ptet.ptt: BSD 3-Clause License
+  [Copyright: 2022-2025 Intel Corporation]
+test/src/ptw-fup.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ptw.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ptxed-block-stat.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-block-stat_blocks.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-end_on_call-fup-tip.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/ptxed-end_on_call-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-end_on_call-ret_tip.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-end_on_call-ret_tnt.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-end_on_call-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-end_on_jump-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/ptxed-insn-stat.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-stat_insn.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/ptxed-tick.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/pwre-exstop_ip-pwrx.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/ret_near_far.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/skd007.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/skd010-mode_tsx-fup.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/skd010-psb.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/skd010-tip.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/skd010-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/skd022.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/skl014-call.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/skl014-jmp-jmp.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/skl014-jmp.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/skl014-no_filter.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/src/skl168-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/skl168-mtc.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/src/skz84.ptt: BSD 3-Clause License
+  [Copyright: 2020-2025 Intel Corporation]
+test/src/syscall-sysret-cpl_0.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/syscall-sysret-cpl_3.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/syscall-sysret.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/sysenter-sysexit-cpl_0.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/sysenter-sysexit-cpl_3.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/sysenter-sysexit.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tip-eos.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tip_pgd-direct_call.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-direct_jump.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-exstop-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/tip_pgd-indirect_call.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-indirect_jump.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-mwait-pwre-exstop-pwrx-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/tip_pgd-pip-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tip_pgd-psb-stop.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-stop.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-tnt_not_taken.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-tnt_taken.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd-tsx.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tip_pgd_noip-far_jump.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pgd_noip-mov_cr3.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pge-exstop.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tip_pge-fup-tip_pgd-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pge-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tip_pge-ptw-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/tip_pge-ptw-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/tip_pge-pwre-pwrx-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tip_pge-tsx_abort-tip-fup-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tip_pge-tsx_abort-tip_pgd.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tma-reserved_ctc.ptt: BSD 3-Clause License
+  [Copyright: 2020-2025 Intel Corporation]
+test/src/tma-reserved_fc.ptt: BSD 3-Clause License
+  [Copyright: 2020-2025 Intel Corporation]
+test/src/tnt-tip_pgd_noip-sysret.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tnt_n-eos.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tnt_t-eos.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/truncated.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tsc-cbr-cyc-tsc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-cyc_calibrate.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-mtc-tma-mtc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-cyc-mtc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-mtc-cyc-mtc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-mtc-cyc-no_cyc.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/src/tsc-tma-cbr-mtc-cyc-tsc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-mtc-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-mtc-cyc_calibrate.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cbr-mtc-mtc-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-mtc-cyc_calibrate.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-mtc-mtc-cyc_calibrate.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-mtc-tsc.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-mtc_absolute.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-mtc_infreq.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tsc-tma-mtc_infreq_wrap.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tsc-tma-mtc_relative.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma-mtc_wrap.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsc-tma_zero_fc-cbr-cyc.ptt: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+test/src/tsc_tma_mtc_gap.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/tsx-abort.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tsx-commit.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+test/src/tsx-no_spurious_commit.ptt: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+test/src/vmcs-far_call.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+libipt/internal/include/pt_asid.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_block_cache.h: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/internal/include/pt_block_decoder.h: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/internal/include/pt_config.h: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+libipt/internal/include/pt_cpu.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_encoder.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_event_decoder.h: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+libipt/internal/include/pt_event_queue.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_ild.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_image.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_image_section_cache.h: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/internal/include/pt_insn.h: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/internal/include/pt_insn_decoder.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_last_ip.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_mapped_section.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_msec_cache.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+libipt/internal/include/pt_opcodes.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_packet.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_packet_decoder.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_query_decoder.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_retstack.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_section.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_section_file.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pt_sync.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_time.h: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/internal/include/pt_tnt_cache.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pti-disp.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pti-disp_default.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+libipt/internal/include/pti-imm.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pti-modrm.h: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/internal/include/pti-sib.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+libipt/src/posix/pt_section_posix.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/src/windows/pt_section_windows.c: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+libipt/test/src/ptunit-asid.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/test/src/ptunit-block_cache.c: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/test/src/ptunit-block_decoder.c: BSD 3-Clause License
+  [Copyright: 2019-2025 Intel Corporation]
+libipt/test/src/ptunit-config.c: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+libipt/test/src/ptunit-cpp.cpp: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-cpu.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-encoder.c: BSD 3-Clause License
+  [Copyright: 2019-2025 Intel Corporation]
+libipt/test/src/ptunit-event_queue.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/test/src/ptunit-ild.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-image.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-image_section_cache.c: BSD 3-Clause License
+  [Copyright: 2016-2025 Intel Corporation]
+libipt/test/src/ptunit-insn_decoder.c: BSD 3-Clause License
+  [Copyright: 2019-2025 Intel Corporation]
+libipt/test/src/ptunit-last_ip.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-mapped_section.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/test/src/ptunit-msec_cache.c: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+libipt/test/src/ptunit-packet.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/test/src/ptunit-packet_decoder.c: BSD 3-Clause License
+  [Copyright: 2019-2025 Intel Corporation]
+libipt/test/src/ptunit-query.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-retstack.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-section-file.c: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+libipt/test/src/ptunit-section.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+libipt/test/src/ptunit-sync.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/test/src/ptunit-time.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+libipt/test/src/ptunit-tnt_cache.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pevent/test/src/ptunit-pevent.c: BSD 3-Clause License
+  [Copyright: 2014-2025 Intel Corporation]
+pttc/src/posix/util.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/src/windows/util.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/test/src/test_all_directives.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/test/src/test_exp_labels.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+pttc/test/src/test_label_addr.ptt: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/src/posix/ptunit_mkfile.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/src/windows/ptunit_mkfile.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+ptunit/test/src/ptunit-selftest.c: BSD 3-Clause License
+  [Copyright: 2013-2025 Intel Corporation]
+sideband/internal/include/pt_sb_context.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/internal/include/pt_sb_decoder.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/internal/include/pt_sb_file.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/internal/include/pt_sb_pevent.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+sideband/internal/include/pt_sb_session.h: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/src/pevent-comm_exec-mmap-tsc-iret.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/pevent/src/pevent-dump.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/src/pevent-dump_verbose.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/src/pevent-fork.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/src/pevent-mmap-tip_cached.ptt: BSD 3-Clause License
+  [Copyright: 2018-2025 Intel Corporation]
+test/pevent/src/pevent-mmap_secondary-tsc.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/pevent/src/pevent-split.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/src/pevent-tip_pgd-comm_exec-mmap-tsc-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/pevent/src/pevent-tip_pgd-mmap-tsc-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/pevent/src/pevent-tip_pgd-switch-tsc-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+test/pevent/src/pevent-tip_pgd-switch_cpu_wide-tsc-tip_pge.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+test/pevent/src/pevent-warn.ptt: BSD 3-Clause License
+  [Copyright: 2017-2025 Intel Corporation]
+libipt/internal/include/posix/pt_section_posix.h: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]
+libipt/internal/include/windows/pt_section_windows.h: BSD 3-Clause License
+  [Copyright: 2015-2025 Intel Corporation]

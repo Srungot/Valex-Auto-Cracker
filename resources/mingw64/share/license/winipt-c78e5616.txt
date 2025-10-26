@@ -1,0 +1,6 @@
+LICENSE: BSD 2-Clause License
+  [Copyright: 2018 Alex Ionescu]
+README.md: BSD 2-Clause with views sentence
+  [Copyright: 2018 Alex Ionescu.]
+ipttool/ipttool.c: UNKNOWN
+  [Copyright: 2018 Alex Ionescu ===| ");]

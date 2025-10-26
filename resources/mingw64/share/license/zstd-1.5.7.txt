@@ -1,0 +1,704 @@
+CHANGELOG: UNKNOWN
+  [Copyright: Facebook]
+COPYING: GNU General Public License, Version 2
+  [Copyright: 1989, 1991 Free Software Foundation, Inc.,]
+LICENSE: BSD 3-Clause License
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+doc/zstd_compression_format.md: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/common.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/dictionary_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/dictionary_decompression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/multiple_simple_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/multiple_streaming_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/simple_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/simple_decompression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/streaming_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/streaming_compression_thread_pool.c: UNKNOWN
+  [Copyright: Martin Liska, SUSE, Meta Platforms, Inc. and affiliates.]
+examples/streaming_decompression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+examples/streaming_memory_usage.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/libzstd.mk: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/libzstd.pc.in: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/zdict.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/zstd.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/zstd_errors.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/benchfn.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/benchfn.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/benchzstd.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/benchzstd.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/datagen.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/datagen.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/dibio.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/dibio.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/fileio.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/fileio.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/fileio_asyncio.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/fileio_asyncio.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/fileio_common.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/fileio_types.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/lorem.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/lorem.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/platform.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/timefn.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/timefn.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/util.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/util.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/zstdcli.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/zstdcli_trace.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/zstdcli_trace.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/zstdgrep: BSD 2-Clause License
+  [Copyright: 2003 Thomas Klausner.]
+tests/DEPRECATED-test-zstd-speed.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/automated_benchmarking.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/bigdict.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/checkTag.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/check_size.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/datagencli.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/decodecorpus.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/external_matchfinder.c: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+tests/external_matchfinder.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+tests/fullbench.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzzer.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/invalidDictionaries.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/largeDictionary.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/legacy.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/longmatch.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/loremOut.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/loremOut.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/paramgrill.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/poolTests.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/rateLimiter.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/roundTripCrash.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/seqgen.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/seqgen.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/test-license.py: UNKNOWN
+  [Copyright: not found!") / line '{line}' does not contain 'Meta Platforms, Inc'") / line '{line}' does not contain ' (c) '!") / line '{line}' contains {year.group(0)}; it should be yearless") / line '{line}' contains 'present'!") / Meta Platforms, Inc. and affiliates.]
+tests/test-zstd-versions.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/zstreamtest.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+zlibWrapper/gzclose.c: UNKNOWN
+  [Copyright: 2004, 2010 Mark Adler]
+zlibWrapper/gzcompatibility.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+zlibWrapper/gzguts.h: UNKNOWN
+  [Copyright: 2004-2005, 2010-2013, 2016 Mark Adler]
+zlibWrapper/gzlib.c: UNKNOWN
+  [Copyright: 2004-2017 Mark Adler]
+zlibWrapper/gzread.c: UNKNOWN
+  [Copyright: 2004-2005, 2010-2013, 2016 Mark Adler]
+zlibWrapper/gzwrite.c: UNKNOWN
+  [Copyright: 2004-2017 Mark Adler]
+zlibWrapper/zstd_zlibwrapper.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+zlibWrapper/zstd_zlibwrapper.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/cmake/CMakeLists.txt: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/meson/GetZstdLibraryVersion.py: UNKNOWN
+  [Copyright: 2018]
+build/meson/InstallSymlink.py: UNKNOWN
+  [Copyright: 2018]
+build/meson/meson.build: UNKNOWN
+  [Copyright: 2018]
+build/meson/meson_options.txt: UNKNOWN
+  [Copyright: 2018]
+build/single_file_libs/zstd-in.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/single_file_libs/zstddeclib-in.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/diagnose_corruption/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/diagnose_corruption/check_flipped_bits.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/externalSequenceProducer/Makefile: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+contrib/externalSequenceProducer/main.c: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+contrib/externalSequenceProducer/sequence_producer.c: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+contrib/externalSequenceProducer/sequence_producer.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+contrib/freestanding_lib/freestanding.py: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/gen_html/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/gen_html/gen_html.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/largeNbDicts/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/largeNbDicts/largeNbDicts.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/decompress_sources.h: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/linux.mk: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/linux_zstd.h: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/mem.h: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/zstd_common_module.c: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/zstd_compress_module.c: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/zstd_decompress_module.c: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/zstd_deps.h: GNU General Public License, Version 2
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/match_finders/zstd_edist.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/match_finders/zstd_edist.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/ErrorHolder.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/Logging.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/Options.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/Options.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/Pzstd.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/Pzstd.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/SkippableFrame.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/SkippableFrame.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/main.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/recovery/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/recovery/recover_directory.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/zstd_seekable_compression_format.md: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/zstdseek_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/zstdseek_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seqBench/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+doc/educational_decoder/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+doc/educational_decoder/harness.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+doc/educational_decoder/zstd_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+doc/educational_decoder/zstd_decompress.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/allocations.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/bits.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/bitstream.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/compiler.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/cpu.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/debug.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/debug.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/entropy_common.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/error_private.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/error_private.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/fse.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/fse_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/huf.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/mem.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/pool.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/pool.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/portability_macros.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/threading.c: UNKNOWN
+  [Copyright: 2016 Tino Reichardt]
+lib/common/threading.h: UNKNOWN
+  [Copyright: 2016 Tino Reichardt]
+lib/common/xxhash.c: UNKNOWN
+  [Copyright: Yann Collet - Meta Platforms, Inc]
+lib/common/xxhash.h: UNKNOWN
+  [Copyright: Yann Collet - Meta Platforms, Inc]
+lib/common/zstd_common.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/zstd_deps.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/zstd_internal.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/common/zstd_trace.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/clevels.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/fse_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/hist.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/hist.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/huf_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_internal.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_literals.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_literals.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_sequences.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_sequences.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_superblock.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_compress_superblock.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_cwksp.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_double_fast.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_double_fast.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_fast.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_fast.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_lazy.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_lazy.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_ldm.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_ldm.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_ldm_geartab.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_opt.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_opt.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_preSplit.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstd_preSplit.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstdmt_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/compress/zstdmt_compress.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/huf_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/huf_decompress_amd64.S: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/zstd_ddict.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/zstd_ddict.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/zstd_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/zstd_decompress_block.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/zstd_decompress_block.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/decompress/zstd_decompress_internal.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/deprecated/zbuff.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/deprecated/zbuff_common.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/deprecated/zbuff_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/deprecated/zbuff_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/dictBuilder/cover.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/dictBuilder/cover.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/dictBuilder/divsufsort.c: MIT License
+  [Copyright: 2003-2008 Yuta Mori]
+lib/dictBuilder/divsufsort.h: MIT License
+  [Copyright: 2003-2008 Yuta Mori]
+lib/dictBuilder/fastcover.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/dictBuilder/zdict.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_legacy.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v01.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2014-2015 Yann Collet.]
+lib/legacy/zstd_v01.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v02.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2014-2015 Yann Collet. / 2014-2015 Yann Collet. / 2013-2015 Yann Collet. / 2013-2015 Yann Collet]
+lib/legacy/zstd_v02.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v03.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2014-2015 Yann Collet. / 2014-2015 Yann Collet. / 2013-2015 Yann Collet. / 2013-2015 Yann Collet]
+lib/legacy/zstd_v03.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v04.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2015-2016 Yann Collet. / 2015 Yann Collet. / 2013-2015 Yann Collet. / 2013-2015 Yann Collet]
+lib/legacy/zstd_v04.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v05.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2015-2016 Yann Collet. / 2014-2016 Yann Collet. / 2013-2016 Yann Collet. / 2013-2016 Yann Collet / 2013-2015 Yann Collet. / 2013-2015 Yann Collet]
+lib/legacy/zstd_v05.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v06.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2016 Yann Collet. / 2015-2016 Yann Collet. / 2015-2016 Yann Collet. / 2014-2016 Yann Collet. / 2013-2016 Yann Collet. / 2013-2016 Yann Collet / 2013-2015 Yann Collet. / 2013-2015 Yann Collet]
+lib/legacy/zstd_v06.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+lib/legacy/zstd_v07.c: BSD 2-Clause License
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates. / 2016 Yann Collet. / 2015-2016 Yann Collet. / 2015-2016 Yann Collet. / 2014-2016 Yann Collet. / 2013-2016 Yann Collet. / 2013-2015 Yann Collet.]
+lib/legacy/zstd_v07.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc. and affiliates.]
+programs/windres/verrsrc.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+programs/windres/zstd.rc: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates."]
+tests/cli-tests/run.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/dict-files/zero-weight-dict: UNKNOWN
+  [Copyright: \x{00a0}\x{008e}&\x{00d4}\x{00e5}Y\x{0092}\x{00c3}(]
+tests/fuzz/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/block_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/block_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/decompress_cross_format.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/decompress_dstSize_tooSmall.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/dictionary_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/dictionary_loader.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/dictionary_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/dictionary_stream_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fse_read_ncount.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz.py: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz_data_producer.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz_data_producer.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz_helpers.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz_helpers.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/fuzz_third_party_seq_prod.h: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+tests/fuzz/generate_sequences.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/huf_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/huf_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/raw_dictionary_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/regression_driver.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/seekable_roundtrip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/sequence_compression_api.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/simple_compress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/simple_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/simple_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/stream_decompress.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/stream_round_trip.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/zstd_frame_info.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/zstd_helpers.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/zstd_helpers.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/golden-compression/large-literal-and-match-lengths: UNKNOWN
+  [Copyright: \x{00fc}\x{00f4}\x{00c9}\x{00bd}\x{00d3}\x{00de}|\x{00ed}o\x{0082}\x{00d6}8`\x{0094}\x{00fe}RE\x{00a8} \x{00ad}\x{00d7}\x{00d9}V!}\x{008c}x\x{00e5}D\x{0099}LqB\x{0094}\x{00a1}%\x{0086}P\x{00d2}\x{00dc}\x{00d5}\x{0087}c\x{00e9}\x{00e4}>\x{00a2}\x{00cb}i\x{00f2}Vz\x{00f1}\x{0093}^a0\x{00e2}4\x{00ce}Ypx{\x{0096}%\x{00cb}\x{00ad}\x{00fe}M6\x{00cd}B / \x{00f3}\x{00a2}\x{0088}\x{00d3}\x{00fe}7Rq\x{008c}M\x{0098}i\x{0089}\x{0085}\x{00ee}x\x{00cf} \x{008a}\x{00fd}h\x{00c2}\x{00ef}\x{00a0}\x{00f0}\x{008e}bpW!@|6g\x{00f0}Y\x{00ce}O\x{0092}\x{00e6}<UR\x{00d5}\x{00c8}T\x{00db}\x{00bc}Y\x{00c6}\x{00e9}\x{0081}\x{008e}eP\x{00c9}\x{00a6}r\x{00f5}\x{00c0}s\x{00de}\x{008a}\x{00e6}\x{00a8}\x{00a2}\x{00a1}\x{0093}	N\x{00f9}\x{00fd}[aL{m0\x{00c8}|\x{0084}\x{00d1}\x{00bc}\x{0098}\x{00dc}\x{00ef}%\x{00ac}]\x{008e}\x{00c8}\x{00a5}\x{00a2}'\x{0091}\x{00ad}`\x{00c2}@Q\x{00b1}Kb\x{00e4}#\x{00ca}\x{00d4}\x{00bf}\x{00c1}\x{0096}!\x{00bb}z\x{00f5}\x{0091}AdRBbMEe\x{00bc}\x{00c8}%/3\x{00d3}[\x{00da}"W\x{00b3}x\x{00ed}\x{00ac}\x{00f2}i\x{00f0}\x{0093}\x{00e7}9\x{00db}`.n / \x{00f1}\x{00f6}Hf3{x\x{00dc}A\x{00dd}B\x{00ce}\x{00c6}v\x{00a5}\x{00af}[\x{0086}j1bo4o$2].\x{009c}\x{00f1}\x{00a7}\x{0088}	\x{00b7}\x{009a}2h\x{00c3}V\x{0081}\x{0083}\x{00d9}\x{00b5}\x{00a3}}}\x{00fe}\x{00fd}\x{0097}@\x{00d2}\x{00e5}<&@\x{00ee}_m\x{00ff}\x{00e9}\x{00cf};\x{009c}T\x{009d}<OU%\x{00f8}\x{00aa}61C\x{00a7}MbN\x{00bd}\x{0086}H/\x{00aa}@\x{00be}_ca\x{00b2}\x{00dc}D\x{00a8}c\x{00ba}W\x{00d4}\x{00b8}-\x{00f0}\x{00e6}U\x{00ae}\x{009f}\x{00b1}#\x{00c7}U{\x{00b7}\x{00c6}\x{00d4}\x{00c4}\x{00cc}L\x{00b8}\x{00b0}e&r\x{00fa}\x{00d1}\x{00e5}\x{00f8}\x{00ff}\x{00bf}fs\x{00ff}2\x{0084}T\x{00d3}\x{008c}\x{00d1}\x{0099} / \x{00ed}\x{008b}\x{00a7}\x{00e5}\x{00ec}\x{00bb}\x{00f3}\x{00b4}V\x{00a3}hX\x{00e1}\x{00a2}\x{00a2},\x{009f}\x{00f0}S\x{00f9}*\x{00d5}\x{00e5}\x{00c0}@\x{00bf}Ki\x{009e}E)\x{00b9}Vi\x{00dc}Bd \x{00d2}\x{00ec}\x{0095}\x{00af}xj\x{00a9}e\x{0095}\x{00b1}|\x{00bf}my\x{0085}+\x{00d9}\x{0086}\x{00dd}Pc\x{00d8}?/\x{0088}\x{00e9}\x{00c6}*&\x{0086} / \x{00ed}\x{008b}\x{00a7}\x{00e5}\x{00ec}\x{00bb}\x{00f3}\x{00b4}V\x{00a3}hX\x{00e1}\x{00a2}\x{00a2},\x{009f}\x{00f0}S\x{00f9}*\x{00d5}\x{00e5}\x{00c0}@\x{00bf}Ki\x{009e}E)\x{00b9}Vi\x{00dc}Bd \x{00d2}\x{00ec}\x{0095}\x{00af}xj\x{00a9}e\x{0095}\x{00b1}|\x{00bf}my\x{0085}+\x{00d9}\x{0086}\x{00dd}Pc\x{00d8}?/\x{0088}\x{00e9}\x{00c6}*&\x{0086} / \x{00ed}"\x{0091}\x{00aa}FTq\x{00e6}`u\x{00c2}\x{00c5}\x{00b2}j\x{0089}5\x{0085}\x{00a9}	g\x{00c0}\x{008d}\x{00d4};gP$\x{00e0}p\x{00c8}+\x{00f7}zq\x{00dc}\x{009b}#\x{00b1}+]+V\x{00cd}\x{00b2}\x{00eb}\x{009b}\x{0086}R\x{00ab}1\x{00c7}\x{00f9}&\x{00f0}C-M\x{00f9}\x{00ff} / \x{00ea}\x{00de}	\x{00b6}\x{009a}:&n@\x{00e1}}H\x{00e3}\x{00e0}Y+P\x{00b2}\x{00f2}\x{0090}\x{00ad}\x{009d}S\x{008a}:v\x{00d1}\x{00e1}V\x{00b1}\x{00b3}8q8A\x{00c2}7w`\x{00bf}$D1\x{008a},s\x{00ef}\x{00de}\x{009c}%\x{0093}\x{00d2}\x{00fe}\x{00a0}\x{00d4}\x{00fd}ob~O)F\x{009c}i\x{00a2}\x{0097}\x{00df}\x{00a1}\x{00fc}\x{00de}\x{0098}\x{0083}\x{00f6}\x{0093}\x{008c}A\x{00d6}\x{00f5}Y;\x{009b}/rl\x{00bd}\x{00de}\x{0088}-\x{0082}&\x{00dd}\x{00e8}2\x{00e0}\x{00e2}L\x{00c7}qj\x{00c9}B	[\x{00fa}\x{00d5}eLy\x{0083}\x{00a2}&\x{00dd}\x{00ed}\x{0094}\x{00f4}\x{00e8}\x{00fe}\x{00cc}\x{008a}8\x{008d}\x{00bc}\x{00de}\x{00a2}\x{00b2}\x{00de}pd\x{0092}\x{00a8}\x{00b8}\x{00de}\x{00f7}\x{00d2}<\x{00d1}\x{00c8}\x{0083}\x{00ce}r\x{00e8}%\x{00e9}\x{00bd}mD\x{00e2}m\x{00d9};\x{00ea}\x{00c2} \x{009b}\x{00b8}\x{00bd}\x{00e1}\x{00f4}\x{00b7}$}i\x{0099}\x{00aa}\x{00e5}$)\x{008b}\x{00cd}\x{00fc}\x{0098}\x{0087}\x{00c2}E\x{0084}\x{0096}\x{0086}\x{0095}@\x{00f7}\x{0082}\x{00c6}\x{00bd}\x{00be}\x{00aa}C\x{00aa}\x{00ed}R / \x{00e9}\x{00f0}\x{00dd}\x{00c6}\x{0080}G\x{00a6}\x{0093}\x{00f9}Ov\x{00fb}\x{00c9}t\x{00e4}\x{008e}\x{00e5}\x{00b9}\x{00c4}JRX\x{00df}\x{00fc}\x{0082}\x{00ab}Mi0\x{00be}\x{009d}1O\x{0082}\x{00dd}\x{00dc}\x{0089}\x{0094}\x{008f}\x{0083}j\x{0092}\x{00a6}\x{00c6}\x{008f}y\x{00ed}\x{00f6}\x{00aa}.O\x{00fd}\x{009e}\x{00d2}\x{00f1}\x{00b0}\x{0090}@\x{00c9}\x{0094}\x{00b9}%H?\x{00da}\x{00f4}V\x{0084}\x{0093}IF\x{00d2}1\x{00e4}\x{00e6}YV\x{00f9}\x{00cf}\x{00d9}\x{00e9}I\x{00da}2\x{00b3}^\x{0082}y\x{009e}\x{00f9} 7\x{00b7}\x{00fa}i\x{0087}\x{008f}\x{00fe}\x{00da}\x{0093}\x{00c6} / \x{00e7}c\x{00b2}\x{00fb}\x{00fb}K\x{00ce}e\x{00f6}u*	\x{00c7}\x{00c1}-M\x{00f4}<{Bh\x{0093}\x{00a7}\x{0087}\x{00dc}\x{00b7} / \x{00e6}YT\x{0080}\x{00d3}G\x{00dc}{\x{00dc}\x{00d4}\x{0087}\x{0097}\x{00ec}\x{00fb}\x{00ec}\x{00a9}\x{00fa}\x{00e6}\x{00ef}=\x{00fe}\x{008d} / \x{00e5}\x{00a6}	\x{00a9}e\x{0095}~\x{00b8}\x{00fc}\x{00f2}\x{00cd}d\x{00e0}\x{00fa}r\x{00dc}\x{00eb}\x{0095}\x{fffd}\x{fffd}$\x{00f4}O\x{00b9}]b\x{0080}lv\x{00a6})v+\x{009d}Y\x{0096}\x{00eb}\x{00a7}db2\x{0081}\x{009e}N\x{00e8}\x{00a1}OMX\x{0091}gHr1d"(\x{009e}9\x{00e5}\x{00d6}\x{00c4}\x{00c9}|E\x{00d8}\x{0084}\x{00f4}h\x{00d9}\x{00e1}\x{00da}\x{00e7}\x{00b9})\x{00a8}LO\x{00f6}q\x{00f9}\x{0093}\x{00a5}rJ\x{00ef}y\x{00f9}\x{00ea}t\x{00d2}\x{00eb}\x{008f}"t;\x{00da}\x{00f1}*\x{00d7}\x{00fd}\x{00fa}\x{00e0}S\x{00a0}\x{00d2}\x{00a9}\x{008f}z\x{0081}*\x{00ad}\x{00dd}\x{00df}\x{00c6}g\x{0096}s\x{00a7} V\x{0092}\x{00d4}5\x{00a8}\x{00ca}\x{00d6}\x{00ad}\x{00bc}x{\x{009c}P\x{00d3}!\x{0097}L\x{00e1}\x{00ea}dI\x{00de}\x{00ba}'*Dmh\x{0082}\x{0094}@\x{00aa}=\x{00bc}\x{00da}\x{0093}\x{00d9}A\x{00d4}\x{008d}K\x{0092}\x{00dc}\x{00f7}g\x{00f9}-\x{00d6}\x{009f}\x{00b6}\x{00a5}\x{00be}9\x{00f1}oD\x{00ae}\x{00c1}b\x{00a7}\x{00ad}\x{00a0}\x{00b6}\x{00d6}\x{00b4}\x{00a0}7\x{00a4}\x{00a0}\x{00d9}h\x{0091}:\x{00a2}	\x{00a6}\x{009b}\x{00ff}j\x{00fa};\x{00d1}\x{00ec}\x{00ba}\x{00f8}/T\x{008b}9\x{00f5}\x{00b2}\x{0085}\x{00b2}^\x{00c6}N\x{0094}5\x{00a1}\x{00a4}\x{00ae}\x{0098}vLL\x{00f3}\x{00d4}8\x{008c}%\x{00d1}\x{0088}s-\x{00cf}q\x{00d5}\x{00ef}\x{00ed}\x{0094}Y;|\x{00be}\x{00a1}\x{00e5}\x{0081}\x{009b}\x{00e3}'`\x{00bb}\x{00e8}\x{0096}\x{009c}\x{00d9}\x{00b3}7\x{00fc}|\x{00c8}\x{009f}[.\x{00ec}\x{00a5}\x{00b3}j8h\x{00ee} \x{00ca}]\x{00fb}\x{00ac}\x{00de}:\x{009f}yY\x{00d5}\x{00d7}\x{0085}\x{0083}\x{0086}yg\x{0095}\x{00f9}VZs\x{008a}\x{0084}CS\x{00a2}\x{00f0}\x{00ac}\x{00d1})<\x{00cf}?p\x{00ac}s\x{00a6}-E\x{00f5}\x{00f0}\x{008f}\x{00d6}\x{00ca}\x{0097}\x{00e8}\x{00ad}\x{0091}k\x{0091}\x{00ce}E@`\x{00aa}\x{00b2}p\x{00ae}\x{00fc}\x{0096}\x{009f}\x{009e}\x{00d7}"z]\x{00b8}\x{0098}V\x{00c4}\x{00d4}\x{0097}\x{00cd}1"\x{00f0}D\x{00c7}C!\x{00c9}\x{00a4}9x\x{009e}\x{0097}\x{00a1}5\x{00ba}\x{0094}\x{00da}\x{00ae}\x{00e8}\x{00c4} / \x{00e0}\x{00fd}\x{0081}p\x{00d4}r\x{0090}{\x{0082}u\x{00d2}\x{0097}\x{00b4}\x{00df}\x{00a7}\x{00ec}\x{00e8}\x{0098}\x{0082}\x{00ef}\x{0086}m\x{00c7}\x{00af}\x{0080}\x{00cd}#\x{00ad}\x{00db}\x{009a}\x{00cb}p\x{00e8}<v,7:g_\x{00d8}\x{00b1}\x{00e2}\x{00ad}\x{009f}E\x{00d6}w.\x{0081}\x{009a} / \x{00df}\x{00d3}=\x{00e6}s\x{00c4}\x{008c}\x{00ad}L\x{0091}\x{00ee}Y / \x{00d7}\x{00e4}\x{00cc}\x{00e2}6\x{00a2}\x{0083}\x{00b8}\x{00af}\x{0087}\x{00a8}J\x{00fe}\x{0095}h\x{00bb}\x{0088}\x{00f7}R\x{00b3}}\x{0088}y-\x{00ac}\x{00d4}\x{00c0}\x{00ba}\x{0093}\x{00a3}p\x{00f1}\x{00b9}\x{0093}W{eh}\x{00a3}\x{00a2}\x{00be}L\x{0086}\x{00f6}\x{0094}$%\x{00e2}\x{00e4}\x{00ed}H\x{00ca}\x{0093}[\x{0097}AFvg\x{00d5}\x{00fd}\x{009a}\x{00e7}\x{00c1}'\x{00f4}\x{00db}F ^\x{00c3}q\x{00cd}\x{00e5}b\x{00ab}\x{0091}kV%\x{00a4}+\x{009f}\x{00a4}$\x{00a7}\x{0080}9\x{00e6}u\x{00dc}\x{00f1}`\x{00d9}\x{00e5}-i\x{00db}t / \x{00d7}\x{0090}^a_*hq\x{00a2}\x{0096}Y\x{00cc}\x{00b8}\x{00ca}s\x{00e6}x / \x{00d5}\x{00bc}\x{00ab}\x{00d9}\x{008c};\x{00c3}\x{00f6}\x{0098}\x{00a4}4d\x{00e6}\x{009b}\x{00fb}\x{00b4}\x{0082}\x{0092}\x{00e5}\x{00d3}\x{00f9}\x{00d0}	\x{00c0}:\x{0084}}R4{\x{00a3}\x{00e9}\x{0085}\x{0088}\x{0093}\x{0094}r)\x{008f}\x{00bc}\x{00fa}{Y\x{0081}p\x{00ba}\x{00f6}kZ\x{009a}\x{009f}Q5r\x{00a3}H\x{00be}\x{00ce}\x{00ac}\x{0093}s(\x{008c}\x{00dc}\x{00ab}{\x{00cc}KG\x{00a0}f\x{00b1}\x{0087}\x{0080}$l\x{008e}/=\x{00b2}\x{0089}1\x{0087}\x{00a0}\x{00ca}\x{008f}r\x{0090}(\x{00d5}\x{0092}\x{00ee}\x{009f}\x{00a8}\x{00f9}D9@\x{0081}:\x{00b5}\x{00e0}U\x{00f2}\x{00b6}\x{00b4} / \x{00d3}\x{00b2}b\x{00ed}>\x{00f3}\x{00f8}&n\x{00d4}Ml\x{0088}\x{00f7}\x{00f2}p\x{00ca}c\x{0091}Aj\x{00d1}0}\x{009d}\x{009a}\x{00aa}]gE\x{008f}\x{00ce}mC\x{008c}\x{0093}\x{0093}\x{00e9}\x{00d3}c\x{00bb}\x{008a}\x{00d7}lA\x{00ac} 1\x{0093}n\x{009b}\x{00e3}\x{00b9}\x{00f8}\x{008e}\x{00f6}\x{008f}2\x{00c7}~+\x{009e}\x{00e6}s\x{00d1}g\x{0089}\x{00af}\x{00d7}9Ab\x{00c6}1\x{00b0}c\x{00b4}\x{00ff}\x{00df} \x{00ab}\x{00c9}\x{00b7}\x{00b8}\x{00ed}9\x{00d3}\x{00f8}\x{0091}\x{00f7}7\x{00b5}\x{00ea}\x{0093}ZG\x{00c0}1\x{00f8}\x{00a8}\x{008a}\x{009a}\x{00af}\x{00bc}\x{0083}Z\x{008a}\x{008a}\x{00db}H\x{00d3}\x{00a1}\x{00f2}v\x{00e0}\x{0097}\x{0088}'\x{00b1}<\x{00fc}\x{00f7}\x{00ca}P6\x{00ba}xn\x{00f3}\x{0082}\x{00fb}0\x{00e0}?w\x{00ab}\x{00e7}^&ZL\x{00ed}x\x{00b0}t7KhgM\x{00ab}]\x{008a}\x{00c7}- / \x{00d2}\x{00a1}6%\x{00e6}\x{00fb} \x{008f}z\x{008e}T\x{00db}\x{00f2}\x{008b}\x{00ac}x\x{00c5}D\x{00df}*\x{00da}\x{00a5}\x{00de}\x{00bc}_\x{00e8}U!\x{00ae}\x{00ba}-M0F\x{00fc}\x{00f4}\x{00b1}V/=\x{00c1}$\x{00c9}\x{00ce}\x{0082}l>\x{0088}\x{00ec}\x{009f}\x{008e}iu\x{00ca}b^\x{00f3}<\x{00e6}\x{00e3}\x{00d4}\x{00d5}2\x{00b0}y\x{00cf}s_\x{00c0}'\x{0096}R; / \x{00cc}\x{00f5}\x{0091}IYB\x{00d6}\x{00e3}\x{0090}\x{00b5}~\x{00f9}\x{00a3}l\x{0081}N\x{009e}\x{00c3}O\x{00c1}\x{008d}\x{0090}\x{00a7}\x{00bb}\x{00e6}l\x{00e4}-\x{00bd}\x{008e}\x{00da}2$\x{008f}\x{00c5}T\x{0090}\x{00d0}\x{00b9}\x{00e0}\x{00c9} / \x{00cc}\x{0088}\x{00b9}\x{00eb}<z\x{00cc}L\x{00b3}\x{00b6}\x{009a}z%{\x{00d0}\x{00dd}\x{008a}3p\x{0085}%\x{0094}\x{008c}ehp\x{00c6}\x{0083}\x{00a2}\x{00d5}E'4d\x{00b6}RW\x{0092}\x{008e}\x{0091}\x{00a7},P\x{00a1}\x{00e0}X)-!\x{009f} \x{00ef}\x{009d}rw\x{00bc}\x{00cf}Vl\x{00ff}\x{00a3}Aq\x{00e8}\x{00c3}\x{008e}\x{009e}B\x{0098}\x{00f0}\x{00c3}\x{00c5}A\x{00e2}\x{0088}\x{0097}\x{0096}-\x{00b2}\x{00a0}\x{0090}\x{0086}+\x{009b}\x{00e0}c\x{00b9}\x{009a}\x{00c6}2\x{00e0}?\x{0098}\x{00b1}.\x{00fa}\x{00fd}c\x{009b}p\x{00a1}\x{00c3}-\x{00c4}6\x{0091}\x{00d0}\x{009b}\x{0098}\x{00f5}\x{00da}\x{0087}\x{00a3}6\x{00d3}\x{009d}\x{00c0}\x{00c7}#\x{00a9}O/L\x{00ad}\x{00f9}}\x{00aa}\x{00cd}\x{00a5}\x{00f7}\x{0089}\x{00cb}wJ.f / \x{00c9}\x{00fd}\x{00e6}Z,\x{00d5}rb\x{00c3}p\x{00e6}\x{00c4}C\x{00bc}jd\x{009b}Jk\x{00ae}\x{00a4}\x{00c1}~G^HK\x{008b}\x{00d6}2\x{0099}\x{00ac}\x{00b3}\x{00f9}\x{00aa}\x{0099}\x{00da}-\x{00d3}\x{00db}\x{00a2}\x{00ad}g\x{009b}\x{00a6}\x{00b8}\x{00e4}\x{00b5}\x{008b}\x{00f3}\x{00e7}Q_L=\x{00a6}\x{00df}^\x{00e5}L\x{00c6}{\x{009c}\x{00bd}\x{0084}P\x{0099}16)d\x{008e}\x{00ee}\x{009a}H\x{0081}n\x{00a7}\x{00cf}	*\x{0093}\x{00fd}\x{0086}\x{00d0}.\x{00ed})\x{00a8}\x{00d3}q7eX\x{00d7} \x{0094}=QK\x{00fb}J\x{008c}\x{00bd}P\x{00ad}\x{00fd}\x{00d4}\x{00f8}@zL\x{00c5}I-\x{0088}\x{00df}\x{00a9}\x{00ff} \x{00b6}\x{009d}\x{0098}\x{00bd}+\x{0090}\x{00e0}\x{00d5}\x{00ea}#\x{00e8}\x{009c}q\x{00bf}\x{00a5}-\x{00f4}\x{00da}\x{fffd}\x{fffd}\x{00aa}/\x{0088}\x{0098}!\x{00d1}\x{00a3}sv\x{00e2}fU\x{00ca}\x{00d5}\x{00e3}V\x{00c1}/\x{0085}\x{00d4}lm\x{008b}\x{00f1}\x{00de}Sf5\x{00f9}f\x{00e8}Q\x{0080}:\x{00f0}\x{0080}mx/\x{008d}\x{00d2}$034@b\x{00a1}"Q\x{008f}lr\x{00d5}\x{00f1}W+\x{00f9}o\x{00c6}\x{00f8}sI\x{00cd}\x{008e}\x{00ba} / \x{00c8}Z \x{00b1}@\x{0096}\x{00d7}|\x{0097}\x{00ad}\x{00a2}<\x{00db}\x{00a6}<g\x{00f0}*\x{008b}\x{00eb}\x{00bf}\x{009a}\x{008f}T.\x{0087}n\x{0088}\x{00ea}\x{00a8}\x{00e5}\x{0097}\x{0085}\x{00fe}\x{00f3}\x{00e0}G7W?\x{008c}o{`\x{0095}\x{00cd}p\x{00ae}oD.S\x{00ac}"\x{00e3}\x{00a6}(\x{00d5}"K\x{00c3}\x{00fd}H\x{0088}\x{00a9}\x{00d0}\x{00c2}"\x{00d4}\x{00fb}\x{00c7}Y / \x{00c7}_\x{00c1}\x{00a1}7\x{00cb}\x{00a6}\x{009f}P\x{00e1}\x{00e4}\x{00cf}*\x{00aa}\x{00a9}\x{0080}\x{00b3}\x{00e0}u\x{00d1}\x{0099}&\x{00e1}\x{00df}\x{00c3}\x{00e0}kBR\x{00a2}\x{00fd}\x{00b4}\x{00ad}k\x{00af}\x{00c1}J>8\x{00c5}\x{00be} / \x{00c7}:\x{00aa}rd	q\x{0098}\x{00c2}\x{009f}\x{009a}\x{00f0}\x{00fe}\x{0090}\x{00c3}\x{0099}\x{008d}r\x{00db}\x{00d3}\x{00af}\x{009d}\x{0081}\x{00a5}\x{00e0} / \x{00c5}p\x{00bb}\x{0098}\x{00c2}M\x{00d5}\x{009c}T4+3\x{00ba}\x{0084}\x{009e}\x{0096}\x{00cd}\x{00d0}\x{00a4}\x{00fd}\x{00c0}\x{00bf}Y\x{00e0}	\x{00e9}\x{00d8}\x{00bd} / \x{00c4}\x{0086}#\x{00b2}\x{00bf};\x{00b6}o\x{00ff}\x{00e8}\x{00c8}\x{00d2}\x{00e0}\x{0089}sQ\x{00b3}\x{00b9}`Nz\x{0085}i\x{008f}\x{00cd}+\x{00c2}\x{00f4}\x{00c4}\x{00a6}P&W:]\x{00eb}o\x{009b}s\x{00af}Z / \x{00c2}\x{009b}\x{00ed}\x{00ad}z\x{00f3}>\x{00c7}\x{0080}D\x{00a2}+\x{00bd}\x{00c7}\x{009d}\x{00da}\x{00c5}Uxu\x{0095}e\x{00cc}\x{009d}\x{00bd}\x{00b7}\x{00ad}QW\x{009e}\x{00a7}\x{00c8}\x{00de}Nf\x{00c9}g\x{00d1} \x{00e1}\x{00d3}\x{00c0}\x{00b4}\x{00fa}G\x{00b4}\x{00c7}z]\x{00f3}\x{00bf}0Z\x{00c7}O\x{0093}\x{00a4}zW\x{00a6}R\x{00ca}zR\x{00b8}fP\x{00b2}\x{00f1}\x{00be}}\x{00aa}\x{0089}\x{0094}\x{00f5}@;\x{0081}\x{00ed}\x{0090}\x{00e5}\x{00e3}\x{00b1}r w\x{00d6}\x{00db}K\x{00ab}hZ\x{00fa}9\x{00a9}IF\x{00b0}\x{008f}S\x{00c9}\x{00f4}\x{0082}\x{00e8}\x{00f3}\x{00ed}M;r\x{00a5}\x{00e2}\x{00b1}\x{00ea}\x{00a4}\x{009f}\x{00db}/\x{0095} / \x{00c2}8\x{00e6}\x{0097}1\x{00ab}\x{00d6}Y\x{00ce}\x{0088}\x{00a4}\x{00f3}6\x{008d}\x{00db}\x{0083}>\x{00d9}\x{00f0}E\x{00da}G\x{00b6}\x{00f3}\x{00ab}\x{00b7}}\x{00a7}\x{00e6}\x{0091}\x{00f9}\x{00a2}\x{008a}\x{009c}\x{0086}^Z\x{00b2}@]\x{00c4}\x{00a6}&\x{00aa}/0F!Y\x{00db}\x{00de}\x{0095}]\x{00f4}t / \x{00c0}\x{0089}\x{00f6}\x{00b8}H\x{00dd}8 \x{00f6}e\x{00d6}-\x{00a2}\x{00a6}\x{00f2}/^\x{009f}Q\x{009d}\x{00e4}\x{00c9}S\x{00b8}u\x{00c5}\x{008a}>e\x{00e5}\x{00b3}\x{00e4}z\x{00e9}\x{0083}u\x{00ca} ?d-+A\x{00ae}\x{00e8}\x{00af}\x{00a1}U\x{00b4}\x{009c}\x{00ab}\x{00b1}k53\x{0091}\x{0093}\x{00a2} 7\x{0089}\x{0088}\x{00ad}\x{009f}\x{00aa}\x{00d0}\x{00e4}\x{008d}\x{009b}\x{00ee}\x{0099}\x{00f4}\x{00fe}u~u\x{00e4}\x{00e2} \x{00a1}Djg\x{00b4}J / \x{00bf}\x{00ce}\x{00fa}\x{00df}D\x{00aa}\x{00ea}]<\x{00b2}\x{00d4}\x{00b3}4\x{00ff}\x{00ff}\x{00dc}i\x{00c9}\x{0098}\x{00c4}\x{00f6}\x{00e2}\x{00f5}\x{00b7}\x{00c3}2G\x{00a0}:\x{0093}\x{00bd}L\x{00e4}\x{00d6} / \x{00bd}\x{00c6}\x{00b0}]5Y~\x{0091}\x{00ee}\x{00a8}\x{00e5};\x{00c2}w\x{0094}\x{00c9}\x{00b4}\x{00c3}\x{00d3}\x{00a5}g\x{00da}\x{00b8}N\x{00a1}\x{00aa}\x{00c5}\x{0083}\x{00bb}e\x{00df}%\x{00b8}%(\x{00e0}cLz\x{00b0}a\x{00d8}\x{00dc}\x{00a8}\x{00bd}\x{00b3}\x{0081}f\x{00ec}\x{008a}\x{00f6}\x{00bc}\x{00f8}jR\x{00a5}\x{00f6}\x{00ed}\x{00e4} / \x{00bc}\x{00e2}Vi\x{00f4}H~\x{0084}]\x{00a0} / \x{00bb}\x{0085}\x{0093}\x{0086}m$\x{008a}\x{00e2}O\x{00da}v\x{00ba}-\x{00e2}t\x{00d9}?\x{0099}\x{00ba}\x{00f6}\x{00e3}\x{00f5}|\x{00f6}d\x{008e}\x{0096}\x{0095}\x{0097}\x{00ff}g\x{00d1}\x{00bb}+\x{00ec}p\x{00ce}9n\x{009d}\x{00ae}\x{00b7}\x{0093}!(\x{00cb}>Y\x{0099}\x{00fb}\x{00df};XU\x{00bb}{S\x{008a},DGnD\x{00ff}\x{00a3}\x{00ea}\x{00d7} =\x{00b5}7\x{00bb}\x{00c4}>Z\x{00f3}\x{00c4}\x{008a}\x{00d5}\x{00b5}\x{0088} / \x{00b7}\x{00b7}\x{00d9}\x{0093}V\x{0092}H\x{00e0}\x{00c2}\x{00ff}\x{00ad}Y\x{00a8}T\x{00e1}\x{00bd};\x{00c7}e3\x{00a3}:\x{00f0}\x{00d0}"+v\x{00fd}\x{00b8}\x{0091}\x{00e5}\x{009c}\x{0089}\x{00ff}\x{00fe}a>\x{00f3}eJ4l@ / \x{00b7}\x{0082}Jn\x{0087}j\x{00e6}?\x{0086}\x{00de}\x{00da}\x{00a0}\x{00ad}\x{00ab}%\x{00b4}\x{00ea}\x{00d8}\x{00fc}\x{008a}L2v / \x{00b7}8\x{0099}\x{00d4})\x{00a4}\x{00ea}2\x{00cb}T\x{00f6}\x{00dc}\x{00c6}\x{00dd}\x{00ac}a\x{0097}\x{00df}\x{00d1}\x{008a}\x{00cf}\x{008d}P\x{009e}\x{0097}\x{0081}O\x{00ad}\x{00f3}\x{00bf}\x{0081}<\x{00ef}\x{00f5}H\x{00ca}R\x{00f6}U#\x{00cc}\x{0085}dSh\x{00fc}e)\x{0098}\x{0083}2A\x{00bb})\x{0087}\x{00e6}P\x{00e3}N\x{00f6}@R,\x{00ec}\x{00ac}\x{00ef}+BNZ}*\x{00f1}\x{00f4}	b@\x{00b0}\x{00bf}rk\x{00e8}\x{00dc}\x{00c5}\x{00f6}\x{00bb}*\x{00e3}\x{00d0}\x{00ac}>\x{0084}\x{00b4}\x{0090}\x{00c9}f\x{00d8}\x{0080}+qO.\x{00be}\x{00ae};\x{0082}\x{009c}$w\x{00bf}\x{00dc}\x{00b0}V!\x{00e0}U\x{00c5}\x{00ed}\x{00b0}\x{00e6}\x{0090}\x{00b5}f\x{0087}}\x{00f8}\x{0086}D\x{00cd}\x{008e}\x{0081}\x{00a9}B\x{009b}\x{00a6}\x{00fc}\x{0094}\x{009d}w'|j\x{00ae}Y\x{0099}q\x{00fc}!/\x{00dd}{\x{00b0}G\x{00f4}w\x{0094}}\x{00df}\x{00e5}\x{00eb}s\x{00de}\x{00c8}&\x{0092}&|\x{0088}-\x{00dd}\x{00a6}b\x{0089}Q\x{00ed}\x{00f1}t^\x{00c7}UTm/ / \x{00b7}"\x{00c7}\x{00a9}\x{00ce}\x{00f0}+\x{00cd}\x{00b6}\x{0084}\x{00a9}\x{0094};\x{00cd}\x{00dd}\x{00fc}\x{00f3}]2\x{00c1}	\x{00bf}hW\x{0086}\x{00f0}\x{00fa}\x{00e8}#\x{00d9}Q\x{00b8}jVt\x{00cb}I\x{008c}i4\x{00da}\x{00df}&\x{00c1}\x{00a4}V\x{009a}\x{0097}\x{00fc}f\x{0086}b\x{00e9}\x{00d9}\x{00ba}'\x{00f0}W\x{00a9}\x{0080}\x{00c6}\x{00ba}{\x{00a1}\x{00c0}\x{00d3}\x{00f1}h`\x{00f0}\x{0095}\x{00a1}\x{00d4}\x{00eb}\x{00c5}a\x{00a6}\x{00fa}m\x{00d6}^\x{00e1})\x{00fb}\x{00f9}|\x{00ad})\x{00c7}L5?\x{00a1}]\x{00df}\x{00f5}\x{0082}\x{00c4}\x{008f}\x{00ba}\x{00cc}\x{00c7}\x{0087}\x{0098}\x{00bd}j\x{0084}h\x{0098}\x{009d}V\x{00ae}T\x{00c1}$O>\x{00b7}\x{00f6}\x{0098}H9L\x{008d}&\x{00ad}\x{0098}#od\x{00e3}\x{008b}U\x{00f7} / \x{00b3}\x{00e1}\x{00f8}\x{00ad}\x{00a9}1PP\x{00c7}\x{0099}\x{00fb}\x{0092}\x{00ed}B\x{00a3}\x{00ec}U\x{00d1}\x{009d}\x{00f6}RG\x{00bc}mi\x{00f0}\x{00de}	^CeD\x{0089}\x{00f1}\x{00e4}\x{00b3}\x{00eb}\x{0084}\x{00a1}\x{00e6}(xy!\x{00f0}F\x{009c}\x{008f}\x{00cc}\x{00d7}$\x{00ad}Q=\x{0095}\x{00b8}\x{00f1}^\x{00c3}ZT\x{00eb}N\x{00a0}\x{00da}N\x{00c4}\x{00d9}\x{00e5}\x{00bd}\x{008c}	"cU\x{00e9}}f\x{008e}\x{00c2}'\x{00e0}U)\x{00e2}qD <\x{00ff}\x{00ec}\x{00c0}\x{00ff}\x{00bc}\x{009a}\x{00bb}\x{00b7}~\x{00ba}TNi0\x{00c3}\x{00a4}\x{00de}\x{00da}\x{008a}-9a  / \x{00b2}\x{00f0}\x{00fd}\x{008f}<Xl\x{00d1}c3\x{00b9}-\x{00e9};\x{00ac}\x{00e6}3|\x{00e6}UP`\x{00fb}\x{00bc}6\x{00da}\x{00b8}h0Nb\x{009e}j\x{00af}\x{00cf} _p\x{00b5}\x{00f9}\x{00fe}\x{00f2}\x{00ce}\x{00b5}\x{00d2}au]\x{00de}\x{00a9}>\x{008a}\x{0088}mR\x{00f8}\x{00f8}D\x{00ad}}I\x{00c4}e{b*`\x{00e7}\x{009f}\x{009e}\x{00db}z\x{008b}\x{0094}\x{00c2}\x{00fe}\x{0089}\x{00f8}\x{00c6}Ug\x{00bf}\x{00ec}m\x{00c2}\x{00d5}8\x{00bc}8\x{00f5}Y\x{00dd}D\x{00db}\x{008a}\x{008a}-\x{00fc}\x{00d2}%t\x{00a3}\x{00b8}a<\x{00ae}nw!\x{00bb}\x{00dd}:\x{0096}\x{00fa}\x{00a9}c\x{008a}\x{00bc}\x{00bb}d\x{00a1}\x{00ef}F\x{00e5}\x{00b2}\x{00be}\x{00bd}\x{00fa}\x{00c5}\x{00c2}z)8X\x{00a3}\x{00d2}\x{00a3}\x{00f1}\x{00e2}\x{00d2}`S\x{00df}K\x{00d0}\x{0086}\x{00da}\x{009d}Q`\x{008b}\x{00fd}T\x{0087}\x{00e1}\x{009a}\x{00a5}\x{00ba}J\x{00c8}d\x{00ef}DO\x{0087}e\x{00d7}h"\x{00b8}\x{00cf}\x{00f0}\x{00b9}?-b:\x{00fa}\x{0099}\x{00c2}\x{00ba}_~\x{00ce}\x{00aa}\x{0097}a%d\x{0092}ph5e\x{00ea}7\x{00f1}#\x{008b}]\x{00d0}s\x{00a9}W\x{0087}\x{00f7}\x{00a8}\x{00a2}\x{00f7}\x{00bd}Vpb\x{00de}\x{00e3}D\x{00cc}\x{00c6}\x{00f3}\x{008b}~y3\x{008a}&Zp^\x{00d8}Z,\x{00e6}\x{0093})U\x{00a0}\x{00a9};!\x{00f0}H$g\x{00a9}{.\x{00f6}J}\x{00c0}o\x{00d5}\x{00e2}\x{00ee}\x{00dc}s\x{00ce}K\x{00d3})\x{00d5}\x{00ff}\x{00dc}21 / \x{00ac}\x{00d3}rE"y%x\x{00e1}z\x{00b8}\x{00e2}\x{00b6}\x{00f5}\x{00ec}\x{00a2}$\x{00bb}\x{00c3}p\x{00f1}U~\x{00bd}p8\x{0097}fOl\x{0082}E\x{00c0}\x{00e5}\x{00ac}E\x{009a}\x{00fb}\x{00dd}\x{00ec}9\x{00fd}C\x{00fb}\x{00df}\x{008f}\x{0082}\x{00fa}?\x{00c0}\x{00fc}n7d\x{00aa}!\x{00f5}\x{00c0}\x{00ba}\x{00be}\x{00ba}3\x{0097}\x{00de}#\x{00f2}K\x{00da}\x{008d}{\x{00ed}	v\x{00a1}<~_&S6\x{00fe}B#\x{00a3}PA / \x{00ab}\x{00a1}\x{0089}\x{00c5})\x{00d9}\x{00e5}I\x{00f7}\x{00d6}\x{0082}\x{00eb}\x{00da}S\x{00d3}\x{00d1}\x{00f8}u&\x{00dc}\x{00ee}( / \x{00aa}ui\x{00f7}0Ip;\x{0081}\x{009d}\x{00fe}\x{00f9}J\x{00b6}\x{00ec}\x{00d8}A\x{00a1}E\x{00cc}\x{0080}?\x{00d4})\x{00f4}G \x{0088}PpXY \x{00f2}E53\x{00f5}\x{00f3}\x{0086}\x{00a2}H\x{00ab}5\x{00f7}\x{00c6}\x{00fd}@ \x{008c}\x{00f0}\x{009f}\x{00e9}\x{00ea}_Z\x{00d6}h\x{0095}\x{00ef}|e\x{00e8}\x{0081}\x{00c8}\x{00d0}\x{0092})\x{00d8}\x{00fb}\x{00e9}\x{00c9}"D?\x{0091}\x{00ca}uq\x{00e2}8\x{00cb}6\x{0089}\x{00e6}ma\x{00dd}\x{00f2}G\x{00af}\x{00df}a`	\x{00e4}9X\x{00b7}k\x{009b}\x{00c7}\x{00f6}s\x{00b2}n00\x{0099}M\x{00ef}\x{00b1}\x{00dc}`\x{00ae}\x{00be}\x{009a}bUh\x{0086}^\x{00a8}\x{00be}l\x{00d8}\x{00e7}\x{00f2}`\x{00cf}ua\x{0083}\x{00c5}\x{00e9}\x{00eb}\x{00c6}i\x{00a6}.\x{00f8},m\x{00ea}\x{00fe}\x{00ed}\x{00df}L7\x{00da}9`glL\x{008a}\x{00c7}\x{00bd}f\x{0084}EE\x{00bc}\x{00bd}\x{00c2}7\x{00bb}\x{00f4}\x{00b4}\x{00d5}\x{008c}\x{0096}\x{00ca}S\x{0097}\x{fffd}\x{fffd}\x{00f3}\x{00b9}2h\x{00a2}Y&9S.\x{00d2}\x{00dd}\x{00c0}\x{00be}i:q\x{009f}\x{0088}\x{00d2}\x{00b5}\x{00c1}m?\x{00e7}\x{00f3}\x{00f6}\x{00e6}< / \x{00a8}\x{00e0};k / \x{00a7}\x{00fe}\x{00b4}\x{0085}1\x{00e6}\x{00e4}qb\x{009d}1\x{00bc}\x{00b3}u\x{00c8}\x{00ca}Z / \x{00a7}\x{008d}|R\x{00bd}\x{00ef}\x{00f7}\x{00db}v\x{0083}[\x{0098}\x{00b1}N3P::\x{00f4}J\x{00e0}k+\x{00b1}5h\x{00bf}J*\x{0080}L\x{00f7}\x{0090}\x{00f0}3\x{00a5}\x{00e8}\x{00fa}pI\x{0088}\x{00c7}%\x{00e8}\x{00a6}\x{00ef}mD\x{00d4}.\x{00a5}J\x{00b7}(\x{00da}q(\x{00b3}\x{00dd}tV\x{00a9}D\x{00e4}\x{00ae}Z\x{00f3}\x{00f4}\x{00b2}p\x{00c0}\x{00ba}\x{0090}\x{00fc}\x{00a9} / \x{00a4}Iz>C\x{00d2}\x{00e8}\x{00f7}x\x{00fb}\x{00c7}\x{00f4}$\x{00ae}T\x{00c0}\x{00a9}\x{0085}\x{00e3}&\x{00e0}\x{00e8}A / \x{009d}T\x{00d2}\x{00c5}\x{008e}}pRs\x{0097}d\x{008f}\x{009a}\x{00b9}\x{00e3}"y\x{00e4}\x{00cf}\x{00c9}@B\x{0098}\x{0080},\x{00ba}\x{00fe},l\x{00d1}\x{00d1}\x{00d0}\x{0091}Gc\x{00e4}_\x{00f4}+\x{00dd}\x{00f8}\x{00d4}\x{00f5}\x{00e7}\x{00a7}c>e\x{0095}o"\x{00c4}\x{00a2}\x{00db}\x{00e5}\x{00fd}\x{0097}4\x{00d2}\x{008b}\x{00d1}\x{00dc}\x{008e}HO\x{00ba}\x{00e6}\x{00f0}r\x{00d8}\x{00d9}\x{00bf}r}$`u\x{00fd}\x{009b}\x{0080}I\x{00b0}\x{00ba}\x{00ba}N>\x{00fa}\x{0082}t3\x{00e3}\x{00f3}\x{00f2}\x{009d}\x{00a4}\x{0097}\x{0093}\x{00a1}\x{00f0}H\x{00b1}\x{00e4}\x{0094}$\x{00ed}\x{00f8}Z	=\x{0081}"\x{00de}\x{008d}l7K\x{00b5}\x{00da}KHK=\x{00db}\x{0086}\x{00d8}\x{009a}}'\x{00c6}\x{0096}\x{00bc}\x{0090}\x{0086}\x{00bc}\x{00ef}}i\x{00b3}\x{0096}g[\x{00a1}+t\x{00cc}\x{0089}\x{00d5}O4\x{0090}\x{008d}q\x{00d6}9\x{00da}\x{00d3}\x{00a0}\x{00c6}\x{00a7}\x{00e8},*v\x{00eb}E\x{00c4}(\x{00d1}\x{0083}r]\x{00db}\x{0096}\x{0090}z\x{00d9}\x{00ab})\x{009b}\x{00da}\x{009f}8F\x{00f9}M\x{009c}\x{00e9}\x{0091}]\x{00be}\x{00be}]\x{00a2} / \x{009d}9)\x{0097}sBp\x{00ad}\x{00ab}\x{00b2}\x{00d5}iwtz\x{00aa}mi\x{00c2}J\x{00b4} \x{00ce}I.{\x{00e1} / \x{009c}\x{00ae}\x{00da}\x{0083}U\x{0092}\x{00f6}\x{00dd}\x{00b0}qN\x{00ad}R\x{00a5}&\x{00cc}W9A\x{00db}\x{00c8}\x{009c}\x{00c4}L\x{00e8}>\x{00b5}\x{00aa},\x{0092}8zL|r\x{00fa}\x{00ef}@P\x{00cf}i / \x{009b}\x{00f9}\x{00a9}{\x{0088}\x{00c8}oi4~"=\x{00c1}\x{009d}&J\x{009a}\x{00c0}\x{00e1}-\x{00cf}\x{00e0}\x{00ff}^Y	\x{00f8}}AT/\x{00ec}\x{00b3}\x{00e9}{ / \x{009b}\x{00cd}\x{00ee}\x{00b4}4\x{0088}\x{00b0}I\x{00f3}\x{00d1}e\x{00da}\x{00f2}7w\x{00f5}pg\x{00d0}\x{008c}\x{00b2}R\x{00d5}\x{0091}.2\x{0082}S\x{008a}[\x{0094}V{\x{00d1}/\x{008b}\x{00bc}\x{00d8}\x{00d6}\x{008b}d\x{00be}\x{00bb}N\x{00b4}T\x{00ca}?U\x{00f7}\x{008e}OE\x{009d}mb$\x{00ac}\x{00bf}Og\x{00f9}'\x{00be}c\x{00c5}t=\x{00c7}\x{00aa}\x{00a7}X\x{00e3}\x{00b5}\x{00ba}\x{00c9}Z / \x{0099}!\x{00d1}\x{00a3}\x{00f1}\x{00f3}\x{00cf}\x{00e5}\x{00be}\x{00e3}\x{00c6}:	*v\x{00f5}P\x{00c4}|P\x{00d0}\x{00a7}C\x{00cf}\x{00c0}\x{00c6}Qp\x{0088}S\x{0093}jw\x{00c8}\x{00d7}\x{00fc}*\x{00e7}#\x{00ea}\x{00bb}\x{00eb}\x{0081}\x{00cc}!\x{00bb}\x{00e2}i\x{00c8}4\x{00e4}\x{00fc}\x{00a0}\x{00c7}\x{00f3}\x{00b5}\x{009a}Ub\x{00b6}\x{0088}V\x{009a}\x{009a}@/ / \x{0098}\x{00c1}<^\x{00b4}\x{00c9}\x{00f9}f\x{00d5}\x{00da}+\x{00d0}.\x{0091}b\x{0092}\x{00b2}\x{00f7}\x{00f3}I*\x{00bc}\x{00b9}\x{009b}X\x{00e8}60\x{00bb}<u\x{00e8}z\x{00ee}K\x{00c9}\x{00d3}\x{00fa}Yj\x{00ff}\x{008d}\x{00d2}ev\x{00c1}\x{0093}f(\x{00de}p\x{00e7}t\x{0080}\x{00d9}\x{00e2}\x{00b4},"\x{00ec}J0\x{00f3}K\x{00c0}PE\x{00b7}\x{0098}\x{00eb}\x{00b8}\x{00cb}*\x{009b}) / \x{0098}\x{00a2}\x{00a2}\x{00ce}\x{00d8}\x{009f}ue\x{00b8}\x{00e5}\x{00d3}D\x{0082}\x{008e}z\x{00b2}\x{0091}|\x{00e3}a\x{00e8}\x{00e5}C\x{00e1}\x{008f}9"O\x{00eb}HH\x{00a4}\x{0093}U\x{00e0}\x{008d}\x{00bd}fn;\x{0084}\x{00c6}zU\x{00c9}i\x{00e8}\x{00f4}5\x{00a0}\x{00c6}\x{00ee}\x{00fa}\x{00fa}\x{00ab}=\x{00ff}2\x{0092}\x{00a9}\x{0095}Z\x{00f6}:\x{00e6}\x{00d0}\x{00d6}w\x{00ed}\x{00ef}.\x{00f7}\x{00ad}\x{00d9}}\x{00f2}<z+m6\x{00e3}\x{00bf}D / \x{0095}&\x{00d9}\x{00bc}\x{00e3}\x{00aa}BkO^k\x{00cd}Aj\x{00c8}V1/\x{00a1}j\x{00ec}~\x{0080}\x{00d6}ckW\x{00b8}\x{00ba}\x{009a}\x{0092}\x{00f9}a=A\x{0093}\x{00b7}\x{0095}\x{008a}\x{00c2}\x{00fc}^\x{0087}\x{00f5}\x{00d7}\x{00ce}\x{00ff}d\x{00bf}\x{00b3}^\x{00b4}\x{0084}\x{00a2}\x{00bc}\x{00e9}\x{00d3}aZt&\x{00d0}\x{00bd}Kt\x{00dd}\x{00be}6z\x{00ea}\x{00db}Y\x{0092}!^\x{00f3}i\x{00e3}Sg\x{00f6}\x{00cd}\x{00f4}z\x{00c9}\x{00f9}\x{00ef}\x{00bd}\x{008c}\x{0081}\x{00cf}\x{00ea}\x{0094}\x{00e4}\x{00ad}\x{00fd}\x{00ce}}l\x{00a1}g\x{00bb}Emc\x{00ed}\x{00f1}\x{0094}\x{00dc}\x{00a8}GW\x{00dd} \x{00f2}\x{00e3}\x{00b3}LhC\x{00e1}D\x{00f3}\x{008f}\x{0089}\x{0089}\x{0082}.\x{0098}e\x{008d}\x{0081}\x{00d0}\x{00e9}\x{00e1}Vx}\x{00a8}\x{00e5}U\x{0082}^\x{008e}e7v\x{0081}\x{00bc}\x{00df}\x{00cc}@\x{009c}\x{00a0}\x{00ee}f\x{00b4}\x{00c2}\x{00c2}b\x{00d1}0&8:\x{00ac}\x{00d6}\x{00eb}g:\x{0092}z\x{00b0}\x{00b2}k\x{00d4}\x{00dd}\x{00d8}H\x{009f},)|B\x{00a1}\x{008c}\x{00ac}\x{00de}J'_\x{00a2}\x{00e0}E\x{0085}\x{00b1}$ \x{0099}\x{00c0}=`\x{00aa}Z\x{0090}>\x{008b}\x{0095}EG\x{00cd}Q\x{00ca} / \x{0093}\x{00ad}r\x{00bf})!NK\x{009b}D\x{0096}\x{009e}\x{0087}?\x{0098}\x{008f}\x{00db}\x{00f4}\x{0082}k\x{00ee}_=(\x{009b}8\x{0092}o\x{00b6}\x{00d4}w\x{00c7}:\x{008f}\x{00ad}\x{00c7}An8\x{00b2}d\x{00f2}\x{0091}w\x{0096}\x{00f6}\x{00c2}\x{0094}<\x{0085}\x{00e5}\x{00a6}:]\x{00ac}w%~I\x{00c7}gT\x{00b1}TYn	TK\x{00c4}\x{00df},7i\x{00ec}\x{00a9}d-\x{00fc}\x{00fa}\x{00e5}M\x{00a8}O\x{00cc}\x{00a1}\x{00f5}f\x{00c4}\x{00cc}\x{00e6}2\x{00f8}\x{00ff}>x\x{00e8}\x{00d4}U\x{00db}y\x{00bf}\x{00af}\x{00c1}\x{009e}\x{00d8}W{\x{00b7}uC\x{008d}\x{00a3}\x{0088}.\x{00a5}#\x{00a0}g\x{00a1}\x{0098}s|\x{00ea}\x{00ed}\x{00e2}\x{00f5}l?Wj%\x{0087}3\x{00ab}[\x{00b5}!7$&WD / \x{0091};\x{00c7}I\x{0088}1\x{00e4}r\x{00f6}\x{00b8}*\x{00c0}\x{00c5}8KA\x{00aa}\x{00af}}\x{00a3} / \x{008f}\x{00a2}\x{00b9}!|a3\x{00b3} Kh\x{00af}\x{00b6}\x{00a5}\x{008a}\x{00de}:q\x{00dc}\x{00b0}\x{00bc}23\x{00c4}\x{00e0}\x{0096}\x{00e0}N7\x{00a8}\x{00bc}iv\x{0081}\x{00f7} / \x{008c}\x{00a9}\x{00e0}\x{00c5}\x{00e1}\x{00cb}\x{009c}\x{008a}l\x{00e7}\x{00c2}A(\x{00ee}\x{00d2}kb3!\x{00ab}r\x{00b3}\x{00bb}.FZ\x{00e3}\x{0084}7 \x{00ba}l\x{00a1}\x{009a}\x{00ad}\x{00da}}T\x{00f4},jb\x{00c6}d\x{0081}\x{00bd}\x{00c8}\x{0080}\x{00c5}\x{00bc}\x{00da}\x{00b9}?%\x{00a0}\x{0098}\x{00d3}\x{00a8}$L\x{0092}\x{00ec}`\x{00e7}\x{009a}\x{00e4}x\x{00c3}\x{00c4}\x{00ad}\x{00b0}'\x{00df}\x{00e9}\x{00af}\x{00bb}lY\x{00f6}~N0\x{00f2}G\x{0096}\x{00fd}!\x{008c}-\x{009d}\x{0097}\x{00e8}\x{00c5}u\x{00cd}\x{00a3}m-Z\x{0083}3\x{00fc}\x{00cf}/G\x{009d}3\x{00af}	\x{009f}\x{00fc}g\x{00d9}`\x{00f2}\x{0089}\x{00dd}\x{0083}\x{00b1}v\x{00d0}\x{00c1}\x{0083}\x{00af}\x{00eb}0\x{00bd}`\x{00cd}\x{00ab}\x{00d1}\x{0085}\x{00be}^+\x{00a5}I\x{00ac}\x{00a7}JY[\x{00d5}\x{00fc}\x{00d2}\x{00ea}q\x{00d9}\x{00bd}\x{009b}}%\x{00d6}\x{0082}\x{00a2}|\x{00ff}\x{00b8}\x{00b6}s\x{0088}V,\x{00e9}\x{009e}1\x{00f8}\x{00e2}\x{00f9}$w\x{00bf}\x{00db}\x{00d9}\x{0085}\x{00a3}\x{009b}kaJ\x{00a6}\x{0087}\x{00eb}\x{00d5}_\x{00e7}\x{0093}K@\x{00bf}\x{00f1}\x{00a5}\x{00b3}\x{00a0}] u;8\x{00dc}\x{008d}W\x{00c1}1?T / \x{008a}\x{00d3}\x{00e8}\x{00d6}\x{00c3}7\x{00c7}\x{0089}+\x{00f2}\x{00fe}*\x{00f9}b,\x{00fe}ch\x{008a}\x{00e5} \x{00a3})_@+9%@\x{0090}\x{00d2}[\x{008e}\x{00a1}\x{00e4}T\x{00f3}\x{00ee}^P\x{00c4}2}3,\x{00f0}a\x{00b9}\x{00d2}\x{00a0}\x{0094}\x{008c}c\x{00bb}\x{00a7}\x{00d8}\x{009f}\x{00ae}s\x{008b}\x{00bc}]h\x{00a0}\x{0090}\x{0095}B\x{00b3}\x{00f2}\x{0086}\x{00c6}LQ\x{00c1}\x{00f7}6\x{00af}\x{00ee}k\x{00b1}\x{00d9}\x{00b6}E@'\x{0093}\x{00fe}w\x{00af}\x{00b8}E7\x{00e3}:\x{0091}:ejXW\x{00a2}\x{00e0}\x{0095}Dg\x{0095}}FK\x{0093}\x{00bc}\x{00de}\x{00a2}\x{0088}\x{00d5}\x{00bf}\x{00b4}\x{00f2}\x{00b4}\x{00a6}\x{0080}K}\x{0091}\x{00da}\x{00f4}\x{00ff} / \x{008a}K\x{0099}\x{00d3}`\x{00bd}\x{00be}%*!e&>\x{00e3}\x{00a3}~S\x{00b0}M\x{00d0}D\x{0081}\x{00d0}lT\x{0085}\x{0087}X\x{00f6}I\x{009b}Rj\x{009a}\x{00b5}\x{00a7}\x{009c}\x{00e2}\x{0087}]%q\x{00f1}\x{00db}3\x{00a2}\x{00a6}|#7\x{0095}\x{00b8}K\x{00f3}\x{00e7}\x{00be}0B;\x{009f}<\x{00b0}\x{0084}F\x{00f6}\x{0080}\x{00b6}+p\x{0087}\x{00ef}V / \x{0087}Fh\x{00ec}\x{00b0}\x{008d}\x{00aa}\x{00cb}\x{0089}\x{00d8}W\x{0091}\x{00c5}GA / \x{0087}CC\x{0096}\x{0091}x\x{0099}k\x{0093}\x{00df} / \x{0085}\x{00e1}\x{0081}?\x{0080}i\x{00c7}n@ / \x{0083}Dp\x{00ed}\x{00d3}T\x{00d6}\x{00b1}\x{00f0}\x{00ca}b\x{00c0}\x{00eb}p\x{00b0}l\x{00c3}q\x{00a0}F\x{009f}\x{0099}\x{00d1}e\x{00a9}\x{00be}\x{00b3}\x{00e7}\x{00e9}O\x{00d1}k\x{00e6}\x{0098}\x{008e}\x{0080}\x{009a}%Ya5 / \x{0080}A\x{00f8}7wpy\x{0080}}x\x{00c3}\x{00e6}2z\x{009e}\x{009e}\x{00a6}X\x{00df}&\x{00d9}\x{00b9}4z]AW / C\x{00b6}D\x{00a4}\x{009b}@\x{00b0}\x{008f}\x{00e5}\x{00e2}\x{0099}\x{00c6}v~>\x{00d5}\x{00bf}\x{00da}CO|\x{00b1}\x{00e8}\x{0087}\x{00bb}  \x{00b5}E\x{00e0}\x{0082}\x{00ee}\x{00be}yo\x{00db}\x{00fd}J\x{00fa}\x{0097}\x{00ca}\x{008c}\x{0082}\x{009e}\x{00ca}\x{00e6}\x{008b}~\x{00f8}Y\x{00ca}r\x{00c2}&\x{00c8}\x{00b5}c\x{00d9})B\x{00ec}\x{008d}\x{00e0}\x{00b6}\x{00a3}q\x{00a5}\x{00d5}7t3O\x{009a}yFW2\x{00c8}f\x{00a6}]\x{00a0}\x{00cc}\x{00ef}\x{00e2}\x{00e6}\x{009e}-\x{00b1}\x{00ba}%q\x{009c}[\x{009b}scR\x{00fa}#t\x{0083}\x{009c}\x{00dc}fI#6\x{00a3}&=\x{fffd}\x{fffd}\x{00d2}\x{0099}B\x{00ee}M\x{00c2}Z\x{00c3}\x{008d}\x{0096}G\x{0093}VQ\x{00d2}-\x{00d9}.\x{00b9}\x{00e7}\x{0095}\x{00dc}yg\x{0085}\x{00bd}\x{00cd}\x{008e}\x{00b6}n\x{00c9}.>b\x{008c}\x{00bc}\x{00e4}#\x{00f7}\x{00a5}\x{00be}\x{0097}\x{00c5}\x{00da}\x{00c1}\x{00a2}W$vA\x{00bf}#\x{0082}\x{00b2}\x{00aa}c / v,\x{00f2}2+\x{00aa}s\x{00e5}ew\x{0087}\x{00c9}NR\x{00d4}\x{00a1}V\x{00e2}Pa\x{00d1}6I\x{0085}M\x{0083}F\x{00ce}Z&E\x{00fc}AN\x{00f1}rKwa\x{00ca}\x{0094}\x{009f}\x{00ac}\x{0091}*\x{0097}:"nT19\x{008d}\x{00bf}\x{00aa}\x{00b7}M\x{00e9}\x{00b1}C\x{0095}u\x{00ef}\x{00f8}t\x{00f9}U[\x{0092}\x{00ce}\x{00bb}s\x{00d9}.g\x{00fe}E\x{00b8}\x{0095}\x{00a6}*l\x{00a6}`\x{00db}~\x{00cf}\x{00b1}\x{00b0}\x{00f7}-\x{009b}\x{00dc}?\x{00aa}\x{009e}\x{00dc}1]!P\x{00c0}'B\x{00a0}* \x{00f8}\x{00c5}\x{008d}\x{00e0}0F\x{00f2}s \x{0099}%\x{00fd}\x{00fc}\x{00cb}\x{00a6}\x{00e7}\x{00d4}\x{00d7}\x{00ed}~<N;\x{00c0}\x{00d0}\x{00a4}\x{00c8}\x{0094}`\x{00ba}\x{00a2}\x{00fb}\x{00e2}q\x{00ef}v{\x{00b1}T\x{0091}^\x{00b0})\x{00c9}\x{00c8}\x{00ec}=^S\x{00dc}F\x{00b2}m\x{00bf}\x{00d0}\x{00a6}\x{00a3}O0\x{00ee}z\x{00a0}=\x{00d3}\x{0092} / t^\x{0086}Dt\x{00e0}DL\x{008e}\x{00b9}fS\x{0086}\x{00b2}\x{00a6}\x{00fc}O>T\x{00e7}\x{00ca}\x{00ed}<):\x{009f}\x{00a7}e\x{00ba}F\x{0095}=\x{00d0}ike\x{0092}z\x{00bb}\x{009b}3y~=D.Q\x{00bb}\x{00b7}\x{00e6}\x{00dd}\x{00bc}]\x{00a6}\x{0088}S\x{00cb}~Q?I\x{00ef}\x{009c}\x{0092}\x{00d0}\x{00e8}.\x{009a}b\x{008b}.G\x{00ef}D / s\x{00ca}\x{0080}\x{0082}\x{00e5}7{\x{0098}=\x{00f5}h\x{00b2}\x{0086}\x{00c7}@"\x{00cc}\x{0090}\x{00e3}\x{00d6}\x{00ac}\x{00a3}\x{0097}\x{008b}[u\x{00de}<Z\x{00d4} \x{00c4}\x{00ae}.l\x{0080}Z\x{00f5}wP\x{0097}\x{009b} / r\x{00c7}\x{00a1}d\x{00e7}\x{00d6}\x{00f1}\x{0081}\x{00fa}\x{00af}3\x{00f0}a\x{009b}.v\x{00b3}\x{00ad}\x{00fe}\x{00e1}\x{00bb}\x{0089}i\x{00d8}\x{00ad}\x{00da}\x{00cd}\x{008a}\x{00b0}[E\x{00d7}F\x{00c8}=8\x{00fd}\x{00c5}{\x{0092}\x{00a2}\x{00d4}\x{00b3}\x{0089}	\x{00a9}k|b\x{00f0}m\x{00cc}\x{00c4}8\x{00ac}'\x{00a8}\x{00ac}#\x{008c}\x{00d7}\x{00f1}\x{00ec}K\x{00ea}\x{00b9}\x{00f9}\x{00e5} / o%&I.:\x{008b}1qf\x{0088}}_\x{00f8}s\x{00d1}M\x{00ce}&<\x{009c}\x{00e1}0zk:\x{009d}\x{00a4}l\x{008c}\x{00ae}\x{00a6}\x{009c}FV\x{00bb}*\x{00e6}{R\x{00fe}G\x{008f}\x{00b4}c>%\x{00ad}\x{00fd}\x{0093}E3f\x{00f5})\x{009b}\x{00fd}\x{00cd}e\x{00b8}\x{008c}\x{00d5}\x{00bf}-e\x{00c5}\x{00b8}\x{00ac}\x{00f0}\x{00ca}n\x{0089}\x{00e6}g\x{00f4} / n\x{00e9}G\x{00ce}\x{00f5}4\x{00a5}9OIL\x{00fa}<\x{00b6}\x{00a5}#N\x{00ac}\x{00ee}7\x{0093}K\x{00b6}f\x{00ca} / m&T\x{00be}T\x{0098}\x{00d0}\x{00a0}o^D\x{008a}\x{00a3}a\x{00c6}I\x{00b6}\x{00c7}\x{00fc}\x{00b5}\x{00c8}v\x{00ac} / h\x{00ef}\x{00a4}\x{00f2}\x{00ab}\x{0094}\x{0085}\x{00f3}\x{00c4}1y_h\x{0096}d\x{0093}\x{0086}aaL\x{0090}\x{00f9}\x{00bc}\x{009d}:\x{00dc}\x{00a3};\x{00eb}!\x{00b2}\x{00f7}\x{00be}pT\x{00c6}d\x{00ff}q\x{00a4}2xy\x{00f1}l\x{0095}r\x{00dc}\x{00b4}*C\x{0081}\x{00f7}6C3\x{00de}\x{0080}\x{00bd}\x{00e3}D,\x{0087}0\x{0096}^\x{008c}\x{00fd}/\x{00da}M&\x{00dc}\x{00df}\x{00b3}<\x{00f9}\x{00f0}\x{00aa}\x{00c4}%2\x{00e8}}dC\x{00ca}\x{00ac}\x{00ac}8\x{00d3}9C\x{00e5}+\x{00d2}C\x{00c2}*'k\x{00f9}?/+\x{0091}\x{00a6}c\x{00a9}{\x{00d0}\x{00e1}\x{00a8}q\x{00f3}\x{00f7}\x{00ea} / g\x{00bc}\x{00da}\x{00cf}&_\x{0082}\x{00c8}J&\x{009e}\x{00a1}\x{00a0}\x{00f9}DMZ\x{00f0}\x{00b3}\x{00f2}\x{0083}\x{00fe}\x{0082}\x{00db}jFztVt\x{00f9}g	\x{00a1}\x{0082}FyU\x{0094}\x{00d2}\x{00aa}~\x{008d}\x{00ad}Mq\x{00b4}Kv / f\x{00ff}J\x{00a9}\x{00a4}\x{00cd}\x{00f2}\x{0081}[\x{00c0}\x{00c9}\x{00ac}\x{0082}\x{0089}\x{00c7}v\x{00be}\x{0093}$by\x{0096}~\x{00ae}\x{00b9}@\x{00e1}\x{008b}%I}\x{0097}\x{00c7}\x{0093}hk_hp\x{0098}VY\x{008e}\x{00c2}\x{009b}-\x{00e8}v\x{00f7}\x{00a0}\x{009f}\x{00e9}6\x{00c2}eS\x{00f7}3V^\x{00f9}\x{00d1}g z\x{0088} / e\x{00b0}\x{00fa}\x{00bf}\x{00b4}&KOB\x{00ab}\x{00a9}\x{00ae}F\x{00a0} / b_\x{0084}\x{00ee}\x{0088}\x{00df}G'~\x{0082}S/\x{00e9}q\x{00c0}\x{0080}'\x{008f}\x{00bf}I\x{00d8}\x{00a5}-p\x{00d0}G\x{00e6}@{\x{00d2}\x{00fd}\x{00ba}_&\x{00d7}=\x{0091}v\x{00da}\x{00e1}!\x{00f5}\x{00e8}\x{0083}\x{00e5}\x{00d2}\x{00d5}\x{00cb}@\x{00dc}\x{0097}t\x{009b}\x{0087}Y\x{008f}p\x{00bf}\x{00b0}\x{00f1}\x{00fb}\x{00c2}\x{008b}=S\x{00fb}\x{009b}\x{00e6}L\x{00bb}\x{00b4}\x{00c6}i\x{00c7}\x{00e6}&={\x{00aa}\x{009b}q\x{0098}\x{00dc}\x{00f1}\x{00d3}\x{009f}\x{00a0}o@\x{0085}m\x{008c}\x{0089}{\x{00c5}0\x{0098}\x{00ef}E<\x{0089}\x{0087}\x{0097}\x{0089}\x{00db}wC\x{00bf}\x{00a2}\x{0086}\x{008b}\x{0098}Y.\x{00af}\x{00b9}K\x{00f0}i\x{00e0}l\x{00be}S\x{0090}6\x{00e4}\x{0092}\x{00d6}J\x{0088}\x{00e0}E\x{0094}\x{00ae}\x{00e2}\x{00fa};\x{00e6} / Z\x{0099}\x{00b2}\x{0083}\x{00e2}\x{00cd}\x{00c6}`\x{00f8},T\x{00d6}\x{00cd}\x{00dd}\x{00bc}@\x{00ba}\x{00a0}\x{00e9}\x{00b7}g\x{00f8}\x{00a7}\x{00bb}S\x{00df}\x{0090}\x{009a}\x{0091}\x{00ff}:\x{00ff}>\x{0087}=\x{00b0}	\x{00c6}\x{00df}!\x{00f3}(\x{0093}F\x{00f7}\x{00d3}%PF\x{00ba}\x{00e5}\x{0097}Xh\x{00b7}h\x{0092}\x{00dc}*\x{00ae}\x{008b}H4\x{00f5}8\x{00ed}9\x{00eb}\x{0098}3s\x{0099}L\x{008d}\x{00c9}P<\x{00a9}k\x{00d8}`b\x{00cf}8\x{00ee}\x{0097}\x{009c}\x{00ad})\x{00af}!l2\x{00c0}lV]\x{00a8}\x{00b0}s\x{009d}\x{0081} \x{00d0}\x{00ed}6\x{00c9}\x{0088}o\x{00d9}\x{00cc}[/!\x{00a1}\x{0098}\x{00f8}\x{00e3}\x{00da}t\x{00b3}\x{0081}MF>\x{00c3}\x{0099} / Z|\x{00ee}~\x{00e4}Xy;\x{00de}$\x{008d}!$\x{0085}\x{00d1}\x{00ee}_\x{00b3}\x{00ee}p\x{00c1}\x{00c8}\x{00c6}c\x{00a9}*\x{00c3};\x{00d4}nFs\x{00fc}zN\x{00ce}N\x{008a}\x{00c4}A*e / Y\x{009a}s\x{00b3}\x{00ad}\x{00e4}r\x{00b5}\x{0088}\x{00fa}R-)\x{00c8}\x{00ce}\x{00d9}mb\x{0094}; / T\x{00c3}\x{0096}\x{00b0}\x{00e6}\x{00f7}\x{00c0}\x{00d7}\x{0087}\x{00c2}\x{00cd}\x{0093}b\x{00a2}\x{00bc}\x{00eb}^-\x{00d3}\x{00c3}6K\x{00d3}w\x{00e1}{\x{00ae}*\x{00cd}\x{00f8}\x{00c2}\x{0093}\x{00fd}c;\x{00b1}{\x{0084}Kf\x{00a7}\x{00a9}\x{00c6}\x{00ce}\x{00ae}\x{00f1}lx\x{00ff}\x{0088}\x{00df}B-2\x{00c9}\x{00a3}\x{00da}\x{00a6}P\x{00fe}j\x{00d0}\x{00cf}\x{00e3}smQQ\x{0084}\x{0098}ME\x{00cd}h\x{00b6}27\x{00e2}c\x{00f3}\x{0092}\x{00a6}\x{00a9}c\x{0084}\x{0097}N,w\x{00c0}v\x{00b8}\x{0088}\x{00f2}\x{00a0}$ / S\x{00c8}\x{0085}\x{00f0}4\x{00da}\x{00d8} \x{009c}\x{00b7}\x{00f0}\x{0085}S\x{0084}Zf{\x{00aa}\x{009c}\x{00d1}6\x{00e7}\x{00da}\x{00b4} =malc\x{00a7}3sc\x{00df}\x{00d9}\x{00d6}:R\x{00a2}\x{00f9} ,6t\x{00ff}o\x{008c}\x{00c4}W@7A\x{009d}\x{008b}\x{00f4}\x{009b}\x{00bb}\x{00fd}?}\x{00d5}b\x{00c3}\x{0098}}jvB9NgyI / Sk#\x{00eb}\x{00e7}\x{0083}",\x{00bc}l;\x{00c8}[\x{009b}\x{0094}HBc\x{0098}\x{0080}\x{0088}[\x{00cf}9\x{00c6}^ / Q_,\x{008e}\x{00fa}\x{00c9}\x{00cd}48?\x{008b}{\x{00fa}\x{00b1}K\x{00b7}\x{00b2}b6\x{00ff}\x{0088}cxNI6	pe\x{00eb}\x{00a1}ksTn\x{00d6};_\x{0099}.\x{00cb}\x{00b7}f.\x{00f3}UK\x{009d}9\x{00ba}\x{00bd}\x{0082}]\x{0088}\x{00c9}\x{00a2}\x{0084}\x{00f6}\x{00ce}\x{00ed}v0\x{00a8}\x{00b4}\x{00f5} \x{00c7}\x{009a}\x{008f}\x{0088}p\x{00df}3Q\x{008d}\x{00e3}\x{00da}}aM\x{00eb}\x{00c0}\x{00ff}\x{00c2}Y]z\x{0081}\x{009c}\x{00a0}Hk]\x{009d}}\x{00cb}\x{0091}JK / O]\x{00ec}\x{00f4}S'\x{00aa}\x{009e}\x{0083}\x{0090}1\x{0090}\x{00d5}\x{00cf}G\x{00a5}\x{00e2}\x{00bf}\x{00e1}3\x{00a1}_\x{008e}\x{00f7}\x{00e2}\x{0090}<\x{00b6} \x{00e3}x`\x{00aa}Jd\x{0094}c\x{00b3}S\x{0090}\x{00b7}\x{00b0}`\x{00f3}\x{00e8}/,\x{00ab}x\x{00bb}\x{00c2}F\x{00b4}\x{0083}\x{00e9}uIB\x{00b5}?\x{00d8}\x{00ee} \x{00c0}\x{00a4}n\x{00c1}P\x{00bf}\x{00e7}\x{00ae}/\x{00e5}\x{00cd}!B}\x{00db}"\x{00a0}\x{00fb}m\x{00d2}:;\x{0093}\x{00bc}\x{008f}\x{00ce}wD]c\x{00c9}\x{00a8}T\x{00d3}\x{00e0}\x{00e8}s#\x{00b5}\x{00dd}>\x{009c}H@\x{00a4}v\x{00f2}p\x{00d7}\x{009f}\x{00a7}\x{0087}T\x{009a}\x{0083}\x{00c8}\x{00ae}\x{00da}\x{00a9}fs\x{00e3}%}\x{00a2}\x{00ec}\x{008e}4]En\x{009e}\x{00b1}\x{00d4}OP\x{009c}F\x{00bb}p\x{00b3}8"\x{0098}89\x{00de}\x{00ab}\x{00a6}y'\x{00fa}\x{009a} \x{0093}\x{00ee}ES\x{008a}J2/\x{008b}p\x{0098}7ZD\x{00bc}\x{00ab}\x{00c4}\x{008c}\x{0085}\x{009d}\x{008a}\x{00d1}%UJq\x{00ea}w4\x{00f0}\x{008c}b\x{00cf}B\x{00d3}\x{00b6}\x{00a8}\x{00f6}\x{00bc}\x{00f9}\x{00df} / H\x{0082}p\x{0082} `\x{00f6}\x{00ef}&\x{00a5}f\x{00ce}\x{00ad}@DG%\x{0086}\x{00a9}\x{00ef}\x{00ce}\x{00f2}\x{00f3}\x{00ca}p-\x{00b8}\x{00d7}m\x{00ac}\x{00c0}\x{00b1}:+\x{00b8}Y\x{00fa}\x{00f0} / G\x{00cf}x\x{00bd}\x{0096}\x{00ba}p\x{00fe}u\x{00e0}\x{00c5}\x{00fa}\x{00a0}\x{00e9}`\x{00fd}\x{00fc}\x{00d4}\x{00ec}\x{00d3}\x{00f5}\x{00d3}\x{009c}Q]6}i\x{0096}=\x{00fb}\x{0087}\x{00b6}\x{00b1}<\x{00ad}\x{0095}\x{00cc}\x{00b7}\x{00ac})U\x{00e0}YK|\x{00d0}$l!\x{00ac}xT }\x{00eb}\x{0098}\x{00a3}ex!S1\x{00ad}b\x{00ac}\x{0084}\x{00cd}\x{00c3}\x{00e9}\x{00f9}\x{009e}4\x{00b4}\x{008d}eB\x{00f7}\x{00ef}.LM\x{00d7}U\x{00b4}\x{00ae}\x{00b8}rg\x{00d1}5Q\x{00e6}*r\x{00db}\x{0093}\x{00ef}lqE\x{0091}\x{00bb}\x{00c1}\x{00d1}o"\x{008c}\x{00a4}\x{00b3}\x{00e4}IzZ\x{00c6}TR\x{0084}7\x{0084}\x{0094}\x{009e}X\x{00a9}~\x{00e6}\x{00b5}4\x{0089}vT\x{0099}\x{008a}\x{009d}\x{00c0}is#\x{00d0}\x{00ea}\x{00bf}\x{00e2}	W%\x{00e6}b\x{00c9}\x{00db}\x{00f6}~H\x{0087}\x{00e2}\x{008c}2\x{00c7}n=Gx\x{00c0}\x{008e}D\x{00e9}\x{00ee}\x{00fd}\x{00d9}G\x{008b}[Z7\x{00f7}\x{00d5}D\x{00d8}>\x{00b7}\x{00df}\x{00d8}\x{008e}B / G\x{0088}\x{0086}\x{00d0}\x{00dd}\x{00fe}-}\x{0088}\x{00b2}&\x{0082}\x{00b7}\x{009c}\x{00f3}\x{00fd}\x{00a3}\x{00ed}\x{00d5}Hv\x{00c9}K\x{00ca}Tz\x{0080}\x{00cc}j\x{00cc}\x{00d4}n_^\x{0088} :v\x{0084}\x{00c1}\x{00ae} \x{00cd}\x{00e0}0\x{00c0}@\x{00c5}P=,{:,r\x{00b1} V / GT\x{008a}` @A!}\x{00f3}=\x{009f}\x{00a7}h\x{00ca}\x{0095}H\x{0091}\x{00ff}y \x{00d8}8*n\x{0080}!\x{00c7}\x{008f}\x{00b2}\x{008a}1\x{00b5}\x{00ba}\x{00b4}z*\x{00a1}\x{00cb}M\x{0097}\x{00b8}3\x{008c}\x{0095}J\x{00e2}l\x{00ca}\x{008e}\x{00a1}\x{0086}$\x{008c}\x{00d5}<\x{00c7}\x{00da}\x{00dd}C2 \x{0087}\x{00c8}N\x{00a4}\x{0093}\x{009d}\x{00ad}j\x{00f4}\x{0096}r\x{00c1}q\x{00a3}\x{00a5}<\x{00e1}\x{00e9}/\x{00b3}_G\x{00c7}Rf\x{00af}\x{00e5}q:-\x{00b8}p\x{0087}u~\x{0081}\x{00fc}\x{00c3}\x{00b0}D\x{00fa}\x{0081}`\x{0086}\x{00b6}\x{008f}^>:\x{00e9} / D=\x{009c}vP\x{00da}\x{00ee}\x{00df}\x{00a9}\x{00ab}3h\x{00a0}B]\x{00ef}\x{0093}M\x{00c6}L\x{00c2}O*\x{00bb}\x{00e7}\x{00fe}\x{00de}\x{00ca}\x{00ab}K\x{00d4}B@>\x{00b8}Us	\x{009b}\x{00f1}c\x{00c5}l\x{00ab} / D:\x{009b}#\x{0099}\x{00d4}z\x{00fc}\x{00c2}\x{0084}\x{00ca}*<\x{0088}\x{00dd}\x{00e1}\x{00f4}k-P$X\x{00dc}8^twi\x{008a}d5\x{00d8}pP-\x{008c}\x{00d1}\x{00fc}Q\x{00cf}\x{00d5}M\x{00b8}\x{00f8}\x{00f9}J$iL\x{00a7}\x{00cd}\x{00ac}g;\x{00dd}v\x{00d3}\x{00fe}\x{00c0}V[ \x{0086},\x{00b6}\x{00aa}J\x{00ad}j.\x{009c}d-0\x{00fd}'\x{00b4}\x{00c1}mg\x{008b}y\x{00ad}\x{00eb}\x{00cc}EQT\x{009b}E / Ab#\x{0091}c?\x{00f0}O\x{00bb}\x{00ff}\x{009e}IP\x{00a6}c!\x{0093}\x{00ec}\x{00ce}\x{0085}\x{00c7}\x{0090}\x{00e8}{\x{00b8}\x{00f1}\x{009e}\x{00a8}\x{00fa}\x{00b7}\x{00bb}\x{00b5}\x{00b1}\x{00c2}\x{008d}\x{00fd}\x{0091}\x{00e9}\x{00c7} / @\x{00d2} ,HK\x{00a0}\x{00c6} / <\x{00a2}\x{00f9}\x{00f2}\x{00e4}\x{00ef}\x{00bb}\x{00af}\x{00e6}A\x{009f}\x{00a2}gpO\x{00c2}\x{00ed}\x{00b0}U\x{00fc}I\x{00a6}\x{00e9}$\x{00fd}\x{00fc}\x{00af}\x{009a}\x{00fd}9\x{008f}4\x{00ef}|Z\x{00fc}\x{00e6}\x{008c}:\x{008f}\x{00b2}\x{00b1}\x{00b6}^lL\x{008f}~+\x{0088}Z\x{00fa}SyuQz\x{00b7}\x{00d2} ?Gq\x{00ac}M\x{0099}p\x{008c}+?\x{00ed}y\x{00a5}M:\x{009c}yz\x{00b0}\x{00fc}A\x{00cb}\x{00ff}\x{0089}\x{008a}s2]$\x{00a1}\x{00c5} \x{008a}\x{0088}\x{00e3}\x{00b2}?\x{00d1}\x{00e4}\x{008b}\x{00c2}\x{0097}1\x{00f3}\x{0095}\x{00bd}\x{0090}\x{00d8}~ Z\x{00c3}9\x{00e2}m\x{00ed}2\x{008e}6Q{vON`\x{0096}Ps\x{00f2}\x{00e5}\x{00c1}\x{00b8}\x{00fd}\x{00bf}Z'\x{00d3}iZS\x{00b0}\x{00bd}%c{\x{00c7}\x{00c5}\x{009a}R\x{00c0}(\x{00fb}\x{00c3}N\x{00af}y\x{00fb}\x{00e5}"l\x{00b7}hxm\x{00be}2|\x{00fb}\x{00f0}G\x{00ef}\x{0093}h\x{00fd}\x{00ea}\x{009e}?\x{00b9}~i\x{00bb}\x{00b1}\x{00db}\x{00f3}\x{00a5}\x{00c6}V\x{00c1}m\x{0088}\x{00ec}\x{00de}B\x{0098}u\x{00c8}n`\x{00a7}\x{00be}?\x{00f5}\x{00cd}z\x{00c1}\x{00ec}yd!O@1\x{00ec}D\x{00aa}\x{fffd}\x{fffd}05Qu4\x{00b3}+\x{008c}yP\x{00d0}\x{00f0}\x{00ba}\x{00e6}\x{0098}\x{00b1}z\x{00df}\x{00ff}\x{00b0}\x{00da}\x{00dd}P\x{00a4}Sp\x{00f5}\x{00eb}Dfa"\x{0094}@G|\x{00fe}\x{0085}\x{00ab}Ef(\x{00f8}\x{0099}.X\x{00c9}L\x{00e1}	Wm\x{0089}\x{00c6})Zw\x{009b}\x{00f7}\x{0086}\x{00d4}n\x{008a} / 9\x{00cd}\x{0094}"\x{008f}p%G`\x{00ff}\x{00f4}~\x{0090}\x{00d9}!l!$j\x{00a4}+|@qm\x{00a8}\x{00e6}O\x{00ee}\x{00ee}ya / 5\x{00fd}\x{0082}\x{00dc}(\x{008b}\x{0087}\x{00ed}\x{00bf}\x{00f1}:.*\x{0083}qIW=$\x{00cc}5(7t\x{0088} / 4\x{00df}\x{00bf}v\x{00d0}\x{00c3}\x{008c}YU\x{00ad}>\x{0083}h1\x{00fc}0\x{00bf}/ \x{00a6}\x{00dc}dp\x{00b6}\x{008b}S\x{00be}\x{0087}\x{00c0}!\x{00dc}`#\x{00d0}\x{0089}}\x{00ea}\x{009f}\x{00fc}9\x{00a9}\x{009c}y?\x{0087}\x{00c8}\x{00b4}B\x{00e5}/c\x{00d8}H\x{00c3}\x{00e9}g)nz\x{00f0}\x{00d4}%Au\x{00dd}\x{00ec}U?>2Uo\x{00db}?\x{0094}\x{009f}\x{00e8}\x{00c7}eT5@<t\x{00e4}\x{008a} / 4\x{00cd}(\x{00bc}\x{00f7}<`}j\x{00d5}Ux\x{00f4}M\x{0094}\x{00cd}M\x{00c2}\x{00c6}m\x{009c}\x{00a3}m\x{00af}25\x{00c0}\x{00cd}Mu\x{008b}\x{00e2}\x{00cf}\x{00b8}\x{00c1} / 3>\x{00d6}\x{00a1}_-~\x{00e0}\x{00a0}X\x{00fb}\x{00a4}S\x{00c5}.\x{0086}\x{00d4}\x{009c}==\x{00bc}\x{0084}\x{00c0}g\x{00ee}j\x{0083}:ja \x{00bf}\x{0099} \x{00bf}\x{00c8}p\x{00df}h\x{00ba}R\x{0087}\x{008a}\x{00ca}\x{0083}\x{00d2}\x{00db}\x{00fc}\x{008f}\x{0080}\x{00e2}tN\x{00e9}\x{00f8}\x{00e7}\x{0086}\x{008f}\x{00f0}\x{00c5} / 2=g\x{00cd}b\x{00b4}C\x{009b}|[\x{0088}\x{0097}J?\x{008e}\x{009a}^\x{00c9}< / (\x{00cc}z\x{00cd}:\x{00ca}\x{00ff}\x{00c6}\x{00bd}\x{00d4}=\x{0092} / r\x{00dc}N\x{00b0}-\x{00e9}g\x{0096}\x{00cd}\x{00a5}r\x{0099}Z\x{00d3}\x{00e2}\x{009e}z\x{009e}79\x{00f4}1k_.\x{00ea}Y,\x{00b9}Hp\x{00cd}\x{00a7}\x{0092}n\x{00bf}\x{00f7}*\x{00f6}t\x{00cb}\x{00c8}\x{00de}\x{009f}!\x{008b}\x{009d}\x{00d3}\x{00f1}^\x{00ab}UP\x{00f9}\x{00a3}^~ /  / B\x{00a1}\x{00d2}\x{00b6}LM\x{00d3}\x{009d}\x{00a8})\x{00f9}f\x{00ce}\x{00cb}\x{00f0}'MA\x{00eb}\x{0089}\x{00e0}8\x{0089}fU\x{00ce}\x{0095} / \x{00bf}%\x{00a3}\x{008b}#\x{009e}\x{00c6}\x{00bc}9\x{00e0}M\x{0091}\x{00a7}C\x{00f1}\x{009e}w\x{00da}\x{00e1}\x{00b7}[#b\x{00b4}\x{0089}\x{0081}2<\x{00d0}.\x{0091}\x{0086}L'\x{00f9}\x{00ba}qP\x{00f6}Z64\x{00b6}+4\x{0086}f\x{00f6}A\x{00c1}\x{00de}]\x{0093}\x{00c2}\x{0085}FGIV\x{00dd}\x{00a8}n9\x{00ba}\x{00dd}\x{00de}Q\x{00b1}\x{00da},:z\x{00d9}\x{009d}\x{009b}4\x{008f}z / \x{00c4}?}p\x{0080}\x{00a1}\x{0097}\x{00e8}+b)_U\x{008a}\x{00b1}\x{00bd}\x{0087}| / \x{00a5}%\x{0083})\x{0093}Ln\x{00dc}\x{00db}\x{0091}N7k\x{008a}d\x{0087}\x{00f3}\x{0090}\x{00fb}\x{00b6}\x{00f2}A(\x{00a2}\x{00ab}^\x{00f2}\x{00f4}\x{0097}\x{0094}\x{00c3} \x{00e7}\x{0090}H\x{00ea}\x{00c7}&\x{00ac}s	\x{00b8}\x{00b0}\x{00d6}6iT\x{00e7}\x{008c}\x{00b1}|\x{00be}\x{00db}\x{00b0}t\x{00bb}\x{00a8}x\x{00d0}\x{00c4}\x{00fc}\x{008b}\x{00a9}Tw\x{0082}lM\x{00bb}\x{00b2}*\x{009e}\x{00a1}ws\x{00d7}\x{fffd}\x{fffd}v\x{009f}\x{00e2}F\x{00df}[\x{00f5}\x{00d9}\x{00c9}\x{008a}\x{00f0}#(\x{00d8};\x{008e}\x{00fb}\x{00e3}\x{0084}\x{008f}\x{0099}\x{00de}\x{00e4}w]
+tests/gzip/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/gzip/gzip-env.sh: GNU General Public License v3.0 or later
+  [Copyright: 2015-2016 Free Software Foundation, Inc.]
+tests/gzip/helin-segv.sh: GNU General Public License v3.0 or later
+  [Copyright: 2010-2016 Free Software Foundation, Inc.]
+tests/gzip/help-version.sh: GNU General Public License v3.0 or later
+  [Copyright: 2000-2016 Free Software Foundation, Inc.]
+tests/gzip/hufts.sh: GNU General Public License v3.0 or later
+  [Copyright: 2009-2016 Free Software Foundation, Inc.]
+tests/gzip/init.sh: GNU General Public License v3.0 or later
+  [Copyright: 2009-2016 Free Software Foundation, Inc.]
+tests/gzip/keep.sh: GNU General Public License v3.0 or later
+  [Copyright: 2013-2016 Free Software Foundation, Inc.]
+tests/gzip/list.sh: GNU General Public License v3.0 or later
+  [Copyright: 2016 Free Software Foundation, Inc.]
+tests/gzip/memcpy-abuse.sh: GNU General Public License v3.0 or later
+  [Copyright: 2010-2016 Free Software Foundation, Inc.]
+tests/gzip/mixed.sh: GNU General Public License v3.0 or later
+  [Copyright: 2010-2016 Free Software Foundation, Inc.]
+tests/gzip/null-suffix-clobber.sh: GNU General Public License v3.0 or later
+  [Copyright: 2010-2016 Free Software Foundation, Inc.]
+tests/gzip/stdin.sh: GNU General Public License v3.0 or later
+  [Copyright: 2009-2016 Free Software Foundation, Inc.]
+tests/gzip/test-driver.sh: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2011-2015 Free Software Foundation, Inc.]
+tests/gzip/trailing-nul.sh: GNU General Public License v3.0 or later
+  [Copyright: 2009-2016 Free Software Foundation, Inc.]
+tests/gzip/unpack-invalid.sh: GNU General Public License v3.0 or later
+  [Copyright: 2012-2016 Free Software Foundation, Inc.]
+tests/gzip/z-suffix.sh: GNU General Public License v3.0 or later
+  [Copyright: 2014-2016 Free Software Foundation, Inc.]
+tests/gzip/zdiff.sh: GNU General Public License v3.0 or later
+  [Copyright: 2009-2016 Free Software Foundation, Inc.]
+tests/gzip/zgrep-context.sh: GNU General Public License v3.0 or later
+  [Copyright: 2012-2016 Free Software Foundation, Inc.]
+tests/gzip/zgrep-f.sh: GNU General Public License v3.0 or later
+  [Copyright: 2009-2016 Free Software Foundation, Inc.]
+tests/gzip/zgrep-signal.sh: GNU General Public License v3.0 or later
+  [Copyright: 2010-2016 Free Software Foundation, Inc.]
+tests/gzip/znew-k.sh: GNU General Public License v3.0 or later
+  [Copyright: 2010-2016 Free Software Foundation, Inc.]
+tests/regression/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/config.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/config.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/data.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/data.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/levels.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/method.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/method.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/result.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/result.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/regression/test.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+zlibWrapper/examples/example.c: UNKNOWN
+  [Copyright: 1995-2006, 2011 Jean-loup Gailly]
+zlibWrapper/examples/example_original.c: UNKNOWN
+  [Copyright: 1995-2006, 2011 Jean-loup Gailly]
+zlibWrapper/examples/minigzip.c: UNKNOWN
+  [Copyright: 1995-2006, 2010-2011 Jean-loup Gailly.]
+zlibWrapper/examples/zwrapbench.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/VS2010/libzstd-dll/libzstd-dll.rc: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates."]
+build/VS2010/zstd/zstd.rc: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates."]
+build/cmake/CMakeModules/JoinPaths.cmake: UNKNOWN
+  [Copyright: 2020 Jan Tojnar]
+build/cmake/contrib/CMakeLists.txt: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/cmake/lib/CMakeLists.txt: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/cmake/programs/CMakeLists.txt: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/cmake/tests/CMakeLists.txt: BSD 2-Clause License
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/meson/contrib/meson.build: UNKNOWN
+  [Copyright: 2018]
+build/meson/lib/meson.build: UNKNOWN
+  [Copyright: 2018]
+build/meson/programs/meson.build: UNKNOWN
+  [Copyright: 2018]
+build/meson/tests/meson.build: UNKNOWN
+  [Copyright: 2018]
+build/meson/tests/valgrindTest.py: UNKNOWN
+  [Copyright: 2018]
+contrib/linux-kernel/test/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/static_test.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/test.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/test/OptionsTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/test/PzstdTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/test/RoundTrip.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/test/RoundTripTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/Buffer.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/FileSystem.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/Likely.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/Portability.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/Range.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/ResourcePool.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/ScopeGuard.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/ThreadPool.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/WorkQueue.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/examples/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/examples/parallel_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/examples/parallel_processing.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/examples/seekable_compression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/examples/seekable_decompression.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/examples/seekable_decompression_mem.c: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/seekable_format/tests/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+lib/dll/example/Makefile: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+tests/fuzz/seq_prod_fuzz_example/Makefile: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+tests/fuzz/seq_prod_fuzz_example/example_seq_prod.c: UNKNOWN
+  [Copyright: Yann Collet, Meta Platforms, Inc.]
+build/cmake/contrib/gen_html/CMakeLists.txt: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/cmake/contrib/pzstd/CMakeLists.txt: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+build/meson/contrib/gen_html/meson.build: UNKNOWN
+  [Copyright: 2018]
+build/meson/contrib/pzstd/meson.build: UNKNOWN
+  [Copyright: 2018]
+contrib/pzstd/utils/test/BufferTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/test/RangeTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/test/ResourcePoolTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/test/ScopeGuardTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/test/ThreadPoolTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/pzstd/utils/test/WorkQueueTest.cpp: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/compiler.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/errno.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/kernel.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/limits.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/math64.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/module.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/printk.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/stddef.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/swab.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/types.h: UNKNOWN
+  [Copyright: Meta Platforms, Inc. and affiliates.]
+contrib/linux-kernel/test/include/linux/xxhash.h: BSD 2-Clause License GNU General Public License, Version 2
+  [Copyright: 2012-2016 Yann Collet. / 2012-2016 Yann Collet.]

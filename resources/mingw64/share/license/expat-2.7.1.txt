@@ -1,0 +1,274 @@
+CMakeLists.txt: UNKNOWN
+  [Copyright: 2022 Mark Brand <markbrand@google.com> / 2022 Johnny Jazeix <jazeix@gmail.com> / 2022 David Faure <david.faure@kdab.com> / 2021 Alex Richardson <Alexander.Richardson@cl.cam.ac.uk> / 2020 Thomas Beutlich <tc@tbeu.de> / 2020 Maciej Sroczy\x{0144}ski <macieksroczynski@poczta.fm> / 2020 Gulliver <gulliver@traumkristalle.net> / 2019 xantares <xantares09@hotmail.com> / 2019 Mohammed Khajapasha <mohammed.khajapasha@intel.com> / 2019 Kishore Kunche <kishore.kunche@intel.com> / 2019 David Loffredo <loffredo@steptools.com> / 2019 Bhargava Shastry <bhargava.shastry@ethereum.org> / 2018 userwithuid <userwithuid@gmail.com> / 2018 pedro-vicente <pedro.vicente@space-research.org> / 2018 Yury Gribov <tetra2005@gmail.com> / 2018 Frank Rast <frank.rast@gefeg.com> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Stephen Groat <stephen@groat.us> / 2017 Rolf Eike Beer <eike@sf-mail.de> / 2017 Franek Korta <fkorta@gmail.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2016 Tobias Taschner <github@tc84.de> / 2016 Sergei Nikulov <sergey.nikulov@gmail.com> / 2016 Bj\x{00f6}rn Lindahl <bjorn.lindahl@foi.se> / 2016 Ben Boeckel <ben.boeckel@kitware.com> / 2012 Karl Waclawek <karl@waclawek.net> / 2010 Patrick Spendrin <ps_ml@gmx.de>]
+COPYING: MIT License
+  [Copyright: 2001-2025 Expat maintainers / 1998-2000 Thai Open Source Software Center Ltd and Clark Cooper]
+Makefile.am: MIT License
+  [Copyright: 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2024 Alexander Bluhm <alexander.bluhm@gmx.net> / 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2022 Johnny Jazeix <jazeix@gmail.com> / 2018 KangLin <kl222@126.com> / 2017-2025 Sebastian Pipping <sebastian@pipping.org>]
+Makefile.in: MIT License [generated file]
+  [Copyright: 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2024 Alexander Bluhm <alexander.bluhm@gmx.net> / 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2022 Johnny Jazeix <jazeix@gmail.com> / 2018 KangLin <kl222@126.com> / 2017-2025 Sebastian Pipping <sebastian@pipping.org> / 1994-2021 Free Software Foundation, Inc.]
+aclocal.m4: FSF Unlimited License (with License Retention) [generated file]
+  [Copyright: 2011-2021 Free Software Foundation, Inc. / 2009-2021 Free Software Foundation, Inc. / 2006-2021 Free Software Foundation, Inc. / 2004-2021 Free Software Foundation, Inc. / 2003-2021 Free Software Foundation, Inc. / 2002-2021 Free Software Foundation, Inc. / 2001-2021 Free Software Foundation, Inc. / 1999-2021 Free Software Foundation, Inc. / 1997-2021 Free Software Foundation, Inc. / 1996-2021 Free Software Foundation, Inc.]
+buildconf.sh: MIT License
+  [Copyright: 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Sebastian Pipping <sebastian@pipping.org>]
+configure: FSF Unlimited License GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2024 Free Software Foundation, Inc. / 2021 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2021 Free Software Foundation,]
+configure.ac: MIT License
+  [Copyright: 2024 Ferenc G\x{00e9}czi <ferenc.gm@gmail.com> / 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2020 Jeffrey Walton <noloader@gmail.com> / 2019 Mohammed Khajapasha <mohammed.khajapasha@intel.com> / 2019 Kishore Kunche <kishore.kunche@intel.com> / 2018 Yury Gribov <tetra2005@gmail.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2018 KangLin <kl222@126.com> / 2018 Benjamin Peterson <benjamin@python.org> / 2017-2020 Joe Orton <jorton@redhat.com> / 2017 Stephen Groat <stephen@groat.us> / 2017 S. P. Zeidler <spz@netbsd.org> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2006-2012 Karl Waclawek <karl@waclawek.net> / 2001-2003 Greg Stein <gstein@users.sourceforge.net> / 2000-2005 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+fix-xmltest-log.sh: MIT License
+  [Copyright: 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2019-2022 Sebastian Pipping <sebastian@pipping.org>]
+run.sh.in: MIT License
+  [Copyright: 2017-2022 Sebastian Pipping <sebastian@pipping.org>]
+test-driver-wrapper.sh: MIT License
+  [Copyright: 2019 Jeffrey Walton <noloader@gmail.com> / 2017 Sebastian Pipping <sebastian@pipping.org>]
+cmake/expat-config.cmake.in: MIT License
+  [Copyright: 2019 Expat development team]
+cmake/mingw-toolchain.cmake: MIT License
+  [Copyright: 2019 Expat development team]
+conftools/ar-lib: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2010-2021 Free Software Foundation, Inc.]
+conftools/ax-append-compile-flags.m4: FSF All Permissive License
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com>]
+conftools/ax-append-flag.m4: FSF All Permissive License
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+conftools/ax-append-link-flags.m4: FSF All Permissive License
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com>]
+conftools/ax-check-compile-flag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2020 Sebastian Pipping <sebastian@pipping.org> / 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+conftools/ax-check-link-flag.m4: FSF All Permissive License
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+conftools/ax-cxx-compile-stdcxx-11.m4: FSF All Permissive License
+  [Copyright: 2015 Paul Norman <penorman@mac.com> / 2015 Moritz Klammler <moritz@klammler.eu> / 2014-2015 Google Inc.; contributed by Alexey Sokolov <sokolov@google.com> / 2013 Roy Stogner <roystgnr@ices.utexas.edu> / 2012 Zack Weinberg <zackw@panix.com> / 2008 Benjamin Kosnik <bkoz@redhat.com>]
+conftools/ax-cxx-compile-stdcxx.m4: FSF All Permissive License
+  [Copyright: 2021 J\x{00f6}rn Heusipp <osmanx@problemloesungsmaschine.de> / 2020 Jason Merrill <jason@redhat.com> / 2019 Enji Cooper <yaneurabeya@gmail.com> / 2016, 2018 Krzesimir Nowak <qdlacz@gmail.com> / 2015 Paul Norman <penorman@mac.com> / 2015 Moritz Klammler <moritz@klammler.eu> / 2014-2015 Google Inc.; contributed by Alexey Sokolov <sokolov@google.com> / 2013 Roy Stogner <roystgnr@ices.utexas.edu> / 2012 Zack Weinberg <zackw@panix.com> / 2008 Benjamin Kosnik <bkoz@redhat.com>]
+conftools/ax-require-defined.m4: FSF All Permissive License
+  [Copyright: 2014 Mike Frysinger <vapier@gentoo.org>]
+conftools/compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2021 Free Software Foundation, Inc.]
+conftools/config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+conftools/config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+conftools/depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2021 Free Software Foundation, Inc.]
+conftools/expatcfg-compiler-supports-visibility.m4: FSF All Permissive License
+  [Copyright: 2018 The Expat Authors.]
+conftools/get-version.sh: MIT License
+  [Copyright: 2017 Kerin Millar <kfm@plushkava.net> / 2002 Greg Stein <gstein@users.sourceforge.net>]
+conftools/install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+conftools/ltmain.sh: MIT License GNU General Public License v2.0 or later
+  [Copyright: 2010-2019, 2021, 2023-2024 Bootstrap Authors / 2004-2019, 2021, 2023-2024 Bootstrap Authors / 1996-2019, 2021-2024 Free Software Foundation, Inc.]
+conftools/missing: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1996-2021 Free Software Foundation, Inc.]
+conftools/test-driver: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2011-2021 Free Software Foundation, Inc.]
+doc/Makefile.am: MIT License
+  [Copyright: 2024 Tomas Korbar <tkorbar@redhat.com> / 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2017 Stephen Groat <stephen@groat.us> / 2017 Joe Orton <jorton@redhat.com>]
+doc/Makefile.in: MIT License [generated file]
+  [Copyright: 2024 Tomas Korbar <tkorbar@redhat.com> / 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2017 Stephen Groat <stephen@groat.us> / 2017 Joe Orton <jorton@redhat.com> / 1994-2021 Free Software Foundation, Inc.]
+doc/style.css: MIT License
+  [Copyright: 2021 Sebastian Pipping <sebastian@pipping.org> / 2000-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+doc/xmlwf.xml: UNKNOWN
+  [Copyright: 2021 Tim Bray <tbray@textuality.com> / 2020 Joe Orton <jorton@redhat.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2016 Ardo van Rangelrooij <ardo@debian.org> / 2009 Karl Waclawek <karl@waclawek.net> / 2002-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2001 Scott Bronson <bronson@rinspin.com>]
+examples/Makefile.am: MIT License
+  [Copyright: 2020 Jeffrey Walton <noloader@gmail.com> / 2017-2022 Sebastian Pipping <sebastian@pipping.org>]
+examples/Makefile.in: MIT License [generated file]
+  [Copyright: 2020 Jeffrey Walton <noloader@gmail.com> / 2017-2022 Sebastian Pipping <sebastian@pipping.org> / 1994-2021 Free Software Foundation, Inc.]
+examples/element_declarations.c: MIT License
+  [Copyright: 2024 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2019 Zhongyuan Zhou <zhouzhongyuan@huawei.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2005-2007 Steven Solie <steven@solie.ca> / 2004-2006 Karl Waclawek <karl@waclawek.net> / 2001-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+examples/elements.c: MIT License
+  [Copyright: 2019 Zhongyuan Zhou <zhouzhongyuan@huawei.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2007 Steven Solie <steven@solie.ca> / 2004-2006 Karl Waclawek <karl@waclawek.net> / 2001-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+examples/outline.c: MIT License
+  [Copyright: 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2007 Steven Solie <steven@solie.ca> / 2005-2006 Karl Waclawek <karl@waclawek.net> / 2001-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+fuzz/xml_lpm_fuzzer.cpp: MIT License
+  [Copyright: 2025 Sebastian Pipping <sebastian@pipping.org> / 2022 Mark Brand <markbrand@google.com>]
+fuzz/xml_lpm_fuzzer.proto: MIT License
+  [Copyright: 2025 Sebastian Pipping <sebastian@pipping.org> / 2022 Mark Brand <markbrand@google.com>]
+fuzz/xml_parse_fuzzer.c: Apache License 2.0
+  [Copyright: 2016 The Android Open Source Project]
+fuzz/xml_parsebuffer_fuzzer.c: Apache License 2.0
+  [Copyright: 2016 The Android Open Source Project]
+lib/Makefile.am: MIT License
+  [Copyright: 2019 David Loffredo <loffredo@steptools.com> / 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2017 Tomasz K\x{0142}oczko <kloczek@fedoraproject.org>]
+lib/Makefile.in: MIT License [generated file]
+  [Copyright: 2019 David Loffredo <loffredo@steptools.com> / 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2017 Tomasz K\x{0142}oczko <kloczek@fedoraproject.org> / 1994-2021 Free Software Foundation, Inc.]
+lib/ascii.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2007 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1999-2000 Thai Open Source Software Center Ltd]
+lib/asciitab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/expat.h: MIT License
+  [Copyright: 2024 Taichi Haradaguchi <20001722@ymail.ne.jp> / 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2023 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2022 Thijs Schreijer <thijs@thijsschreijer.nl> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2016 Thomas Beutlich <tc@tbeu.de> / 2016 Cristian Rodr\x{00ed}guez <crrodriguez@opensuse.org> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2001-2002 Greg Stein <gstein@users.sourceforge.net> / 2000-2005 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/expat_external.h: MIT License
+  [Copyright: 2018 Yury Gribov <tetra2005@gmail.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2019 Sebastian Pipping <sebastian@pipping.org> / 2016 Cristian Rodr\x{00ed}guez <crrodriguez@opensuse.org> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2001-2002 Greg Stein <gstein@users.sourceforge.net> / 2000-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/iasciitab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/internal.h: MIT License
+  [Copyright: 2024 Taichi Haradaguchi <20001722@ymail.ne.jp> / 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Yury Gribov <tetra2005@gmail.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2002-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+lib/latin1tab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/nametab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+lib/utf8tab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/winconfig.h: MIT License
+  [Copyright: 2023 Orgad Shaneh <orgad.shaneh@audiocodes.com> / 2017-2023 Sebastian Pipping <sebastian@pipping.org> / 2005 Karl Waclawek <karl@waclawek.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+lib/xmlparse.c: MIT License
+  [Copyright: 2024-2025 Berkay Eren \x{00dc}r\x{00fc}n <berkay.ueruen@siemens.com> / 2024 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2023 Owain Davies <owaind@bath.edu> / 2022 Sean McBride <sean@rogue-research.com> / 2022 Samanta Navarro <ferivoz@riseup.net> / 2022 Jeffrey Walton <noloader@gmail.com> / 2022 Jann Horn <jannh@google.com> / 2021 Donghee Na <donghee.na@python.org> / 2019-2020 Ben Wagner <bungeman@chromium.org> / 2019 Vadim Zeitlin <vadim@zeitlins.org> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Mariusz Zaborski <oshogbo@vexillium.org> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2018 Benjamin Peterson <benjamin@python.org> / 2018 Anton Maklakov <antmak.pub@gmail.com> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 V\x{00e1}clav Slav\x{00ed}k <vaclav@slavik.io> / 2017 Viktor Szakats <commit@vsz.me> / 2017 Rolf Eike Beer <eike@sf-mail.de> / 2017 Hans Wennborg <hans@chromium.org> / 2017 Chanho Park <chanho61.park@samsung.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2016 Thomas Beutlich <tc@tbeu.de> / 2016 Pascal Cuoq <cuoq@trust-in-soft.com> / 2016 Gustavo Grieco <gustavo.grieco@imag.fr> / 2016 Gaurav <g.gupta@samsung.com> / 2016 Eric Rahm <erahm@mozilla.com> / 2016 Ed Schouten <ed@nuxi.nl> / 2005-2009 Steven Solie <steven@solie.ca> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2001-2002 Greg Stein <gstein@users.sourceforge.net> / 2000-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmlrole.c: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2019 David Loffredo <loffredo@steptools.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2009 Steven Solie <steven@solie.ca> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2002-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmlrole.h: MIT License
+  [Copyright: 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2002 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmltok.c: MIT License
+  [Copyright: 2023 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2022 Sean McBride <sean@rogue-research.com> / 2022 Martin Ettl <ettl.martin78@googlemail.com> / 2021 Donghee Na <donghee.na@python.org> / 2019 David Loffredo <loffredo@steptools.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Benbuck Nason <bnason@netflix.com> / 2017 Alexander Bluhm <alexander.bluhm@gmx.net> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2016 Pascal Cuoq <cuoq@trust-in-soft.com> / 2016 Don Lewis <truckman@apache.org> / 2005-2009 Steven Solie <steven@solie.ca> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2001-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmltok.h: MIT License
+  [Copyright: 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2002-2005 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmltok_impl.c: MIT License
+  [Copyright: 2022 Martin Ettl <ettl.martin78@googlemail.com> / 2020 Boris Kolpackov <boris@codesynthesis.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Benjamin Peterson <benjamin@python.org> / 2018 Anton Maklakov <antmak.pub@gmail.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmltok_impl.h: MIT License
+  [Copyright: 2017-2019 Sebastian Pipping <sebastian@pipping.org> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+lib/xmltok_ns.c: MIT License
+  [Copyright: 2017-2021 Sebastian Pipping <sebastian@pipping.org> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License v2.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2024 Free Software Foundation, Inc. / 1996-2001, 2003-2019, 2021-2024 Free Software]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2019, 2021-2024 Free]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2019, 2021-2022 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2019, 2021-2024 Free Software Foundation,]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2019, 2021-2022 Free]
+tests/Makefile.am: MIT License
+  [Copyright: 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2020 Jeffrey Walton <noloader@gmail.com> / 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk>]
+tests/Makefile.in: MIT License [generated file]
+  [Copyright: 2024 Dag-Erling Sm\x{00f8}rgrav <des@des.dev> / 2020 Jeffrey Walton <noloader@gmail.com> / 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 1994-2021 Free Software Foundation, Inc.]
+tests/acc_tests.c: MIT License
+  [Copyright: 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/acc_tests.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/acc_tests_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/alloc_tests.c: MIT License
+  [Copyright: 2025 Berkay Eren \x{00dc}r\x{00fc}n <berkay.ueruen@siemens.com> / 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/alloc_tests.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/alloc_tests_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/basic_tests.c: MIT License
+  [Copyright: 2024-2025 Berkay Eren \x{00dc}r\x{00fc}n <berkay.ueruen@siemens.com> / 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/basic_tests.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/basic_tests_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/chardata.c: MIT License
+  [Copyright: 2022 Sean McBride <sean@rogue-research.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Joe Orton <jorton@redhat.com> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2016 Gilles Espinasse <g.esp@free.fr> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2002-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/chardata.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2002-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/chardata_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/common.c: MIT License
+  [Copyright: 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/common.h: MIT License
+  [Copyright: 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/common_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/dummy.c: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/dummy.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/dummy_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/handlers.c: MIT License
+  [Copyright: 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/handlers.h: MIT License
+  [Copyright: 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/handlers_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/memcheck.c: MIT License
+  [Copyright: 2022 Sean McBride <sean@rogue-research.com> / 2017-2023 Sebastian Pipping <sebastian@pipping.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk>]
+tests/memcheck.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk>]
+tests/memcheck_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/minicheck.c: MIT License
+  [Copyright: 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2004-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/minicheck.h: MIT License
+  [Copyright: 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2022 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2006-2012 Karl Waclawek <karl@waclawek.net> / 2004-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/minicheck_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/misc_tests.c: MIT License
+  [Copyright: 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/misc_tests.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/misc_tests_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/ns_tests.c: MIT License
+  [Copyright: 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/ns_tests.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/ns_tests_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/nsalloc_tests.c: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/nsalloc_tests.h: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/nsalloc_tests_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/runtests.c: MIT License
+  [Copyright: 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2022 Sean McBride <sean@rogue-research.com> / 2021 Donghee Na <donghee.na@python.org> / 2020 Tim Gates <tim.gates@iress.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Joe Orton <jorton@redhat.com> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2012 Karl Waclawek <karl@waclawek.net> / 2005-2007 Steven Solie <steven@solie.ca> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2001-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/runtests_cxx.cpp: MIT License
+  [Copyright: 2017-2023 Sebastian Pipping <sebastian@pipping.org> / 2005 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+tests/structdata.c: MIT License
+  [Copyright: 2022 Sean McBride <sean@rogue-research.com> / 2017-2023 Sebastian Pipping <sebastian@pipping.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk>]
+tests/structdata.h: MIT License
+  [Copyright: 2017 Rhodri James <rhodri@wildebeest.org.uk>]
+tests/structdata_cxx.cpp: MIT License
+  [Copyright: 2023 Sebastian Pipping <sebastian@pipping.org>]
+tests/udiffer.py: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk>]
+tests/xmltest.sh: MIT License
+  [Copyright: 2025 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2008-2019 Sebastian Pipping <sebastian@pipping.org> / 2002-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2002 Karl Waclawek <karl@waclawek.net>]
+win32/build_expat_iss.bat: MIT License
+  [Copyright: 2019-2024 Sebastian Pipping <sebastian@pipping.org>]
+win32/expat.iss: MIT License
+  [Copyright: 2024 Dag-Erling Sm\x{00c3}\x{00b8}rgrav <des@des.dev> / 2022 Johnny Jazeix <jazeix@gmail.com> / 2007-2025 Sebastian Pipping <sebastian@pipping.org> / 2006-2017 Karl Waclawek <karl@waclawek.net> / 2001-2005 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2001 Tim Peters <tim.peters@gmail.com> / 1997-2025 Thai Open Source Software Center, Clark Cooper, and the Expat maintainers]
+xmlwf/Makefile.am: MIT License
+  [Copyright: 2017-2021 Sebastian Pipping <sebastian@pipping.org>]
+xmlwf/Makefile.in: MIT License [generated file]
+  [Copyright: 2017-2021 Sebastian Pipping <sebastian@pipping.org> / 1994-2021 Free Software Foundation, Inc.]
+xmlwf/codepage.c: MIT License
+  [Copyright: 2019 David Loffredo <loffredo@steptools.com> / 2016-2019 Sebastian Pipping <sebastian@pipping.org> / 2005-2006 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/codepage.h: MIT License
+  [Copyright: 2016-2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/ct.c: MIT License
+  [Copyright: 2016-2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/filemap.h: MIT License
+  [Copyright: 2016-2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/readfilemap.c: MIT License
+  [Copyright: 2025 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2022 Sean McBride <sean@rogue-research.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Franek Korta <fkorta@gmail.com> / 2016-2017 Sebastian Pipping <sebastian@pipping.org> / 2002-2009 Karl Waclawek <karl@waclawek.net> / 2001-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/unixfilemap.c: MIT License
+  [Copyright: 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2017 Sebastian Pipping <sebastian@pipping.org> / 2006 Karl Waclawek <karl@waclawek.net> / 2001-2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/win32filemap.c: MIT License
+  [Copyright: 2022 Martin Ettl <ettl.martin78@googlemail.com> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmlfile.c: MIT License
+  [Copyright: 2024 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2021 Donghee Na <donghee.na@python.org> / 2019 David Loffredo <loffredo@steptools.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2007 Steven Solie <steven@solie.ca> / 2004-2006 Karl Waclawek <karl@waclawek.net> / 2002-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmlfile.h: MIT License
+  [Copyright: 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmlmime.c: MIT License
+  [Copyright: 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2016-2018 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmlmime.h: MIT License
+  [Copyright: 2016-2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmltchar.h: MIT License
+  [Copyright: 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2021 Sebastian Pipping <sebastian@pipping.org> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmlwf.c: MIT License
+  [Copyright: 2022 Sean McBride <sean@rogue-research.com> / 2022 Martin Ettl <ettl.martin78@googlemail.com> / 2021 Tim Bray <tbray@textuality.com> / 2020 Kleber Tarc\x{00ed}sio <klebertarcisio@yahoo.com.br> / 2020 Joe Orton <jorton@redhat.com> / 2019 David Loffredo <loffredo@steptools.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2007 Steven Solie <steven@solie.ca> / 2004-2009 Karl Waclawek <karl@waclawek.net> / 2001-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+xmlwf/xmlwf_helpgen.py: MIT License
+  [Copyright: 2021 Tim Bray <tbray@textuality.com> / 2019-2023 Sebastian Pipping <sebastian@pipping.org>]
+xmlwf/xmlwf_helpgen.sh: MIT License
+  [Copyright: 2019-2021 Sebastian Pipping <sebastian@pipping.org>]
+tests/benchmark/Makefile.am: MIT License
+  [Copyright: 2020 Jeffrey Walton <noloader@gmail.com> / 2017 Sebastian Pipping <sebastian@pipping.org>]
+tests/benchmark/Makefile.in: MIT License [generated file]
+  [Copyright: 2020 Jeffrey Walton <noloader@gmail.com> / 2017 Sebastian Pipping <sebastian@pipping.org> / 1994-2021 Free Software Foundation, Inc.]
+tests/benchmark/benchmark.c: MIT License
+  [Copyright: 2017-2025 Sebastian Pipping <sebastian@pipping.org> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2005-2007 Steven Solie <steven@solie.ca> / 2003-2006 Karl Waclawek <karl@waclawek.net>]

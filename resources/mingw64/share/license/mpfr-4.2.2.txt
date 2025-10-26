@@ -1,0 +1,1118 @@
+BUGS: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+COPYING: GNU General Public License, Version 3
+  [Copyright: 2007 Free Software Foundation, Inc. <https://fsf.org/>]
+COPYING.LESSER: GNU Lesser General Public License, Version 3
+  [Copyright: 2007 Free Software Foundation, Inc. <https://fsf.org/>]
+ChangeLog: UNKNOWN
+  [Copyright: status) / motice / material in fpif.c and test_fpif.c / lines. / lines (2004). / line. / line). / line updated. / line of the source files to 2004. / line changed. / line (we are now in 2006!). / line / line / header / 2004 line. / (I'm the sole author of this part of the code)]
+INSTALL: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+Makefile.am: UNKNOWN
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+Makefile.in: UNKNOWN [generated file]
+  [Copyright: 2000-2025 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+NEWS: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+README: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+TODO: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+acinclude.m4: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000, 2002-2025 Free Software Foundation, Inc.]
+aclocal.m4: FSF Unlimited License (with License Retention) GNU General Public License, Version 2 [generated file]
+  [Copyright: 2022-2024 Free Software Foundation, Inc. / 2022-2024 Free Software Foundation, Inc. / 2011-2024 Free Software Foundation, Inc. / 2009-2024 Free Software Foundation, Inc. / 2006-2024 Free Software Foundation, Inc. / 2004-2024 Free Software Foundation, Inc. / 2003-2024 Free Software Foundation, Inc. / 2002-2024 Free Software Foundation, Inc. / 2001-2024 Free Software Foundation, Inc. / 1999-2024 Free Software Foundation, Inc. / 1997-2024 Free Software Foundation, Inc. / 1996-2024 Free Software Foundation, Inc.]
+ar-lib: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+configure: FSF Unlimited License GNU Lesser General Public License v3.0 or later GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2024 Free Software Foundation, Inc. / 2023 Free Software Foundation, Inc. / 1999-2025 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2023 Free Software Foundation,]
+configure.ac: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+ltmain.sh: MIT License GNU General Public License v2.0 or later
+  [Copyright: 2010-2019, 2021, 2023-2024 Bootstrap Authors / 2004-2019, 2021, 2023-2024 Bootstrap Authors / 1996-2019, 2021-2024 Free Software Foundation, Inc.]
+missing: GNU General Public License v2.0 or later
+  [Copyright: 1996-2024 Free Software Foundation, Inc.]
+test-driver: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+doc/Makefile.am: UNKNOWN
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+doc/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 2010-2025 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+doc/README.dev: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2025 Free Software Foundation, Inc. / 2002-2025 Free Software Foundation, Inc.]
+doc/check-typography: UNKNOWN
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+doc/fdl.texi: GNU Free Documentation License v1.3 or later
+  [Copyright: resulting from the compilation is not used to limit the legal rights / @var{year} @var{your name}. / @copyright{} 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.]
+doc/mpfr.info: GNU Lesser General Public License v3.0 or later GNU Free Documentation License v1.3 or later
+  [Copyright: resulting from the compilation is not used to limit the / 2000-2002, 2007-2008 Free Software Foundation, Inc. / 1991, 1993-2025 Free Software Foundation, Inc.]
+doc/mpfr.texi: GNU Lesser General Public License v3.0 or later GNU Free Documentation License v1.3 or later
+  [Copyright: 1991, 1993-2025 Free Software Foundation, Inc.]
+doc/texinfo.tex: GNU General Public License v3.0 or later
+  [Copyright: {copyright}% / definedummywordregisteredsymbol / before the first topic whose initial is c / 1985-1986, 1988, 1990-2022 Free Software Foundation, Inc.]
+examples/can_round.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+examples/divworst.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+examples/rndo-add.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+examples/sample.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+examples/threads.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+examples/version.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+m4/ax_pthread.m4: GNU General Public License v3.0 or later
+  [Copyright: 2019 Marc Stevens <marc.stevens@cwi.nl> / 2011 Daniel Richard G. <skunk@iSKUNK.ORG> / 2008 Steven G. Johnson <stevenj@alum.mit.edu>]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License v2.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2024 Free Software Foundation, Inc. / 1996-2001, 2003-2019, 2021-2024 Free Software]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2019, 2021-2024 Free]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2019, 2021-2024 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2019, 2021-2024 Free Software Foundation,]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2019, 2021-2024 Free]
+src/Makefile.am: UNKNOWN
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+src/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 2000-2025 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+src/abort_prec_max.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/acos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/acosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/acosu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/add.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c, rnd_mode), / 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+src/add1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/add1sp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/add1sp1_extracted.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/add_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/add_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+src/agm.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/ai.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+src/asin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/asinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/asinu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/atan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/atan2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/atan2u.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/atanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/atanu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/bernoulli.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/beta.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2017-2025 Free Software Foundation, Inc.]
+src/buildopt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/cache.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/cbrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+src/check.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/clear.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2001, 2004-2025 Free Software Foundation, Inc.]
+src/clears.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/cmp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001, 2003-2025 Free Software Foundation, Inc.]
+src/cmp2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+src/cmp_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/cmp_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/cmp_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/cmp_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/cmpabs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/cmpabs_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020-2025 Free Software Foundation, Inc.]
+src/comparisons.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2004, 2006-2025 Free Software Foundation, Inc.]
+src/compound.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/const_catalan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/const_euler.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/const_log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/const_pi.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/constant.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/copysign.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/cos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/cosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004-2025 Free Software Foundation, Inc.]
+src/cosu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020-2025 Free Software Foundation, Inc.]
+src/cot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/coth.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/csc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/csch.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/d_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c, rnd_mode), / 2007-2025 Free Software Foundation, Inc.]
+src/d_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c, rnd_mode), / 2007-2025 Free Software Foundation, Inc.]
+src/digamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/dim.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/div_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/div_2si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/div_2ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/div_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/div_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/dot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+src/dump.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/eint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/eq.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001, 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/erandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013-2025 Free Software Foundation, Inc.]
+src/erf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001, 2003-2025 Free Software Foundation, Inc.]
+src/erfc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/exceptions.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/exp10.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/exp10m1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/exp2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/exp2m1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/exp3.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/exp_2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/expm1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/extract.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2002, 2004-2025 Free Software Foundation, Inc.]
+src/factorial.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001, 2004-2025 Free Software Foundation, Inc.]
+src/fits_intmax.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/fits_s.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+src/fits_sint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+src/fits_slong.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+src/fits_sshort.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+src/fits_u.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+src/fits_uint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+src/fits_uintmax.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/fits_ulong.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+src/fits_ushort.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+src/fma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/fmma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c, / 2014-2025 Free Software Foundation, Inc.]
+src/fmod_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+src/fms.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/fpif.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+src/frac.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2004, 2006-2025 Free Software Foundation, Inc.]
+src/free_cache.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/frexp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+src/gamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: if EXP(y) > 1 and EXP(y)-PREC(y) > 1, w = EXP(y) - 1. / cannot happen in practice since this would imply that / 2001-2025 Free Software Foundation, Inc.]
+src/gamma_inc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+src/gammaonethird.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+src/gen_inverse.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/get_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/get_d128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2006-2025 Free Software Foundation, Inc.]
+src/get_d64.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2006-2025 Free Software Foundation, Inc.]
+src/get_exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2004, 2006-2025 Free Software Foundation, Inc.]
+src/get_f.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/get_float128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+src/get_flt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/get_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+src/get_q.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/get_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+src/get_sj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/get_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/get_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/get_uj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/get_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/get_z_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+src/gmp_op.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001, 2003-2025 Free Software Foundation, Inc.]
+src/grandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: if xp and yp are odd, if we note x = xp+1, y = yp+1 and / 2011-2025 Free Software Foundation, Inc.]
+src/hypot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/ieee_floats.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/init.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/init2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/inits.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/inits2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/inp_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/int_ceil_log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/invert_limb.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+src/invsqrt_limb.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2017-2025 Free Software Foundation, Inc.]
+src/isinf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/isinteger.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/isnan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/isnum.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/isqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/isregular.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/iszero.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/jn.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/jyn_asympt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: MPFR_SIGN (c)); / 2007-2025 Free Software Foundation, Inc.]
+src/li2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/lngamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/log.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/log10.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/log10p1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/log1p.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/log2p1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/log_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014-2025 Free Software Foundation, Inc.]
+src/logging.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/min_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/minmax.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001, 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/modf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/mp_clz_tab.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1991, 1993-1994, 1996-1997, 2000-2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/mparam_h.in: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/mpf2mpfr.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2002, 2004-2025 Free Software Foundation, Inc.]
+src/mpfr-cvers.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/mpfr-gmp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/mpfr-gmp.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/mpfr-impl.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/mpfr-intmax.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/mpfr-longlong.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1991-1994, 1996-1997, 1999-2005, 2007-2009, 2011-2025 Free Software Foundation, Inc.]
+src/mpfr-mini-gmp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014-2025 Free Software Foundation, Inc.]
+src/mpfr-mini-gmp.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014-2025 Free Software Foundation, Inc.]
+src/mpfr-sassert.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+src/mpfr-thread.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/mpfr.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/mpn_exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/mul.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c, rnd_mode), / cn); / [1]); / [0]); / 1999-2025 Free Software Foundation, Inc.]
+src/mul_1_extracted.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/mul_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/mul_2si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/mul_2ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/mul_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/mul_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/mulders.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/nbits_ulong.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+src/neg.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/next.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/nrandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013-2025 Free Software Foundation, Inc.]
+src/odd_p.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/out_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/pool.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014-2025 Free Software Foundation, Inc.]
+src/pow.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/pow_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/pow_sj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/pow_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/pow_uj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+src/pow_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/powerof2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+src/powr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: if (MPFR_IS_NAN (x) || MPFR_IS_STRICTNEG(x) || case (a) / 2021-2025 Free Software Foundation, Inc.]
+src/print_raw.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/print_rnd_mode.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/printf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/random_deviate.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013-2025 Free Software Foundation, Inc.]
+src/random_deviate.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2013-2025 Free Software Foundation, Inc.]
+src/rec_sqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2025 Free Software Foundation, Inc.]
+src/reldiff.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2001, 2004-2025 Free Software Foundation, Inc.]
+src/rem1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/rint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/rndna.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+src/root.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/round_near_x.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/round_p.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/round_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/round_raw_generic.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/scale2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/sec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/sech.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/set.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: if rb = sb = 0: change to rb = 1 and sb = 1, and subtract 1 / 1999, 2001-2025 Free Software Foundation, Inc.]
+src/set_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_d128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2006-2025 Free Software Foundation, Inc.]
+src/set_d64.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2006-2025 Free Software Foundation, Inc.]
+src/set_dfl_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2001, 2004-2025 Free Software Foundation, Inc.]
+src/set_exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_f.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/set_float128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+src/set_flt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/set_inf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+src/set_nan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002, 2006-2025 Free Software Foundation, Inc.]
+src/set_prc_raw.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2001, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_q.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2002, 2004-2025 Free Software Foundation, Inc.]
+src/set_rnd.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001, 2004-2025 Free Software Foundation, Inc.]
+src/set_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/set_si_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_sj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/set_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+src/set_str_raw.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/set_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/set_ui_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+src/set_uj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/set_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/set_z_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/set_zero.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+src/setmax.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2004, 2006-2025 Free Software Foundation, Inc.]
+src/setmin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2004, 2006-2025 Free Software Foundation, Inc.]
+src/setsign.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/sgn.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/si_op.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/signbit.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/sin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/sin_cos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: [MPFR_LIMB_SIZE (c)-1] == MPFR_LIMB_HIGHBIT) / 2002-2025 Free Software Foundation, Inc.]
+src/sinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/sinh_cosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/sinu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020-2025 Free Software Foundation, Inc.]
+src/sqr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/sqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/sqrt_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+src/stack_interface.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/strtofr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c, rnd_mode), / 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/sub1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/sub1sp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: rb = d > GMP_NUMB_BITS + 1 / if c0 = MPFR_LIMB_HIGHBIT, rb = 1 and sb = 0 / 2003-2025 Free Software Foundation, Inc.]
+src/sub1sp1_extracted.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/sub_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/sub_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+src/subnormal.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/sum.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2014-2025 Free Software Foundation, Inc.]
+src/swap.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+src/tan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/tanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+src/tanu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: x/u = {1/8,3/8,5/8,7/8} mod 1: return 1 or -1 / 2020-2025 Free Software Foundation, Inc.]
+src/total_order.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+src/ubf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: mpfr_log_prec, c), / m, / cn, MPFR_MANT (b), bn); / cn) : / 2016-2025 Free Software Foundation, Inc.]
+src/uceil_exp2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+src/uceil_log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+src/ufloor_log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+src/ui_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+src/ui_pow.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+src/ui_pow_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+src/ui_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+src/urandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+src/urandomb.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+src/vasprintf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/version.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+src/volatile.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+src/yn.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+src/zeta.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+src/zeta_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/Makefile.am: UNKNOWN
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 2000-2025 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+tests/cmp_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/memory.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2003, 2006-2025 Free Software Foundation, Inc.]
+tests/mpf_compat.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2005-2025 Free Software Foundation, Inc.]
+tests/mpf_compat.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+tests/mpfr-test.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/mpfr_compat.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2005-2025 Free Software Foundation, Inc.]
+tests/random2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/reuse.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/rnd_mode.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2002, 2006-2025 Free Software Foundation, Inc.]
+tests/tabort_defalloc1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/tabort_defalloc2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/tabort_prec_max.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/tabs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tacos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tacosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tacosu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+tests/tadd.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/tadd1sp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: MPFR_EXP (c)); / MPFR_EXP (b)); / 2004-2025 Free Software Foundation, Inc.]
+tests/tadd_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tadd_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tagm.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tai.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+tests/talloc-cache.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+tests/talloc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2015-2025 Free Software Foundation, Inc.]
+tests/tasin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tasinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tasinu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+tests/tassert.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/tatan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tatan2u.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+tests/tatanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tatanu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+tests/taway.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tbeta.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2017-2025 Free Software Foundation, Inc.]
+tests/tbuildopt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+tests/tcan_round.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tcbrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+tests/tcheck.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tcmp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tcmp2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2003, 2006-2025 Free Software Foundation, Inc.]
+tests/tcmp_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tcmp_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tcmp_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tcmpabs.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tcomparisons.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+tests/tcompound.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+tests/tconst_catalan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tconst_euler.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tconst_log2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tconst_pi.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tcopysign.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tcos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tcosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004-2025 Free Software Foundation, Inc.]
+tests/tcosu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020-2025 Free Software Foundation, Inc.]
+tests/tcot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tcoth.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tcsc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tcsch.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/td_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/td_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tdigamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+tests/tdim.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tdiv.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tdiv_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tdiv_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/tdot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+tests/teint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/teq.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/terandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/terandom_chisq.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/terf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tests.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/texceptions.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/texp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/texp10.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/texp10m1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/texp2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/texp2m1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/texpm1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tfactorial.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tfits.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tfma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tfmma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+tests/tfmod.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tfms.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tfpif.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/tfprintf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2025 Free Software Foundation, Inc.]
+tests/tfrac.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+tests/tfrexp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/tgamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tgamma_inc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+tests/tgeneric.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tgeneric_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tget_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/tget_d_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/tget_f.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tget_flt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+tests/tget_ld_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2006-2025 Free Software Foundation, Inc.]
+tests/tget_q.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2017-2025 Free Software Foundation, Inc.]
+tests/tget_set_d128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+tests/tget_set_d64.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2006-2025 Free Software Foundation, Inc.]
+tests/tget_sj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tget_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tget_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tgmpop.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tgrandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/thyperbolic.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/thypot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tinits.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+tests/tinp_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tinternals.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tisnan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tisqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tj0.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tj1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tjn.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tl2b.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tlgamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tli2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tlngamma.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tlog.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tlog10.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tlog10p1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tlog1p.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tlog2.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tlog2p1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tlog_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+tests/tmin_prec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2009-2025 Free Software Foundation, Inc.]
+tests/tminmax.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tmodf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tmul.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tmul_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tmul_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tmul_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/tnext.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+tests/tnrandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/tnrandom_chisq.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/tout_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/toutimpl.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tpow.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tpow3.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tpow_all.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2025 Free Software Foundation, Inc.]
+tests/tpow_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tpowr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2021-2025 Free Software Foundation, Inc.]
+tests/tprec_round.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tprintf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2025 Free Software Foundation, Inc.]
+tests/trandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/trandom_deviate.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/trec_sqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2008-2025 Free Software Foundation, Inc.]
+tests/treldiff.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tremquo.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/trint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+tests/trndna.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/troot.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/trootn_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2022-2025 Free Software Foundation, Inc.]
+tests/trootn_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2017-2025 Free Software Foundation, Inc.]
+tests/tsec.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tsech.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tset.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tset_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2025 Free Software Foundation, Inc.]
+tests/tset_exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tset_f.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tset_float128.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2012-2025 Free Software Foundation, Inc.]
+tests/tset_ld.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2002-2025 Free Software Foundation, Inc.]
+tests/tset_q.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tset_si.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tset_sj.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tset_str.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tset_z.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tset_z_2exp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tsgn.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003, 2006-2025 Free Software Foundation, Inc.]
+tests/tsi_op.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tsin.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tsin_cos.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tsinh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2002, 2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tsinh_cosh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tsinu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020-2025 Free Software Foundation, Inc.]
+tests/tsprintf.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tsqr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tsqrt.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tests/tsqrt_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2003, 2006-2025 Free Software Foundation, Inc.]
+tests/tstckintc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tstdint.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+tests/tstrtofr.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tsub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tsub1sp.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+tests/tsub_d.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tsub_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tsubnormal.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tests/tsum.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/tswap.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/ttan.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/ttanh.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/ttanu.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2020-2025 Free Software Foundation, Inc.]
+tests/ttotal_order.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+tests/ttrunc.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tui_div.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/tui_pow.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2025 Free Software Foundation, Inc.]
+tests/tui_sub.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tests/turandom.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999-2004, 2006-2025 Free Software Foundation, Inc.]
+tests/tvalist.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tests/tversion.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2004-2025 Free Software Foundation, Inc.]
+tests/ty0.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/ty1.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tyn.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tests/tzeta.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2003-2025 Free Software Foundation, Inc.]
+tests/tzeta_ui.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tools/check_mparam.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2018-2025 Free Software Foundation, Inc.]
+tools/ck-clz_tab: UNKNOWN
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+tools/ck-copyright-notice: UNKNOWN
+  [Copyright: 2008-2025 Free Software Foundation, Inc. / 2000]
+tools/ck-mparam: UNKNOWN
+  [Copyright: 2011-2025 Free Software Foundation, Inc.]
+tools/ck-news: UNKNOWN
+  [Copyright: 2016-2025 Free Software Foundation, Inc.]
+tools/ck-version-info: UNKNOWN
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+tools/get_patches.sh: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2007-2025 Free Software Foundation, Inc.]
+tune/Makefile.am: UNKNOWN
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+tune/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 2010-2025 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+tune/bidimensional_sample.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2010-2025 Free Software Foundation, Inc.]
+tune/speed.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tune/tuneup.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/amd/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/arm/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/generic/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/mips/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/powerpc64/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/sparc64/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/x86/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/x86_64/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+tools/bench/Makefile.am: UNKNOWN
+  [Copyright: 2000-2025 Free Software Foundation, Inc.]
+tools/bench/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 2000-2025 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+tools/bench/benchtime.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+tools/bench/mpfrbench.c: GNU Lesser General Public License v3.0 or later
+  [Copyright: 1999, 2001-2025 Free Software Foundation, Inc.]
+src/generic/coverage/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]
+src/x86_64/core2/mparam.h: GNU Lesser General Public License v3.0 or later
+  [Copyright: 2005-2025 Free Software Foundation, Inc.]

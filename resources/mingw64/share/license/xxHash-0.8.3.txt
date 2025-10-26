@@ -1,0 +1,105 @@
+LICENSE: BSD 2-Clause License
+  [Copyright: 2012-2021 Yann Collet]
+Makefile: GNU General Public License v2.0 or later
+  [Copyright: 2012-2024 Yann Collet]
+clib.json: *No copyright* BSD 2-Clause License
+libxxhash.pc.in: UNKNOWN
+  [Copyright: 2012-2021 Yann Collet, Facebook]
+xxh3.h: BSD 2-Clause License
+  [Copyright: 2019-2021 Yann Collet]
+xxh_x86dispatch.c: BSD 2-Clause License
+  [Copyright: 2020-2021 Yann Collet]
+xxh_x86dispatch.h: BSD 2-Clause License
+  [Copyright: 2020-2024 Yann Collet]
+xxhash.c: BSD 2-Clause License
+  [Copyright: 2012-2023 Yann Collet]
+xxhash.h: BSD 2-Clause License
+  [Copyright: 2012-2023 Yann Collet]
+cli/COPYING: GNU General Public License, Version 2
+  [Copyright: 1989, 1991 Free Software Foundation, Inc.,]
+cli/xsum_arch.c: GNU General Public License v2.0 or later
+  [Copyright: 2013-2024 Yann Collet]
+cli/xsum_arch.h: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_bench.c: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_bench.h: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_config.h: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_os_specific.c: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_os_specific.h: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_output.c: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_output.h: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_sanity_check.c: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xsum_sanity_check.h: GNU General Public License v2.0 or later
+  [Copyright: 2013-2021 Yann Collet]
+cli/xxhsum.c: GNU General Public License v2.0 or later
+  [Copyright: 2013-2023 Yann Collet]
+cmake_unofficial/JoinPaths.cmake: UNKNOWN
+  [Copyright: 2020 Jan Tojnar]
+doc/xxhash_spec.md: UNKNOWN
+  [Copyright: Yann Collet]
+tests/Makefile: GNU General Public License v2.0 or later
+  [Copyright: 2012-2021 Yann Collet]
+tests/generate_unicode_test.c: BSD 2-Clause License
+  [Copyright: 2020 Devin Hussey (easyaspi314)]
+tests/multiInclude.c: GNU General Public License v2.0 or later
+  [Copyright: 2020 Yann Collet]
+tests/ppc_define.c: GNU General Public License v2.0 or later
+  [Copyright: 2020 Yann Collet]
+tests/sanity_test.c: *No copyright* GNU General Public License, Version 2
+tests/sanity_test_vectors_generator.c: *No copyright* GNU General Public License, Version 2
+tests/bench/LICENSE: GNU General Public License, Version 2
+  [Copyright: 1989, 1991 Free Software Foundation, Inc.,]
+tests/bench/Makefile: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/benchHash.c: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/benchHash.h: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/benchfn.c: UNKNOWN
+  [Copyright: 2016-2021 Yann Collet, Facebook, Inc.]
+tests/bench/benchfn.h: UNKNOWN
+  [Copyright: 2016-2021 Yann Collet, Facebook, Inc.]
+tests/bench/bhDisplay.c: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/bhDisplay.h: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/hashes.h: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/main.c: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/bench/timefn.c: UNKNOWN
+  [Copyright: 2019-2021 Yann Collet, Facebook, Inc.]
+tests/bench/timefn.h: UNKNOWN
+  [Copyright: 2016-2021 Yann Collet, Facebook, Inc.]
+tests/collisions/LICENSE: GNU General Public License, Version 2
+  [Copyright: 1989, 1991 Free Software Foundation, Inc.,]
+tests/collisions/Makefile: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/collisions/hashes.h: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/collisions/main.c: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/collisions/pool.c: UNKNOWN
+  [Copyright: 2016-2021 Yann Collet, Facebook, Inc.]
+tests/collisions/pool.h: UNKNOWN
+  [Copyright: 2016-2021 Yann Collet, Facebook, Inc.]
+tests/collisions/sort.cc: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/collisions/sort.hh: GNU General Public License v2.0 or later
+  [Copyright: 2019-2021 Yann Collet]
+tests/collisions/threading.c: UNKNOWN
+  [Copyright: 2016 Tino Reichardt]
+tests/collisions/threading.h: UNKNOWN
+  [Copyright: 2016 Tino Reichardt]
+tests/collisions/allcodecs/dummy.c: GNU General Public License v2.0 or later
+  [Copyright: 2020 Yann Collet]
+tests/collisions/allcodecs/dummy.h: GNU General Public License v2.0 or later
+  [Copyright: 2020 Yann Collet]

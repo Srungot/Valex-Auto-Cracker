@@ -1,0 +1,1178 @@
+COPYING: GNU General Public License, Version 3
+  [Copyright: 2007 Free Software Foundation, Inc. <http://fsf.org/>]
+COPYING.LIB: GNU Lesser General Public License, Version 2.1
+  [Copyright: 1991, 1999 Free Software Foundation, Inc.]
+ChangeLog: UNKNOWN
+  [Copyright: header with year 2022. / header to GPLv3+.]
+NEWS: *No copyright* GNU Lesser General Public License, Version 2.1 GNU General Public License, Version 3
+aclocal.m4: FSF Unlimited License (with License Retention) GNU General Public License, Version 2 [generated file]
+  [Copyright: 2022-2024 Free Software Foundation, Inc. / 2022-2024 Free Software Foundation, Inc. / 2009-2024 Free Software Foundation, Inc. / 2008-2024 Free Software Foundation, Inc. / 2006-2024 Free Software Foundation, Inc. / 2004-2024 Free Software Foundation, Inc. / 2003-2024 Free Software Foundation, Inc. / 2002-2024 Free Software Foundation, Inc. / 2001-2024 Free Software Foundation, Inc. / 1999-2024 Free Software Foundation, Inc. / 1997-2024 Free Software Foundation, Inc. / 1996-2024 Free Software Foundation, Inc.]
+autogen.sh: GNU General Public License v3.0 or later
+  [Copyright: 2003-2024 Free Software Foundation, Inc.]
+configure: FSF Unlimited License GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2024 Free Software Foundation, Inc. / 2023 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2023 Free Software Foundation,]
+configure.ac: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+build-aux/ar-lib: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+build-aux/compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+build-aux/config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+build-aux/config.libpath: GNU General Public License v3.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 1996-2024 Free Software Foundation, Inc.]
+build-aux/config.rpath: FSF Unlimited License (with License Retention)
+  [Copyright: 2024 Free Software Foundation, Inc. / 1996-2024 Free Software Foundation, Inc.]
+build-aux/config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+build-aux/install-reloc: GNU General Public License v3.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2003-2024 Free Software Foundation, Inc.]
+build-aux/install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+build-aux/libtool-reloc: GNU General Public License v3.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2019-2024 Free Software Foundation, Inc.]
+build-aux/ltmain.sh: MIT License GNU General Public License v2.0 or later
+  [Copyright: 2010-2019, 2021, 2023-2024 Bootstrap Authors / 2004-2019, 2021, 2023-2024 Bootstrap Authors / 1996-2019, 2021-2024 Free Software Foundation, Inc.]
+build-aux/missing: GNU General Public License v2.0 or later
+  [Copyright: 1996-2024 Free Software Foundation, Inc.]
+build-aux/mkinstalldirs: *No copyright* UNKNOWN [generated file]
+build-aux/reloc-ldflags: GNU General Public License v3.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2003-2024 Free Software Foundation, Inc.]
+extras/iconv_string.c: UNKNOWN
+  [Copyright: 1999-2001, 2003, 2011 Bruno Haible.]
+extras/iconv_string.h: UNKNOWN
+  [Copyright: 1999-2001 Bruno Haible.]
+include/export.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005-2023 Free Software Foundation, Inc.]
+include/iconv.h.build.in: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+include/iconv.h.in: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/aliases2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2003, 2008, 2022 Free Software Foundation, Inc.]
+lib/armscii_8.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/ascii.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/atarist.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2005, 2016 Free Software Foundation, Inc.]
+lib/big5.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/big5_2003.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2016 Free Software Foundation, Inc.]
+lib/big5hkscs1999.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2006, 2016 Free Software Foundation, Inc.]
+lib/big5hkscs2001.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2006, 2016 Free Software Foundation, Inc.]
+lib/big5hkscs2004.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2006, 2016 Free Software Foundation, Inc.]
+lib/big5hkscs2008.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2006, 2010 Free Software Foundation, Inc.]
+lib/c99.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/ces_big5.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/ces_gbk.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2016 Free Software Foundation, Inc.]
+lib/cjk_variants.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001 Free Software Foundation, Inc.]
+lib/cns11643.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001 Free Software Foundation, Inc.]
+lib/cns11643_1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2005, 2016 Free Software Foundation, Inc.]
+lib/cns11643_15.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cns11643_2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cns11643_3.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cns11643_4.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cns11643_4a.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002 Free Software Foundation, Inc.]
+lib/cns11643_4b.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002 Free Software Foundation, Inc.]
+lib/cns11643_5.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cns11643_6.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cns11643_7.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cns11643_inv.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2005, 2012, 2016 Free Software Foundation, Inc.]
+lib/compat.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2023 Free Software Foundation, Inc.]
+lib/config.h.in: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2003, 2005, 2007, 2010, 2012 Free Software Foundation, Inc.]
+lib/converters.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/cp1046.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1124.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1125.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1129.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1131.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp1133.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1161.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp1162.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp1163.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp1250.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1251.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1252.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1253.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1254.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1255.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2004, 2016 Free Software Foundation, Inc.]
+lib/cp1256.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1257.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp1258.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2004, 2016 Free Software Foundation, Inc.]
+lib/cp437.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp50221_0208_ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2012, 2016 Free Software Foundation, Inc.]
+lib/cp50221_0212_ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2011, 2016 Free Software Foundation, Inc.]
+lib/cp737.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp775.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp850.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp852.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp853.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp855.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp856.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp857.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp858.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp860.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp861.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp862.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp863.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/cp864.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp865.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp866.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp869.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp874.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp922.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp932.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2005, 2016 Free Software Foundation, Inc.]
+lib/cp932ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/cp936.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005, 2016 Free Software Foundation, Inc.]
+lib/cp936ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/cp943.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001 Free Software Foundation, Inc.]
+lib/cp949.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2007, 2016 Free Software Foundation, Inc.]
+lib/cp950.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2016 Free Software Foundation, Inc.]
+lib/cp950ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/dec_hanyu.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2005, 2016 Free Software Foundation, Inc.]
+lib/dec_kanji.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2016 Free Software Foundation, Inc.]
+lib/ebcdic037.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1025.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1026.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1047.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1097.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1112.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1122.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1123.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1130.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1132.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1137.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1140.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1141.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1142.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1143.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1144.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1145.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1146.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1147.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1148.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1149.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1153.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1154.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1155.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1156.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1157.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1158.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1160.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1164.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1165.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic1166.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic12712.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic16804.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic273.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic277.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic278.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic280.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic282.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic284.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic285.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic297.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic423.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic424.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic425.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic4971.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic500.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic838.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic870.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic871.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic875.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic880.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic905.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/ebcdic924.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2023 Free Software Foundation, Inc.]
+lib/encodings.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2011 Free Software Foundation, Inc.]
+lib/encodings_aix.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2002, 2008 Free Software Foundation, Inc.]
+lib/encodings_dos.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Free Software Foundation, Inc.]
+lib/encodings_extra.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002, 2005, 2008 Free Software Foundation, Inc.]
+lib/encodings_local.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2001 Free Software Foundation, Inc.]
+lib/encodings_osf1.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2008 Free Software Foundation, Inc.]
+lib/encodings_zos.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Free Software Foundation, Inc.]
+lib/euc_cn.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/euc_jisx0213.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/euc_jp.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2016 Free Software Foundation, Inc.]
+lib/euc_kr.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2007, 2016 Free Software Foundation, Inc.]
+lib/euc_tw.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/flushwc.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001 Free Software Foundation, Inc.]
+lib/gb12345.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/gb12345ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/gb18030_2005.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2012, 2016, 2023 Free Software Foundation, Inc.]
+lib/gb18030_2022.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2012, 2016, 2023 Free Software Foundation, Inc.]
+lib/gb18030ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2011, 2016, 2023 Free Software Foundation, Inc.]
+lib/gb18030uni.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2012, 2016, 2023 Free Software Foundation, Inc.]
+lib/gb2312.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/gbk.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2008, 2016 Free Software Foundation, Inc.]
+lib/gbkext1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2000, 2016 Free Software Foundation, Inc.]
+lib/gbkext2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2000, 2016 Free Software Foundation, Inc.]
+lib/gbkext_inv.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/genaliases.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2003, 2005, 2008, 2012, 2017, 2023 Free Software Foundation, Inc.]
+lib/genaliases2.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2003, 2005, 2008, 2012, 2022 Free Software Foundation, Inc.]
+lib/genflags.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2002, 2005-2006, 2008-2009, 2016, 2022-2023 Free Software Foundation, Inc.]
+lib/gentranslit.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2003, 2005, 2011-2012, 2016, 2018, 2020 Free Software Foundation, Inc. / 1999-2003 Free Software Foundation, Inc. ");]
+lib/georgian_academy.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/georgian_ps.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/hkscs1999.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2006, 2012, 2016 Free Software Foundation, Inc.]
+lib/hkscs2001.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2006, 2012, 2016 Free Software Foundation, Inc.]
+lib/hkscs2004.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2006, 2012, 2016 Free Software Foundation, Inc.]
+lib/hkscs2008.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2010, 2012, 2016 Free Software Foundation, Inc.]
+lib/hp_roman8.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/hz.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/iconv.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/iconv_open1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/iconv_open2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/iso2022_cn.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/iso2022_cnext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/iso2022_jp.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/iso2022_jp1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/iso2022_jp2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016, 2024 Free Software Foundation, Inc.]
+lib/iso2022_jp3.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2004, 2008, 2016 Free Software Foundation, Inc.]
+lib/iso2022_jpms.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2011-2012, 2016, 2018, 2024 Free Software Foundation, Inc.]
+lib/iso2022_kr.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/iso646_cn.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso646_jp.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_10.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_11.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2004, 2016 Free Software Foundation, Inc.]
+lib/iso8859_13.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_14.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_15.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_16.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_3.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_4.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_5.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_6.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_7.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2004, 2016 Free Software Foundation, Inc.]
+lib/iso8859_8.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/iso8859_9.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/isoir165.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2005, 2012, 2016 Free Software Foundation, Inc.]
+lib/isoir165ext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/java.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/jisx0201.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/jisx0208.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/jisx0212.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/jisx0213.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2004, 2012 Free Software Foundation, Inc.]
+lib/johab.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2007, 2016 Free Software Foundation, Inc.]
+lib/johab_hangul.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/koi8_r.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/koi8_ru.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/koi8_t.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/koi8_u.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/ksc5601.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2007, 2012, 2016 Free Software Foundation, Inc.]
+lib/loop_unicode.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/loop_wchar.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2024 Free Software Foundation, Inc.]
+lib/loops.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000 Free Software Foundation, Inc.]
+lib/mac_arabic.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_centraleurope.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_croatian.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_cyrillic.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_greek.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_hebrew.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_iceland.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_roman.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_romania.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_thai.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_turkish.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mac_ukraine.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/mulelao.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/nextstep.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/pt154.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2005, 2016 Free Software Foundation, Inc.]
+lib/riscos1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/rk1048.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2007, 2016 Free Software Foundation, Inc.]
+lib/shift_jisx0213.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002 Free Software Foundation, Inc.]
+lib/sjis.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/tcvn.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2004, 2016, 2019 Free Software Foundation, Inc.]
+lib/tds565.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2002, 2016 Free Software Foundation, Inc.]
+lib/tis620.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/translit.def: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2003, 2023 Free Software Foundation, Inc.]
+lib/translit.h: GNU Library General Public License v2 or later
+  [Copyright: 1999-2003 Free Software Foundation, Inc.]
+lib/ucs2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/ucs2be.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/ucs2internal.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/ucs2le.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/ucs2swapped.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016 Free Software Foundation, Inc.]
+lib/ucs4.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/ucs4be.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2000, 2016, 2024 Free Software Foundation, Inc.]
+lib/ucs4internal.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2000, 2016 Free Software Foundation, Inc.]
+lib/ucs4le.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2000, 2016, 2024 Free Software Foundation, Inc.]
+lib/ucs4swapped.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2000, 2016 Free Software Foundation, Inc.]
+lib/uhc_1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/uhc_2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2012, 2016 Free Software Foundation, Inc.]
+lib/utf16.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/utf16be.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/utf16le.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/utf32.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+lib/utf32be.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016, 2024 Free Software Foundation, Inc.]
+lib/utf32le.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016, 2024 Free Software Foundation, Inc.]
+lib/utf7.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2008, 2016 Free Software Foundation, Inc.]
+lib/utf8.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2004, 2016 Free Software Foundation, Inc.]
+lib/vietcomb.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2004, 2011 Free Software Foundation, Inc.]
+lib/viscii.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999-2001, 2016, 2019 Free Software Foundation, Inc.]
+libcharset/COPYING.LIB: GNU Lesser General Public License, Version 2.1
+  [Copyright: 1991, 1999 Free Software Foundation, Inc.]
+libcharset/configure: FSF Unlimited License GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2024 Free Software Foundation, Inc. / 2023 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2023 Free Software Foundation,]
+libcharset/configure.ac: GNU Library General Public License v2 or later
+  [Copyright: 2000-2003, 2005-2009, 2016, 2018-2020 Free Software Foundation, Inc.]
+m4/cp.m4: GNU General Public License
+  [Copyright: 1993-2002 Free Software Foundation, Inc.]
+m4/general.m4: GNU General Public License
+  [Copyright: 1993-2003 Free Software Foundation, Inc.]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License v2.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2024 Free Software Foundation, Inc. / 1996-2001, 2003-2019, 2021-2024 Free Software]
+m4/ln.m4: GNU General Public License
+  [Copyright: 1993-2002 Free Software Foundation, Inc.]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2019, 2021-2024 Free]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2019, 2021-2024 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2019, 2021-2024 Free Software Foundation,]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2019, 2021-2024 Free]
+m4/proto.m4: GNU General Public License
+  [Copyright: 1993-2002 Free Software Foundation, Inc.]
+man/iconv.3: GNU General Public License v3.0 or later
+  [Copyright: Free Software Foundation, Inc.]
+man/iconv_close.3: GNU General Public License v3.0 or later
+  [Copyright: Free Software Foundation, Inc.]
+man/iconv_open.3: GNU General Public License v3.0 or later
+  [Copyright: Free Software Foundation, Inc.]
+man/iconv_open_into.3: GNU General Public License v3.0 or later
+  [Copyright: Free Software Foundation, Inc.]
+man/iconvctl.3: GNU General Public License v3.0 or later
+  [Copyright: Perry Rapp / Free Software Foundation, Inc.]
+po/Makefile.in.in: FSF All Permissive License
+  [Copyright: 2000-2024 Free Software Foundation, Inc. / 1995-2000 Ulrich Drepper <drepper@gnu.ai.mit.edu>]
+po/Makevars: UNKNOWN
+  [Copyright: 2003-2019 Free Software Foundation, Inc.]
+po/POTFILES.in: UNKNOWN
+  [Copyright: 2002 Free Software Foundation, Inc.]
+po/Rules-quot: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+po/boldquot.sed: FSF Unlimited License (with License Retention)
+  [Copyright: 2001 Free Software Foundation, Inc.]
+po/en@boldquot.header: FSF Unlimited License (with License Retention)
+  [Copyright: 2001 Free Software Foundation, Inc.]
+po/en@quot.header: FSF Unlimited License (with License Retention)
+  [Copyright: 2001 Free Software Foundation, Inc.]
+po/insert-header.sed: FSF Unlimited License (with License Retention)
+  [Copyright: 2001 Free Software Foundation, Inc.]
+po/quot.sed: FSF Unlimited License (with License Retention)
+  [Copyright: 2001 Free Software Foundation, Inc.]
+po/remove-potcdate.sed: FSF All Permissive License
+  [Copyright: 2002 Free Software Foundation, Inc.]
+src/iconv.c: GNU General Public License v3.0 or later
+  [Copyright: 2000-2024 Free Software Foundation, Inc.]
+src/zos-tag.h: GNU General Public License v3.0 or later
+  [Copyright: 2023 Free Software Foundation, Inc.]
+srclib/Makefile.am: GNU General Public License v2.0 or later
+  [Copyright: 2003-2006, 2009, 2016, 2019 Free Software Foundation, Inc.]
+srclib/Makefile.gnulib: GNU General Public License v3.0 or later
+  [Copyright: 2002-2024 Free Software Foundation, Inc.]
+srclib/Makefile.in: GNU General Public License v3.0 or later [generated file]
+  [Copyright: 2002-2024 Free Software Foundation, Inc. / 1994-2024 Free Software Foundation, Inc.]
+srclib/_Noreturn.h: GNU Library General Public License v2 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/alloca.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995, 1999, 2001-2007 Free Software Foundation, Inc.]
+srclib/allocator.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/allocator.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/areadlink.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2003-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/areadlink.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2003-2004, 2007, 2009-2024 Free Software Foundation,]
+srclib/arg-nonnull.h: GNU Library General Public License v2 or later
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srclib/assert.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/basename-lgpl.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1990, 1998-2001, 2003-2006, 2009-2024 Free Software]
+srclib/basename-lgpl.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1998, 2001, 2003-2006, 2009-2024 Free Software Foundation,]
+srclib/binary-io.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srclib/binary-io.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2003, 2005, 2008-2024 Free Software Foundation, Inc.]
+srclib/c++defs.h: GNU Library General Public License v2 or later
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srclib/c-ctype.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003-2024 Free Software Foundation, Inc.]
+srclib/c-ctype.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2003, 2006, 2008-2024 Free Software Foundation, Inc.]
+srclib/canonicalize-lgpl.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1996-2024 Free Software Foundation, Inc.]
+srclib/careadlinkat.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001, 2003-2004, 2007, 2009-2024 Free Software Foundation,]
+srclib/careadlinkat.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/cdefs.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: The GNU Toolchain Authors. / 1992-2024 Free Software Foundation, Inc.]
+srclib/cloexec.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1991, 2004-2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/cloexec.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2004, 2009-2024 Free Software Foundation, Inc.]
+srclib/close.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/dup2.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1999, 2004-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/eloop-threshold.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2024 Free Software Foundation, Inc.]
+srclib/errno.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/error.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1990-2024 Free Software Foundation, Inc.]
+srclib/error.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995-1997, 2003, 2006, 2008-2024 Free Software Foundation,]
+srclib/fcntl.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srclib/fcntl.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srclib/fd-hook.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srclib/fd-hook.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srclib/filename.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+srclib/free.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003, 2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/fstat.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/getdtablesize.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/getprogname.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2024 Free Software Foundation, Inc.]
+srclib/getprogname.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2024 Free Software Foundation, Inc.]
+srclib/gettext.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995-2024 Free Software Foundation, Inc.]
+srclib/idx.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020-2024 Free Software Foundation, Inc.]
+srclib/intprops-internal.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+srclib/intprops.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+srclib/inttypes.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srclib/libc-config.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srclib/limits.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2024 Free Software Foundation, Inc.]
+srclib/localcharset.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2003, 2009-2024 Free Software Foundation, Inc.]
+srclib/malloc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1997-1998, 2006-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/malloca.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003, 2006-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/malloca.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/mempcpy.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003, 2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/minmax.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995, 1998, 2001, 2003, 2005, 2009-2024 Free Software]
+srclib/msvc-inval.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/msvc-inval.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/msvc-nothrow.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/msvc-nothrow.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/open.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srclib/pathmax.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1992, 1999, 2001, 2003, 2005, 2009-2024 Free Software]
+srclib/progname.c: GNU General Public License v3.0 or later
+  [Copyright: 2001-2003, 2005-2024 Free Software Foundation, Inc.]
+srclib/progname.h: GNU General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/progreloc.c: GNU General Public License v3.0 or later
+  [Copyright: 2003-2024 Free Software Foundation, Inc.]
+srclib/raise.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002-2003, 2005-2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/rawmemchr.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/rawmemchr.valgrind: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/read.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/readlink.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/realloc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1997, 2003-2004, 2006-2007, 2009-2024 Free Software]
+srclib/relocatable.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003-2006, 2008-2024 Free Software Foundation, Inc.]
+srclib/relocatable.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003, 2005, 2008-2024 Free Software Foundation, Inc.]
+srclib/relocwrapper.c: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2005-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/safe-read.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1993-1994, 1998, 2002-2006, 2009-2024 Free Software]
+srclib/safe-read.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002, 2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/scratch_buffer.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srclib/setenv.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1992, 1995-2003, 2005-2024 Free Software Foundation, Inc.]
+srclib/signal.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srclib/sigprocmask.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srclib/stat-time.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2024 Free Software Foundation, Inc.]
+srclib/stat-time.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005, 2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/stat-w32.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srclib/stat-w32.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srclib/stat.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srclib/stdckdint.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022-2024 Free Software Foundation, Inc.]
+srclib/stddef.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srclib/stdint.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002, 2004-2024 Free Software Foundation, Inc.]
+srclib/stdio-read.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/stdio-write.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srclib/stdio.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2004, 2007-2024 Free Software Foundation, Inc.]
+srclib/stdlib.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Free Software Foundation, Inc.]
+srclib/stdlib.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995, 2001-2004, 2006-2024 Free Software Foundation, Inc.]
+srclib/streq.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002, 2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/strerror-override.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srclib/strerror-override.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srclib/strerror.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srclib/string.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995-1996, 2001-2024 Free Software Foundation, Inc.]
+srclib/sys-limits.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018-2024 Free Software Foundation, Inc.]
+srclib/sys_stat.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005-2024 Free Software Foundation, Inc.]
+srclib/sys_types.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srclib/time.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srclib/unistd.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2024 Free Software Foundation, Inc.]
+srclib/unistd.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003-2024 Free Software Foundation, Inc.]
+srclib/unitypes.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002, 2005-2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/uniwidth.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002, 2005, 2007, 2009-2024 Free Software Foundation,]
+srclib/unlocked-io.h: GNU General Public License v3.0 or later
+  [Copyright: 2001-2004, 2009-2024 Free Software Foundation, Inc.]
+srclib/verify.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005-2006, 2009-2024 Free Software Foundation, Inc.]
+srclib/warn-on-use.h: GNU Library General Public License v2 or later
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srclib/wchar.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srclib/xalloc-oversized.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1990-2000, 2003-2004, 2006-2024 Free Software Foundation, Inc.]
+srclib/xalloc.h: GNU General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006 Free Software Foundation, Inc.]
+srclib/xmalloc.c: GNU General Public License v3.0 or later
+  [Copyright: 1990-2024 Free Software Foundation, Inc.]
+srclib/xreadlink.c: GNU General Public License v3.0 or later
+  [Copyright: 2001, 2003-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/xreadlink.h: GNU General Public License v3.0 or later
+  [Copyright: 2001, 2003-2004, 2007, 2009-2024 Free Software Foundation,]
+srclib/xstrdup.c: GNU General Public License v3.0 or later
+  [Copyright: 1990, 1996, 2000-2003, 2005-2006 Free Software Foundation, Inc.]
+srcm4/00gnulib.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srcm4/__inline.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srcm4/absolute-header.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srcm4/alloca.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2024 Free Software Foundation, Inc.]
+srcm4/asm-underscore.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srcm4/assert_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/build-to-host.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2023-2024 Free Software Foundation, Inc.]
+srcm4/builtin-expect.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2016-2024 Free Software Foundation, Inc.]
+srcm4/c-bool.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2022-2024 Free Software Foundation, Inc.]
+srcm4/canonicalize.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003-2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/close.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srcm4/codeset.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2000-2002, 2006, 2008-2014, 2016, 2019-2024 Free Software]
+srcm4/double-slash-root.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006, 2008-2024 Free Software Foundation, Inc.]
+srcm4/dup2.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002, 2005, 2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/environ.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2004, 2006-2024 Free Software Foundation, Inc.]
+srcm4/errno_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2006, 2008-2024 Free Software Foundation, Inc.]
+srcm4/error.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1996-1998, 2001-2004, 2009-2024 Free Software Foundation, Inc.]
+srcm4/error_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1996-2024 Free Software Foundation, Inc.]
+srcm4/extensions-aix.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2024 Free Software Foundation, Inc.]
+srcm4/extensions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2006-2024 Free Software Foundation, Inc.]
+srcm4/extern-inline.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2012-2024 Free Software Foundation, Inc.]
+srcm4/fcntl-o.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006, 2009-2024 Free Software Foundation, Inc.]
+srcm4/fcntl.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srcm4/fcntl_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/free.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003-2005, 2009-2024 Free Software Foundation, Inc.]
+srcm4/fstat.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/getdtablesize.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srcm4/getprogname.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2016-2024 Free Software Foundation, Inc.]
+srcm4/gettext.m4: FSF Unlimited License (with License Retention) GNU Lesser General Public License GNU General Public License
+  [Copyright: 1995-2014, 2016, 2018-2024 Free Software Foundation, Inc.]
+srcm4/gnulib-cache.m4: GNU General Public License v3.0 or later
+  [Copyright: 2002-2024 Free Software Foundation, Inc.]
+srcm4/gnulib-common.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/gnulib-comp.m4: GNU General Public License v3.0 or later
+  [Copyright: 2002-2024 Free Software Foundation, Inc.]
+srcm4/gnulib-i18n.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005-2024 Free Software Foundation, Inc.]
+srcm4/gnulib-tool.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2009-2024 Free Software Foundation, Inc.]
+srcm4/host-cpu-c-abi.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2024 Free Software Foundation, Inc.]
+srcm4/iconv.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2000-2002, 2007-2014, 2016-2024 Free Software Foundation,]
+srcm4/include_next.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srcm4/intl-thread-locale.m4: FSF Unlimited License (with License Retention) GNU Lesser General Public License GNU General Public License
+  [Copyright: 2015-2024 Free Software Foundation, Inc.]
+srcm4/intlmacosx.m4: FSF Unlimited License (with License Retention) GNU Lesser General Public License GNU General Public License
+  [Copyright: 2004-2014, 2016, 2019-2024 Free Software Foundation, Inc.]
+srcm4/inttypes.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srcm4/largefile.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1992-1996, 1998-2024 Free Software Foundation, Inc.]
+srcm4/lib-ld.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1996-2003, 2009-2024 Free Software Foundation, Inc.]
+srcm4/lib-link.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+srcm4/lib-prefix.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2005, 2008-2024 Free Software Foundation, Inc.]
+srcm4/libunistring-base.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srcm4/limits-h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2016-2024 Free Software Foundation, Inc.]
+srcm4/locale-en.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003-2024 Free Software Foundation, Inc.]
+srcm4/lstat.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1997-2001, 2003-2024 Free Software Foundation, Inc.]
+srcm4/malloc.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/malloca.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003-2004, 2006-2007, 2009-2024 Free Software Foundation,]
+srcm4/mbstate_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2000-2002, 2008-2024 Free Software Foundation, Inc.]
+srcm4/mempcpy.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003-2004, 2006-2007, 2009-2024 Free Software Foundation,]
+srcm4/minmax.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005, 2009-2024 Free Software Foundation, Inc.]
+srcm4/mode_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srcm4/msvc-inval.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/msvc-nothrow.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/multiarch.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srcm4/musl.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2019-2024 Free Software Foundation, Inc.]
+srcm4/nls.m4: FSF Unlimited License (with License Retention) GNU Lesser General Public License GNU General Public License
+  [Copyright: 1995-2003, 2005-2006, 2008-2014, 2016, 2019-2024 Free]
+srcm4/nocrash.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005, 2009-2024 Free Software Foundation, Inc.]
+srcm4/off64_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2024 Free Software Foundation, Inc.]
+srcm4/off_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2012-2024 Free Software Foundation, Inc.]
+srcm4/open-cloexec.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2017-2024 Free Software Foundation, Inc.]
+srcm4/open-slash.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/open.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/pathmax.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2003, 2005-2006, 2009-2024 Free Software Foundation,]
+srcm4/pid_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2020-2024 Free Software Foundation, Inc.]
+srcm4/po.m4: FSF Unlimited License (with License Retention) GNU Lesser General Public License GNU General Public License
+  [Copyright: 1995-2014, 2016, 2018-2022, 2024 Free Software Foundation,]
+srcm4/progtest.m4: FSF Unlimited License (with License Retention) GNU Lesser General Public License GNU General Public License
+  [Copyright: 1996-2003, 2005, 2008-2024 Free Software Foundation, Inc.]
+srcm4/raise.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/rawmemchr.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2007-2024 Free Software Foundation, Inc.]
+srcm4/read.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/readlink.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/realloc.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/relocatable-lib.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2005-2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/relocatable.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2005-2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/safe-read.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2003, 2005-2006, 2009-2024 Free Software Foundation,]
+srcm4/setenv.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2004, 2006-2024 Free Software Foundation, Inc.]
+srcm4/signal_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/signalblocking.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2002, 2006-2024 Free Software Foundation, Inc.]
+srcm4/sigpipe.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2008-2024 Free Software Foundation, Inc.]
+srcm4/ssize_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2003, 2006, 2010-2024 Free Software Foundation, Inc.]
+srcm4/stat-time.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1998-1999, 2001, 2003, 2005-2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/stat.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srcm4/std-gnu11.m4: GNU General Public License v3.0 or later
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+srcm4/stdalign.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/stddef_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2009-2024 Free Software Foundation, Inc.]
+srcm4/stdint.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001-2024 Free Software Foundation, Inc.]
+srcm4/stdio_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/stdlib_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/strerror.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002, 2007-2024 Free Software Foundation, Inc.]
+srcm4/string_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/sys_socket_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005-2024 Free Software Foundation, Inc.]
+srcm4/sys_stat_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srcm4/sys_types_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2011-2024 Free Software Foundation, Inc.]
+srcm4/time_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2000-2001, 2003-2007, 2009-2024 Free Software Foundation, Inc.]
+srcm4/unistd_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006-2024 Free Software Foundation, Inc.]
+srcm4/unlocked-io.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 1998-2006, 2009-2024 Free Software Foundation, Inc.]
+srcm4/vararrays.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2001, 2009-2024 Free Software Foundation, Inc.]
+srcm4/visibility.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005, 2008, 2010-2024 Free Software Foundation, Inc.]
+srcm4/warn-on-use.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2010-2024 Free Software Foundation, Inc.]
+srcm4/wchar_h.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2007-2024 Free Software Foundation, Inc.]
+srcm4/wint_t.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2003, 2007-2024 Free Software Foundation, Inc.]
+srcm4/zzgnulib.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2020-2024 Free Software Foundation, Inc.]
+tests/ISO-2022-JP-3-snippet.UTF-8: UNKNOWN
+  [Copyright: \x{00e9}\x{00be}\x{009d} \x{00e7}\x{00a9}\x{00b0} \x{00e7}\x{00a9}\x{00b9} \x{00e7}\x{00a9}\x{00bd} \x{00e7}\x{00aa}\x{0088} \x{00e7}\x{00aa}\x{0097} \x{00e7}\x{00aa}\x{fffd}\x{fffd} \x{00e7}\x{00aa}\x{0098} \x{00e7}\x{00aa}\x{0096} \x{00e7}\x{00aa}\x{00a9} \x{00e7}\x{00ab}\x{0088} \x{00e7}\x{00aa}\x{00b0} / \x{00e9}\x{00ac}\x{00aa} \x{00e9}\x{00ac}\x{00ae} \x{00e9}\x{00ac}\x{00af} \x{00e9}\x{00ac}\x{00b2} / \x{00e9}\x{00a9}\x{00ab} \x{00e9}\x{00a9}\x{00aa} \x{00e9}\x{00aa}\x{00ad} \x{00e9}\x{00aa}\x{00b0} \x{00e9}\x{00aa}\x{00bc} \x{00e9}\x{00ab}\x{0080} / \x{00e9}\x{00a0}\x{008a} \x{00e9}\x{00a0}\x{009e} \x{00e9}\x{00a0}\x{00ab} \x{00e9}\x{00a0}\x{00b0} \x{00ef}\x{00a9}\x{00aa} \x{00e9}\x{00a1}\x{0092} \x{00e9}\x{00a1}\x{0093} \x{00e9}\x{00a1}\x{0096} / \x{00e8}\x{00a9}\x{00a6} \x{00e8}\x{00aa}\x{008c} / \x{00e2}\x{0093}\x{0093} \x{00e2}\x{0093}\x{0094} \x{00e2}\x{0093}\x{0095} \x{00e2}\x{0093}\x{0096} \x{00e2}\x{0093}\x{0097} \x{00e2}\x{0093}\x{0098} \x{00e2}\x{0093}\x{0099} \x{00e2}\x{0093}\x{009a} \x{00e2}\x{0093}\x{009b} \x{00e2}\x{0093}\x{009c} \x{00e2}\x{0093}\x{009d} \x{00e2}\x{0093}\x{009e} / \x{00c2}\x{00aa} \x{00c2}\x{00ab} \x{00c2}\x{00ad} \x{00c2}\x{00ae} \x{00c2}\x{00af} \x{00c2}\x{00b2} \x{00c2}\x{00b3} \x{00c2}\x{00b7} \x{00c2}\x{00b8} / \x{00b2} \x{00e9}\x{00ab}\x{0086} \x{00e9}\x{00ab}\x{0090} \x{00e9}\x{00ab}\x{0092}]
+tests/ISO-2022-JP-MS-snippet.UTF-8: UNKNOWN
+  [Copyright: \x{00e9}\x{00be}\x{009d} \x{00e7}\x{00a9}\x{00b0} \x{00e7}\x{00a9}\x{00b9} \x{00e7}\x{00a9}\x{00bd} \x{00e7}\x{00aa}\x{0088} \x{00e7}\x{00aa}\x{0097} \x{00e7}\x{00aa}\x{0095} \x{00e7}\x{00aa}\x{0098} \x{00e7}\x{00aa}\x{0096} \x{00e7}\x{00aa}\x{00a9} \x{00e7}\x{00ab}\x{0088} \x{00e7}\x{00aa}\x{00b0} / \x{00e9}\x{00ac}\x{00aa} \x{00e9}\x{00ac}\x{00ae} \x{00e9}\x{00ac}\x{00af} \x{00e9}\x{00ac}\x{00b2} / \x{00e9}\x{00a9}\x{00ab} \x{00e9}\x{00a9}\x{00aa} \x{00e9}\x{00aa}\x{00ad} \x{00e9}\x{00aa}\x{00b0} \x{00e9}\x{00aa}\x{00bc} \x{00e9}\x{00ab}\x{0080} / \x{00e8}\x{00a9}\x{00a6} \x{00e8}\x{00aa}\x{008c} / \x{00e7}\x{00ac}\x{00aa} \x{00e7}\x{00ac}\x{00ab} \x{00e7}\x{00ac}\x{00ad} \x{00e7}\x{00ac}\x{00ae} \x{00e7}\x{00ac}\x{00af} \x{00e7}\x{00ac}\x{00b0} / \x{00c2}\x{00ae} \x{00e2}\x{0084}\x{00a2}]
+tests/gengb18030z.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005, 2012 Free Software Foundation, Inc.]
+tests/genutf8.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000, 2004-2005, 2012, 2016 Free Software Foundation, Inc.]
+tests/is-native.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Free Software Foundation, Inc.]
+tests/qemu.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021-2024 Free Software Foundation, Inc.]
+tests/table-from.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2002, 2004-2005 Free Software Foundation, Inc.]
+tests/table-to.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2002, 2004-2005 Free Software Foundation, Inc.]
+tests/test-bom-state.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Free Software Foundation, Inc.]
+tests/test-discard.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Free Software Foundation, Inc.]
+tests/test-shiftseq.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008, 2018, 2022 Free Software Foundation, Inc.]
+tests/test-to-wchar.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009, 2011 Free Software Foundation, Inc.]
+tests/uniq-u.c: GNU General Public License v3.0 or later
+  [Copyright: 86, 91, 1995-1998, 1999, 2012 Free Software Foundation, Inc.]
+tools/8bit_tab_to_h.c: GNU Lesser General Public License GNU General Public License v3.0 or later
+  [Copyright: 1999-2022 Free Software Foundation, Inc. "); / 1999-2002, 2011-2012, 2016, 2018, 2022 Free Software Foundation, Inc.]
+tools/cjk_tab_to_h.c: GNU Lesser General Public License GNU General Public License v3.0 or later
+  [Copyright: 1999-2016 Free Software Foundation, Inc. "); / 1999-2004, 2006-2007, 2010, 2012, 2016, 2018 Free Software Foundation, Inc.]
+tools/cjk_variants.c: GNU Lesser General Public License GNU General Public License v3.0 or later
+  [Copyright: 1999-2002, 2012, 2018 Free Software Foundation, Inc. / 1999-2002 Free Software Foundation, Inc. ");]
+tools/gen-translit-def-part.lisp: GNU General Public License v3.0 or later
+  [Copyright: 2023 Free Software Foundation, Inc. / (cond ((eql c #DIVISION_SLASH) (list #/))]
+windows/iconv.rc: GNU General Public License
+  [Copyright: 1999 -20240"]
+windows/libiconv.rc: GNU Lesser General Public License
+  [Copyright: 1999 -20240"]
+woe32dll/export.h: GNU Library General Public License v2 or later
+  [Copyright: 2006, 2011-2023 Free Software Foundation, Inc.]
+woe32dll/iconv-exports.c: GNU Library General Public License v2 or later
+  [Copyright: 2006 Free Software Foundation, Inc.]
+gnulib-local/lib/alloca.in.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 1995, 1999, 2001-2007 Free Software Foundation, Inc.]
+gnulib-local/lib/xalloc.h: GNU General Public License v3.0 or later
+  [Copyright: 2001-2004, 2006 Free Software Foundation, Inc.]
+gnulib-local/lib/xmalloc.c: GNU General Public License v3.0 or later
+  [Copyright: 1990-2024 Free Software Foundation, Inc.]
+gnulib-local/lib/xstrdup.c: GNU General Public License v3.0 or later
+  [Copyright: 1990, 1996, 2000-2003, 2005-2006 Free Software Foundation, Inc.]
+gnulib-local/m4/alloca.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2002-2024 Free Software Foundation, Inc.]
+gnulib-local/modules/libiconv-misc: *No copyright* GNU General Public License
+gnulib-local/modules/mbstate: *No copyright* GNU Library General Public License, Version 2.0
+gnulib-local/modules/xalloc: *No copyright* GNU General Public License
+libcharset/autoconf/aclocal.m4: FSF Unlimited License (with License Retention) [generated file]
+  [Copyright: 2006-2021 Free Software Foundation, Inc. / 1997-2021 Free Software Foundation, Inc. / 1996-2021 Free Software Foundation, Inc.]
+libcharset/build-aux/config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+libcharset/build-aux/config.libpath: GNU General Public License v3.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 1996-2024 Free Software Foundation, Inc.]
+libcharset/build-aux/config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+libcharset/build-aux/install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+libcharset/build-aux/libtool-reloc: GNU General Public License v3.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2019-2024 Free Software Foundation, Inc.]
+libcharset/build-aux/ltmain.sh: MIT License GNU General Public License v2.0 or later
+  [Copyright: 2010-2019, 2021, 2023-2024 Bootstrap Authors / 2004-2019, 2021, 2023-2024 Bootstrap Authors / 1996-2019, 2021-2024 Free Software Foundation, Inc.]
+libcharset/build-aux/mkinstalldirs: *No copyright* UNKNOWN [generated file]
+libcharset/include/export.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005-2023 Free Software Foundation, Inc.]
+libcharset/include/libcharset.h.build.in: GNU Library General Public License v2 or later
+  [Copyright: 2003 Free Software Foundation, Inc.]
+libcharset/include/libcharset.h.in: GNU Library General Public License v2 or later
+  [Copyright: 2003 Free Software Foundation, Inc.]
+libcharset/include/localcharset.h.build.in: GNU Library General Public License v2 or later
+  [Copyright: 2000-2003, 2009-2019 Free Software Foundation, Inc.]
+libcharset/include/localcharset.h.in: GNU Library General Public License v2 or later
+  [Copyright: 2000-2003, 2009-2019 Free Software Foundation, Inc.]
+libcharset/lib/localcharset.c: GNU Library General Public License v2 or later
+  [Copyright: 2000-2006, 2008-2019 Free Software Foundation, Inc.]
+libcharset/lib/relocatable-stub.c: GNU Library General Public License v2 or later
+  [Copyright: 2018-2023 Free Software Foundation, Inc.]
+libcharset/m4/codeset.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2000-2002, 2006, 2008-2014, 2016, 2019-2024 Free Software]
+libcharset/m4/fcntl-o.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2006, 2009-2024 Free Software Foundation, Inc.]
+libcharset/m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License v2.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2024 Free Software Foundation, Inc. / 1996-2001, 2003-2019, 2021-2024 Free Software]
+libcharset/m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2019, 2021-2024 Free]
+libcharset/m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2019, 2021-2024 Free Software]
+libcharset/m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2019, 2021-2024 Free Software Foundation,]
+libcharset/m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2019, 2021-2024 Free]
+libcharset/m4/visibility.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2005, 2008, 2010-2024 Free Software Foundation, Inc.]
+srclib/malloc/scratch_buffer.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015-2024 Free Software Foundation, Inc.]
+srclib/malloc/scratch_buffer_grow.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015-2024 Free Software Foundation, Inc.]
+srclib/malloc/scratch_buffer_grow_preserve.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015-2024 Free Software Foundation, Inc.]
+srclib/malloc/scratch_buffer_set_array_size.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015-2024 Free Software Foundation, Inc.]
+srclib/unictype/bitmap.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2002, 2005-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/uniwidth/cjk.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002, 2005-2007, 2009-2024 Free Software Foundation, Inc.]
+srclib/uniwidth/width.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002, 2006-2024 Free Software Foundation, Inc.]
+srclib/uniwidth/width0.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2024 Free Software Foundation, Inc.]
+srclib/uniwidth/width2.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2000-2024 Free Software Foundation, Inc.]

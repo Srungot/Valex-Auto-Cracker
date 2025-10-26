@@ -1,0 +1,1967 @@
+AUTHORS: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 2006, 2017 Free Software Foundation, Inc. --]
+COPYING: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+INSTALL: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey -- / 1998-2018 Free Software Foundation, Inc. --]
+Makefile.in: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 1998-2015 Free Software Foundation, Inc.]
+Makefile.os2: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2000, 2006 Free Software Foundation, Inc.]
+NEWS: W3C License
+  [Copyright: using same approach as autoconf (set variables only if / patch (patch by Juergen Pfeifer). / noticed to be omitted (reported by Peter / fixes. / files / 2018-2024 Thomas E. Dickey -- / 1998-2018 Free Software Foundation, Inc. --]
+README: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey -- / 1998-2012, 2018 Free Software Foundation, Inc. --]
+README.MinGW: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2008-2012 Free Software Foundation, Inc. --]
+README.emx: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-2006, 2018 Free Software Foundation, Inc. --]
+TO-DO: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2011 Free Software Foundation, Inc. --]
+aclocal.m4: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2023 Free Software Foundation, Inc. / 1992-2023 Free Software Foundation, Inc.]
+config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2023 Free Software Foundation, Inc. / 1992-2023 Free Software Foundation, Inc.]
+configure: FSF Unlimited License
+  [Copyright: 2003-2023 Thomas E. Dickey / 1992-1996, 1998-2001 Free Software Foundation, Inc. / 1992-1996, 1998-2001 Free Software Foundation, Inc.]
+configure.in: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+dist.mk: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+mk-0th.awk: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+mk-1st.awk: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+mk-2nd.awk: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2005 Free Software Foundation, Inc.]
+mk-hdr.awk: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2007-2010, 2013 Free Software Foundation, Inc.]
+Ada95/Makefile.in: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+Ada95/README: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/TODO: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-1999, 2006 Free Software Foundation, Inc. --]
+Ada95/aclocal.m4: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2010-2018 Free Software Foundation, Inc.]
+Ada95/configure: FSF Unlimited License
+  [Copyright: 2003-2023 Thomas E. Dickey / 1992-1996, 1998-2001 Free Software Foundation, Inc. / 1992-1996, 1998-2001 Free Software Foundation, Inc.]
+Ada95/configure.in: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2010-2016, 2018 Free Software Foundation, Inc.]
+Ada95/make-tar.sh: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+Ada95/mk-1st.awk: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2010-2011 Free Software Foundation, Inc.]
+Ada95/mk-pkg.awk: UNKNOWN
+  [Copyright: 2022 Thomas E. Dickey]
+c++/Makefile.in: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+c++/NEWS: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-1999, 2006 Free Software Foundation, Inc. --]
+c++/PROBLEMS: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998, 2006 Free Software Foundation, Inc. --]
+c++/README-first: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-2007 Free Software Foundation, Inc. --]
+c++/cursesapp.cc: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2008 Free Software Foundation, Inc.]
+c++/cursesapp.h: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2005, 2011 Free Software Foundation, Inc.]
+c++/cursesf.cc: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2005, 2011 Free Software Foundation, Inc.]
+c++/cursesf.h: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+c++/cursesm.cc: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2011, 2017 Free Software Foundation, Inc.]
+c++/cursesm.h: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+c++/cursesmain.cc: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2007, 2013 Free Software Foundation, Inc.]
+c++/cursesp.cc: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2003, 2005 Free Software Foundation, Inc.]
+c++/cursesp.h: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+c++/cursespad.cc: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1999-2013 Free Software Foundation, Inc.]
+c++/cursesw.cc: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+c++/cursesw.h: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+c++/cursslk.cc: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 1998-2005, 2012 Free Software Foundation, Inc.]
+c++/cursslk.h: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2003, 2005 Free Software Foundation, Inc.]
+c++/demo.cc: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2012, 2017 Free Software Foundation, Inc.]
+c++/edit_cfg.sh: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2008 Free Software Foundation, Inc.]
+c++/etip.h.in: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 1998-2012, 2017 Free Software Foundation, Inc.]
+c++/headers: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+c++/internal.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2008, 2012 Free Software Foundation, Inc.]
+c++/modules: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2006, 2013 Free Software Foundation, Inc.]
+doc/hackguide.doc: UNKNOWN
+  [Copyright: carries enough information that you can generate a]
+form/Makefile.in: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2015, 2018 Free Software Foundation, Inc.]
+form/READ.ME: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-2003, 2006 Free Software Foundation, Inc. --]
+form/f_trace.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2004-2010, 2016 Free Software Foundation, Inc.]
+form/fld_arg.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+form/fld_attr.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+form/fld_current.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+form/fld_def.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+form/fld_dup.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_ftchoice.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+form/fld_ftlink.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_info.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/fld_just.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_link.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_max.c: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2013 Free Software Foundation, Inc.]
+form/fld_move.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_newftyp.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+form/fld_opts.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/fld_pad.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/fld_page.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_stat.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fld_type.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/fld_user.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/form.h: UNKNOWN
+  [Copyright: 2018-2019 -2020,2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+form/form.priv.h: UNKNOWN
+  [Copyright: 2018-2021, 2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+form/frm_cursor.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/frm_data.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2013 Free Software Foundation, Inc.]
+form/frm_def.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/frm_driver.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+form/frm_hook.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+form/frm_opts.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2013 Free Software Foundation, Inc.]
+form/frm_page.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/frm_post.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/frm_req_name.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2012, 2015 Free Software Foundation, Inc.]
+form/frm_scale.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/frm_sub.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+form/frm_user.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+form/frm_win.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+form/fty_alnum.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+form/fty_alpha.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+form/fty_enum.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+form/fty_generic.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2008-2012, 2016 Free Software Foundation, Inc.]
+form/fty_int.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fty_ipv4.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2006, 2009 Free Software Foundation, Inc.]
+form/fty_num.c: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+form/fty_regex.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2012, 2015 Free Software Foundation, Inc.]
+form/headers: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+form/llib-lform: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+form/llib-lformt: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+form/llib-lformtw: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+form/llib-lformw: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2002-2015, 2017 Free Software Foundation, Inc.]
+form/modules: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2008, 2010 Free Software Foundation, Inc.]
+include/Caps: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+include/Caps-ncurses: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey]
+include/Caps.aix4: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2001-2016 Free Software Foundation, Inc.]
+include/Caps.hpux11: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2016 Free Software Foundation, Inc.]
+include/Caps.keys: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2001-2016 Free Software Foundation, Inc.]
+include/Caps.osf1r5: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2016 Free Software Foundation, Inc.]
+include/Caps.uwin: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2001-2016 Free Software Foundation, Inc.]
+include/MKhashsize.sh: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+include/MKkey_defs.sh: UNKNOWN
+  [Copyright: 2019-2022, 2024 Thomas E. Dickey / 2001-2013, 2017 Free Software Foundation, Inc.]
+include/MKncurses_def.sh: UNKNOWN [generated file]
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2000, 2003 Free Software Foundation, Inc.]
+include/MKparametrized.sh: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+include/MKterm.h.awk.in: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey *" / 1998-2013, 2017 Free Software Foundation, Inc. *"]
+include/Makefile.in: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2013, 2015 Free Software Foundation, Inc.]
+include/capdefaults.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2000, 2008 Free Software Foundation, Inc.]
+include/curses.h.in: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+include/edit_cfg.sh: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2001, 2017 Free Software Foundation, Inc.]
+include/hashed_db.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2006-2014, 2017 Free Software Foundation, Inc.]
+include/headers: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2013 Free Software Foundation, Inc.]
+include/nc_access.h: UNKNOWN
+  [Copyright: 2021, 2023 Thomas E. Dickey]
+include/nc_alloc.h: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2013, 2017 Free Software Foundation, Inc.]
+include/nc_mingw.h: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2008-2010, 2017 Free Software Foundation, Inc.]
+include/nc_panel.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2009, 2017 Free Software Foundation, Inc.]
+include/nc_string.h: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2012-2013, 2016 Free Software Foundation, Inc.]
+include/nc_termios.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2011-2014, 2017 Free Software Foundation, Inc.]
+include/nc_tparm.h: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2006-2012, 2017 Free Software Foundation, Inc.]
+include/nc_win32.h: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2008-2010, 2017 Free Software Foundation, Inc.]
+include/ncurses_cfg.hin: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+include/ncurses_defs: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2000-2017 Free Software Foundation, Inc.]
+include/ncurses_dll.h.in: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2009, 2014 Free Software Foundation, Inc.]
+include/ncurses_mingw.h: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2008-2014, 2017 Free Software Foundation, Inc.]
+include/term_entry.h: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+include/termcap.h.in: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2001 Free Software Foundation, Inc.]
+include/tic.h: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2012, 2017 Free Software Foundation, Inc.]
+include/unctrl.h.in: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2001, 2009 Free Software Foundation, Inc.]
+include/win32_curses.h: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2008-2014, 2017 Free Software Foundation, Inc.]
+man/MKada_config.in: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2010-2014, 2016 Free Software Foundation, Inc.]
+man/MKncu_config.in: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 2010 Free Software Foundation, Inc.]
+man/MKterminfo.sh: UNKNOWN [generated file]
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 1998-2003, 2017 Free Software Foundation, Inc.]
+man/Makefile.in: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2013, 2015 Free Software Foundation, Inc.]
+man/curs_add_wch.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2001-2015, 2017 Free Software Foundation, Inc.]
+man/curs_add_wchstr.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2012, 2017 Free Software Foundation, Inc.]
+man/curs_addch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/curs_addchstr.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 1998-2012, 2017 Free Software Foundation, Inc.]
+man/curs_addstr.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 1998-2012, 2017 Free Software Foundation, Inc.]
+man/curs_addwstr.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2012, 2017 Free Software Foundation, Inc.]
+man/curs_attr.3x: UNKNOWN
+  [Copyright: began in 1996. / 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_beep.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2005, 2010 Free Software Foundation, Inc.]
+man/curs_bkgd.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/curs_bkgrnd.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2015, 2017 Free Software Foundation, Inc.]
+man/curs_border.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2007, 2010 Free Software Foundation, Inc.]
+man/curs_border_set.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2012 Free Software Foundation, Inc.]
+man/curs_clear.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+man/curs_color.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_delch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/curs_deleteln.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2007, 2010 Free Software Foundation, Inc.]
+man/curs_extend.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1999-2010, 2016 Free Software Foundation, Inc.]
+man/curs_get_wch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2017 Free Software Foundation, Inc.]
+man/curs_get_wstr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2012, 2017 Free Software Foundation, Inc.]
+man/curs_getcchar.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2001-2015, 2017 Free Software Foundation, Inc.]
+man/curs_getch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_getstr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_getyx.3x: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 1998-2007, 2010 Free Software Foundation, Inc.]
+man/curs_in_wch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2010, 2017 Free Software Foundation, Inc.]
+man/curs_in_wchstr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2012, 2017 Free Software Foundation, Inc.]
+man/curs_inch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_inchstr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_initscr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_inopts.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_ins_wch.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2010, 2017 Free Software Foundation, Inc.]
+man/curs_ins_wstr.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2002-2012, 2017 Free Software Foundation, Inc.]
+man/curs_insch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_insstr.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_instr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_inwstr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2012, 2017 Free Software Foundation, Inc.]
+man/curs_kernel.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_legacy.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2007-2015, 2017 Free Software Foundation, Inc.]
+man/curs_memleaks.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2008-2010, 2017 Free Software Foundation, Inc.]
+man/curs_mouse.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/curs_move.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_opaque.3x: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 2007-2015 Free Software Foundation, Inc.]
+man/curs_outopts.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_overlay.3x: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 1998-2013, 2015 Free Software Foundation, Inc.]
+man/curs_pad.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/curs_print.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_printw.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_refresh.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+man/curs_scanw.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_scr_dump.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/curs_scroll.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/curs_slk.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_sp_funcs.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+man/curs_termattrs.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/curs_termcap.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+man/curs_terminfo.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/curs_threads.3x: UNKNOWN
+  [Copyright: 2021-2024 Thomas E. Dickey / 2008-2015, 2017 Free Software Foundation, Inc.]
+man/curs_touch.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/curs_trace.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2000-2017 Free Software Foundation, Inc.]
+man/curs_util.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/curs_variables.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+man/curs_window.3x: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+man/default_colors.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2000-2011, 2016 Free Software Foundation, Inc.]
+man/define_key.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/form.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/form_cursor.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_data.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_driver.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/form_field.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+man/form_field_attributes.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/form_field_buffer.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/form_field_info.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_field_just.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_field_new.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_field_opts.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015 Free Software Foundation, Inc.]
+man/form_field_userptr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_field_validation.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/form_fieldtype.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/form_hook.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2007, 2010 Free Software Foundation, Inc.]
+man/form_new.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_new_page.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_opts.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_page.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+man/form_post.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/form_requestname.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_userptr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/form_variables.3x: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 2010-2013, 2017 Free Software Foundation, Inc.]
+man/form_win.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/key_defined.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2003-2006, 2010 Free Software Foundation, Inc.]
+man/keybound.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1999-2008, 2010 Free Software Foundation, Inc.]
+man/keyok.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/legacy_coding.3x: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 2005-2017 Free Software Foundation, Inc.]
+man/make_sed.sh: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 1998-2005, 2017 Free Software Foundation, Inc.]
+man/man_db.renames.in: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/manhtml.aliases: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2013, 2017 Free Software Foundation, Inc.]
+man/manhtml.externs: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2013, 2017 Free Software Foundation, Inc.]
+man/manlinks.sed: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 2000-2003, 2008 Free Software Foundation, Inc.]
+man/menu.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+man/menu_attributes.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_cursor.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_driver.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+man/menu_format.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+man/menu_hook.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2007, 2010 Free Software Foundation, Inc.]
+man/menu_items.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2012, 2015 Free Software Foundation, Inc.]
+man/menu_mark.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_new.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_opts.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+man/menu_pattern.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_post.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/menu_requestname.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_spacing.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_userptr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/menu_win.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/mitem_current.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+man/mitem_name.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/mitem_new.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/mitem_opts.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/mitem_userptr.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/mitem_value.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+man/mitem_visible.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998, 2010 Free Software Foundation, Inc.]
+man/ncurses.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/new_pair.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+man/panel.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/resizeterm.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+man/scr_dump.5: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+man/term.5: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/term.7: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2011, 2017 Free Software Foundation, Inc.]
+man/term_variables.3x: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+man/terminfo.head: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/terminfo.tail: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+man/user_caps.5: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+man/wresize.3x: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+menu/Makefile.in: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2015, 2018 Free Software Foundation, Inc.]
+menu/READ.ME: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 1998-2003, 2006 Free Software Foundation, Inc. --]
+menu/eti.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003 Free Software Foundation, Inc.]
+menu/headers: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+menu/llib-lmenu: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+menu/llib-lmenut: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010, 2015 Free Software Foundation, Inc.]
+menu/llib-lmenutw: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010, 2015 Free Software Foundation, Inc.]
+menu/llib-lmenuw: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2002-2010, 2015 Free Software Foundation, Inc.]
+menu/m_attribs.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+menu/m_cursor.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+menu/m_driver.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+menu/m_format.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+menu/m_global.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+menu/m_hook.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+menu/m_item_cur.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_item_nam.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_item_new.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+menu/m_item_opt.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_item_top.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_item_use.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_item_val.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_item_vis.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_items.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2005, 2010 Free Software Foundation, Inc.]
+menu/m_new.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+menu/m_opts.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_pad.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+menu/m_pattern.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+menu/m_post.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+menu/m_req_name.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2012, 2015 Free Software Foundation, Inc.]
+menu/m_scale.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_spacing.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+menu/m_sub.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+menu/m_trace.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2004-2010, 2016 Free Software Foundation, Inc.]
+menu/m_userptr.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2004, 2010 Free Software Foundation, Inc.]
+menu/m_win.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+menu/menu.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+menu/menu.priv.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+menu/mf_common.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2005, 2012 Free Software Foundation, Inc.]
+menu/modules: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+misc/Makefile.in: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+misc/chkdef.cmd: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey * / 1998, 2006 Free Software Foundation, Inc. *]
+misc/cleantic.cmd: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey * / 1998, 2006 Free Software Foundation, Inc. *]
+misc/cmpdef.cmd: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey * / 1998, 2006 Free Software Foundation, Inc. *]
+misc/csort: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2002 Free Software Foundation, Inc.]
+misc/emx.src: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003, 2006 Free Software Foundation, Inc.]
+misc/gen-pkgconfig.in: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 2009-2015, 2018 Free Software Foundation, Inc.]
+misc/gen_edit.sh: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2004-2012 Free Software Foundation, Inc.]
+misc/magic: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2015, 2018 Free Software Foundation, Inc.]
+misc/makedef.cmd: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey * / 1998, 2006 Free Software Foundation, Inc. *]
+misc/makellib: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998, 2000 Free Software Foundation, Inc.]
+misc/ncu2openbsd: MIT License
+  [Copyright: 2021, 2023 Thomas E. Dickey]
+misc/ncurses-config.in: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 2006-2015, 2017 Free Software Foundation, Inc.]
+misc/ncurses.supp: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2008 Free Software Foundation, Inc.]
+misc/run_tic.in: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2000-2012, 2017 Free Software Foundation, Inc.]
+misc/shlib: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2005, 2007 Free Software Foundation, Inc.]
+misc/tdlint: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998, 2000 Free Software Foundation, Inc.]
+misc/terminfo.src: UNKNOWN
+  [Copyright: with dates from 1980 to 1993. / which I'm ignoring because they / under the ncurses MIT-style license. That was the effect of the agreement / screen appears to hardcode the strings for khome/kend, making it / CMD Coding Method Delimiter * E / CHT corresponds to terminfo (tab). Usually it has the value ^I. / 1989 BULL SA]
+ncurses/Makefile.in: UNKNOWN
+  [Copyright: 2018-2022, 2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+ncurses/README: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2006, 2009 Free Software Foundation, Inc. --]
+ncurses/README.IZ: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 2002, 2006 Free Software Foundation, Inc. --]
+ncurses/SigAction.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003, 2005 Free Software Foundation, Inc.]
+ncurses/build.priv.h: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 2010, 2012 Free Software Foundation, Inc.]
+ncurses/curses.priv.h: UNKNOWN
+  [Copyright: PairNumber(a)) / 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+ncurses/fifo_defs.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+ncurses/llib-lncurses: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/llib-lncursest: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2008-2017 Free Software Foundation, Inc.]
+ncurses/llib-lncursestw: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2009-2017 Free Software Foundation, Inc.]
+ncurses/llib-lncursesw: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2001-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltic: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 2012-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltict: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 2013-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltictw: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 2012-2017 Free Software Foundation, Inc.]
+ncurses/llib-lticw: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 2012-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltinfo: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2012-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltinfot: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2013-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltinfotw: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2012-2017 Free Software Foundation, Inc.]
+ncurses/llib-ltinfow: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2012-2017 Free Software Foundation, Inc.]
+ncurses/modules: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2013, 2017 Free Software Foundation, Inc.]
+ncurses/new_pair.h: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+ncurses/report_hashing.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey]
+ncurses/report_offsets.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+ncurses/term.priv.h: UNKNOWN
+  [Copyright: 2021-2024 Thomas E. Dickey]
+package/mingw-ncurses.spec: *No copyright* X11 License
+package/ncurses.map: *No copyright* UNKNOWN [generated file]
+package/ncurses.spec: *No copyright* X11 License
+package/ncurses.sym: *No copyright* UNKNOWN [generated file]
+package/ncursest.map: *No copyright* UNKNOWN [generated file]
+package/ncursest.spec: *No copyright* X11 License
+package/ncursest.sym: *No copyright* UNKNOWN [generated file]
+package/ncursestw.map: *No copyright* UNKNOWN [generated file]
+package/ncursestw.sym: *No copyright* UNKNOWN [generated file]
+package/ncursesw.map: *No copyright* UNKNOWN [generated file]
+package/ncursesw.sym: *No copyright* UNKNOWN [generated file]
+panel/Makefile.in: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2015, 2018 Free Software Foundation, Inc.]
+panel/headers: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+panel/llib-lpanel: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+panel/llib-lpanelt: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010, 2015 Free Software Foundation, Inc.]
+panel/llib-lpaneltw: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010, 2015 Free Software Foundation, Inc.]
+panel/llib-lpanelw: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2002-2010, 2015 Free Software Foundation, Inc.]
+panel/modules: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2006, 2010 Free Software Foundation, Inc.]
+panel/p_above.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+panel/p_below.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+panel/p_bottom.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2008, 2010 Free Software Foundation, Inc.]
+panel/p_delete.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_hidden.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_hide.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_move.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2008, 2010 Free Software Foundation, Inc.]
+panel/p_new.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_replace.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_show.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_top.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2005, 2010 Free Software Foundation, Inc.]
+panel/p_update.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+panel/p_user.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2005, 2010 Free Software Foundation, Inc.]
+panel/p_win.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2005, 2010 Free Software Foundation, Inc.]
+panel/panel.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2012 Free Software Foundation, Inc.]
+panel/panel.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2009, 2017 Free Software Foundation, Inc.]
+panel/panel.priv.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+progs/MKtermsort.sh: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+progs/Makefile.in: UNKNOWN
+  [Copyright: 2020-2021, 2024 Thomas E. Dickey / 1998-2016, 2018 Free Software Foundation, Inc.]
+progs/capconvert: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2011, 2017 Free Software Foundation, Inc.]
+progs/clear.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+progs/clear.sh: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+progs/clear_cmd.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2016-2017 Free Software Foundation, Inc.]
+progs/clear_cmd.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2016-2017 Free Software Foundation, Inc.]
+progs/dump_entry.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+progs/dump_entry.h: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+progs/infocmp.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+progs/modules: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2014, 2016 Free Software Foundation, Inc.]
+progs/progs.priv.h: UNKNOWN
+  [Copyright: 2019-2022, 2024 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+progs/reset_cmd.c: UNKNOWN
+  [Copyright: 2019-2024 Thomas E. Dickey / 2016-2017 Free Software Foundation, Inc.]
+progs/reset_cmd.h: UNKNOWN
+  [Copyright: 2020-2021, 2024 Thomas E. Dickey / 2016 Free Software Foundation, Inc.]
+progs/tabs.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 2008-2017 Free Software Foundation, Inc.]
+progs/tic.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+progs/toe.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2013, 2017 Free Software Foundation, Inc.]
+progs/tparm_type.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2014-2015 Free Software Foundation, Inc.]
+progs/tparm_type.h: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2014 Free Software Foundation, Inc.]
+progs/tput.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+progs/transform.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2009-2011 Free Software Foundation, Inc.]
+progs/tset.c: BSD 3-Clause License
+  [Copyright: 2020-2021, 2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc. / 1980, 1991, 1993 The Regents of the University of California.]
+progs/tty_settings.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2016-2017 Free Software Foundation, Inc.]
+progs/tty_settings.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2016-2017 Free Software Foundation, Inc.]
+test/Makefile.in: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+test/README: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey -- / 1998-2018 Free Software Foundation, Inc. --]
+test/aclocal.m4: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2003-2018 Free Software Foundation, Inc.]
+test/back_ground.c: UNKNOWN
+  [Copyright: 2021-2022 Thomas E. Dickey]
+test/background.c: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 2003-2014, 2017 Free Software Foundation, Inc.]
+test/blue.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/bs.6: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+test/bs.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/cardfile.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1999-2017 Free Software Foundation, Inc.]
+test/chgat.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2006-2012, 2017 Free Software Foundation, Inc.]
+test/clip_printw.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2008-2017 Free Software Foundation, Inc.]
+test/color_content.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey]
+test/color_name.h: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2011-2012, 2016 Free Software Foundation, Inc.]
+test/color_set.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2003-2012, 2014 Free Software Foundation, Inc.]
+test/combine.c: UNKNOWN
+  [Copyright: 2021-2022 Thomas E. Dickey]
+test/configure: FSF Unlimited License
+  [Copyright: 2003-2023 Thomas E. Dickey / 1992-1996, 1998-2001 Free Software Foundation, Inc. / 1992-1996, 1998-2001 Free Software Foundation, Inc.]
+test/configure.in: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+test/demo_altkeys.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2005-2017 Free Software Foundation, Inc.]
+test/demo_defkey.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 2002-2017 Free Software Foundation, Inc.]
+test/demo_forms.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2003-2017 Free Software Foundation, Inc.]
+test/demo_keyok.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2002-2006, 2017 Free Software Foundation, Inc.]
+test/demo_menus.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2003-2017 Free Software Foundation, Inc.]
+test/demo_new_pair.c: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/demo_panels.c: UNKNOWN
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 2003-2017 Free Software Foundation, Inc.]
+test/demo_tabs.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey]
+test/demo_termcap.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2005-2017 Free Software Foundation, Inc.]
+test/demo_terminfo.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2009-2017 Free Software Foundation, Inc.]
+test/ditto.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/dots.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 1999-2013, 2017 Free Software Foundation, Inc.]
+test/dots_curses.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2014, 2017 Free Software Foundation, Inc.]
+test/dots_mvcur.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2007-2013, 2017 Free Software Foundation, Inc.]
+test/dots_termcap.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2013-2014, 2017 Free Software Foundation, Inc.]
+test/dots_xcurses.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/dump_window.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey]
+test/dump_window.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey]
+test/dup_field.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey]
+test/echochar.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2006-2014, 2017 Free Software Foundation, Inc.]
+test/edit_field.c: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 2003-2014, 2017 Free Software Foundation, Inc.]
+test/edit_field.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2003-2013, 2017 Free Software Foundation, Inc.]
+test/extended_color.c: UNKNOWN
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/filter.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/firework.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+test/firstlast.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+test/foldkeys.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2006-2017 Free Software Foundation, Inc.]
+test/form_driver_w.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2013-2014, 2017 Free Software Foundation, Inc.]
+test/gdc.6: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2006, 2017 Free Software Foundation, Inc.]
+test/gdc.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/hanoi.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+test/hashtest.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2013, 2017 Free Software Foundation, Inc.]
+test/inch_wide.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2007-2010, 2017 Free Software Foundation, Inc.]
+test/inchs.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2007-2012, 2017 Free Software Foundation, Inc.]
+test/ins_wide.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2002-2017 Free Software Foundation, Inc.]
+test/insdelln.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2008-2014, 2017 Free Software Foundation, Inc.]
+test/inserts.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2002-2017 Free Software Foundation, Inc.]
+test/key_names.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2014, 2017 Free Software Foundation, Inc.]
+test/keynames.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2006, 2008 Free Software Foundation, Inc.]
+test/knight.c: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 1998-2013, 2017 Free Software Foundation, Inc.]
+test/linedata.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2009-2010, 2012 Free Software Foundation, Inc.]
+test/linux-color.dat: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2004, 2006 Free Software Foundation, Inc.]
+test/list_keys.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2016-2017 Free Software Foundation, Inc.]
+test/listused.sh: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 2003-2006, 2010 Free Software Foundation, Inc.]
+test/lrtest.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+test/make-tar.sh: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 2010-2015, 2017 Free Software Foundation, Inc.]
+test/mk-test.awk: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 2006-2018 Free Software Foundation, Inc.]
+test/modules: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/move_field.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey]
+test/movewindow.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2006-2013, 2017 Free Software Foundation, Inc.]
+test/ncurses.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/ncurses_tst.hin: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998 Free Software Foundation, Inc.]
+test/padview.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/pair_content.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey]
+test/parse_rgb.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey]
+test/picsmap.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2017-2018 Free Software Foundation, Inc.]
+test/picsmap.h: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/popup_msg.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/popup_msg.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/programs: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2006-2017 Free Software Foundation, Inc.]
+test/railroad.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2000-2013, 2017 Free Software Foundation, Inc.]
+test/rain.c: UNKNOWN
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+test/redraw.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 2006-2012, 2017 Free Software Foundation, Inc.]
+test/savescreen.c: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 2006-2018 Free Software Foundation, Inc.]
+test/savescreen.sh: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2009, 2018 Free Software Foundation, Inc.]
+test/sp_tinfo.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/tclock.c: UNKNOWN
+  [Copyright: message remains intact, and any / Howard Jones, September 1994]
+test/terminal.xbm: UNKNOWN
+  [Copyright: 1988 Evans & Sutherland Computer Corporation, *]
+test/test.priv.h: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+test/test_add_wchstr.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 2009-2017 Free Software Foundation, Inc.]
+test/test_addchstr.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2009-2017 Free Software Foundation, Inc.]
+test/test_addstr.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2009-2017 Free Software Foundation, Inc.]
+test/test_addwstr.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 2009-2017 Free Software Foundation, Inc.]
+test/test_arrays.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2010, 2017 Free Software Foundation, Inc.]
+test/test_delwin.c: UNKNOWN
+  [Copyright: 2022-2023 Thomas E. Dickey]
+test/test_endwin.c: UNKNOWN
+  [Copyright: 2023 Thomas E. Dickey]
+test/test_get_wstr.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2011, 2017 Free Software Foundation, Inc.]
+test/test_getstr.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2012, 2017 Free Software Foundation, Inc.]
+test/test_instr.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2010, 2017 Free Software Foundation, Inc.]
+test/test_inwstr.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2007-2010, 2017 Free Software Foundation, Inc.]
+test/test_mouse.c: UNKNOWN
+  [Copyright: 2022-2024 Thomas E. Dickey / 2022 Leonid S. Usov <leonid.s.usov at gmail.com>]
+test/test_opaque.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 2007-2009 Free Software Foundation, Inc.]
+test/test_setupterm.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 2015-2016 Free Software Foundation, Inc.]
+test/test_sgr.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2015-2017 Free Software Foundation, Inc.]
+test/test_termattrs.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+test/test_tparm.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey]
+test/test_unget_wch.c: UNKNOWN
+  [Copyright: 2022 Thomas E. Dickey]
+test/test_vid_puts.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 2013-2014, 2017 Free Software Foundation, Inc.]
+test/test_vidputs.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 2013-2014, 2017 Free Software Foundation, Inc.]
+test/testaddch.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2014 Free Software Foundation, Inc.]
+test/testscanw.c: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 1998-2002, 2006 Free Software Foundation, Inc.]
+test/tput-colorcube: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2016 Free Software Foundation, Inc.]
+test/tput-initc: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2016 Free Software Foundation, Inc.]
+test/tracemunch: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2005, 2017 Free Software Foundation, Inc.]
+test/view.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/widechars.h: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2012 Free Software Foundation, Inc.]
+test/worm.c: UNKNOWN
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+test/xterm-16color.dat: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2004-2006, 2016 Free Software Foundation, Inc.]
+test/xterm-256color.dat: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2009, 2016 Free Software Foundation, Inc.]
+test/xterm-88color.dat: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2005-2009, 2016 Free Software Foundation, Inc.]
+Ada95/doc/Makefile.in: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 2011-2015, 2018 Free Software Foundation, Inc.]
+Ada95/gen/Makefile.in: UNKNOWN
+  [Copyright: 2019-2022, 2024 Thomas E. Dickey / 1998-2015, 2018 Free Software Foundation, Inc.]
+Ada95/gen/adacurses-config.in: UNKNOWN
+  [Copyright: 2019-2020, 2022 Thomas E. Dickey / 2007-2014, 2016 Free Software Foundation, Inc.]
+Ada95/gen/gen.c: UNKNOWN
+  [Copyright: 2020-2021, 2024 Thomas E. Dickey / 1998-2014, 2016 Free Software Foundation, Inc.]
+Ada95/gen/html.m4: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 2000-2007 Free Software Foundation, Inc.]
+Ada95/gen/normal.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998, 2006 Free Software Foundation, Inc.]
+Ada95/gen/table.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2000, 2006 Free Software Foundation, Inc.]
+Ada95/gen/terminal_interface-curses-aux.ads.m4: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1998-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-forms-field_types.ads.m4: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1998-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-forms-field_user_data.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-forms-form_user_data.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-forms.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-menus-item_user_data.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-menus-menu_user_data.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-menus.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-mouse.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2015 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-panels-user_data.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-panels.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses-trace.ads.m4: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses.adb.m4: UNKNOWN
+  [Copyright: 2018-2020, 2024 Thomas E. Dickey -- / 2007-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/gen/terminal_interface-curses.ads.m4: UNKNOWN
+  [Copyright: 2020, 2024 Thomas E. Dickey -- / 1998-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/include/MKncurses_def.sh: UNKNOWN [generated file]
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2003 Free Software Foundation, Inc.]
+Ada95/include/Makefile.in: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2010-2015, 2018 Free Software Foundation, Inc.]
+Ada95/include/ncurses_cfg.hin: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2005-2018 Free Software Foundation, Inc.]
+Ada95/include/ncurses_defs: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2008-2013 Free Software Foundation, Inc.]
+Ada95/package/AdaCurses-doc.spec: *No copyright* MIT License
+Ada95/package/AdaCurses.spec: *No copyright* MIT License
+Ada95/samples/Makefile.in: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2015, 2018 Free Software Foundation, Inc.]
+Ada95/samples/README: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998, 2006 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-acs_and_scroll.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 2000-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-acs_and_scroll.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-acs_display.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2008 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-acs_display.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-attr_test.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2008 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-attr_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000, 2006 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-color_edit.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-color_edit.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-color_test.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2008 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-color_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-demo_forms.adb: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey -- / 2000-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-demo_forms.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-demo_pad.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-demo_pad.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-demo_panels.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 2000-2008, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-demo_panels.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-flushinp_test.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-flushinp_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-genericputs.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2009 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-genericputs.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-getch.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-getch_test.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-getch_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-getopt.adb: UNKNOWN
+  [Copyright: Free Software Foundtion / 2020 Thomas E. Dickey -- / 2000-2008, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-getopt.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000, 2006 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-m.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 2000-2008 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-m.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-menu_test.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-menu_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-overlap_test.adb: UNKNOWN
+  [Copyright: 2020-2021, 2024 Thomas E. Dickey -- / 2000-2015 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-overlap_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-slk_test.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 2000-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-slk_test.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-test_sgr_attributes.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000, 2006 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-test_sgr_attributes.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-trace_set.adb: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey -- / 2000-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-trace_set.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-util.adb: UNKNOWN
+  [Copyright: mod 16#20#; / mod 16#20#); / Character'Pos ('0'); / 2020 Thomas E. Dickey -- / 2000-2008, 2014 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2-util.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000, 2006 Free Software Foundation, Inc. --]
+Ada95/samples/ncurses2.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000 Free Software Foundation, Inc. --]
+Ada95/samples/rain.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2008 Free Software Foundation, Inc. --]
+Ada95/samples/rain.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-curses_demo-attributes.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-curses_demo-attributes.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-curses_demo-mouse.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2006, 2008 Free Software Foundation, Inc. --]
+Ada95/samples/sample-curses_demo-mouse.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-curses_demo.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2004, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-curses_demo.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-explanation.adb_p: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey --]
+Ada95/samples/sample-explanation.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-form_demo-aux.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2004, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-form_demo-aux.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-form_demo-handler.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2004, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-form_demo-handler.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-form_demo.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2006, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-form_demo.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-function_key_setting.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-function_key_setting.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-header_handler.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/samples/sample-header_handler.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-helpers.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-helpers.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-keyboard_handler.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2006, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-keyboard_handler.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-manifest.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-menu_demo-aux.adb: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey -- / 1998-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-menu_demo-aux.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-menu_demo-handler.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2004, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-menu_demo-handler.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/samples/sample-menu_demo.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2008, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-menu_demo.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample-my_field_type.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2006, 2008 Free Software Foundation, Inc. --]
+Ada95/samples/sample-my_field_type.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003, 2006 Free Software Foundation, Inc. --]
+Ada95/samples/sample-text_io_demo.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1998-2006, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample-text_io_demo.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/sample.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2008, 2011 Free Software Foundation, Inc. --]
+Ada95/samples/sample.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/split-path.awk: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey]
+Ada95/samples/status.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/status.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/tour.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/samples/tour.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998-2003 Free Software Foundation, Inc. --]
+Ada95/src/Makefile.in: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1999-2016, 2018 Free Software Foundation, Inc.]
+Ada95/src/c_threaded_variables.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 2014 Free Software Foundation, Inc.]
+Ada95/src/c_threaded_variables.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2014-2015 Free Software Foundation, Inc.]
+Ada95/src/c_varargs_to_ada.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2011, 2014 Free Software Foundation, Inc.]
+Ada95/src/c_varargs_to_ada.h: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2011, 2015 Free Software Foundation, Inc.]
+Ada95/src/library-cfg.sh: UNKNOWN
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 2016, 2018 Free Software Foundation, Inc.]
+Ada95/src/library.gpr.in: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey --]
+Ada95/src/modules: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2010 Free Software Foundation, Inc.]
+Ada95/src/ncurses_compat.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2011, 2015 Free Software Foundation, Inc.]
+Ada95/src/terminal_interface-curses-aux.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-alpha.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-alpha.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-alphanumeric.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-alphanumeric.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-enumeration-ada.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2004, 2011 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-enumeration-ada.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-enumeration.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-enumeration.ads: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-intfield.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-intfield.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-ipv4_address.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-ipv4_address.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-numeric.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-numeric.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-regexp.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-regexp.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-user-choice.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-user-choice.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2008, 2011 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-user.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types-user.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2009, 2011 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_types.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-field_user_data.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms-form_user_data.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-forms.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-menus-item_user_data.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-menus-menu_user_data.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-menus.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-mouse.adb: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey -- / 1999-2009, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-panels-user_data.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-panels.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2004, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-putwin.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2003 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-putwin.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2003 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-termcap.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-termcap.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2003 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-terminfo.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-terminfo.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2000-2003 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-aux.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-aux.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2006, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-complex_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-complex_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-decimal_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-decimal_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-enumeration_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-enumeration_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-fixed_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-fixed_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-float_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-float_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-integer_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-integer_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-modular_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io-modular_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io.adb: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-text_io.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2009 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface-curses-trace.adb_p: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 2001-2011, 2014 Free Software Foundation, Inc. --]
+Ada95/src/terminal_interface.ads: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1999-2003, 2006 Free Software Foundation, Inc. --]
+ncurses/base/MKkeyname.awk: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/MKlib_gen.sh: UNKNOWN [generated file]
+  [Copyright: 2018-2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/MKunctrl.awk: UNKNOWN
+  [Copyright: 2020, 2024 Thomas E. Dickey / 1998-2012, 2017 Free Software Foundation, Inc.]
+ncurses/base/README: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998, 2006 Free Software Foundation, Inc. --]
+ncurses/base/define_key.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2009, 2014 Free Software Foundation, Inc.]
+ncurses/base/key_defined.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2003-2006, 2009 Free Software Foundation, Inc.]
+ncurses/base/keybound.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1999-2009, 2011 Free Software Foundation, Inc.]
+ncurses/base/keyok.c: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+ncurses/base/legacy_coding.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2005, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_addch.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_addstr.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_beep.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2014 Free Software Foundation, Inc.]
+ncurses/base/lib_bkgd.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2014, 2016 Free Software Foundation, Inc.]
+ncurses/base/lib_box.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_chgat.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_clear.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_clearok.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_clrbot.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2006, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_clreol.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2001, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_color.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_colorset.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_delch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2001, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_delwin.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2009 Free Software Foundation, Inc.]
+ncurses/base/lib_dft_fgbg.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_driver.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2009-2012, 2014 Free Software Foundation, Inc.]
+ncurses/base/lib_echo.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_endwin.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_erase.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2009, 2016 Free Software Foundation, Inc.]
+ncurses/base/lib_flash.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2014 Free Software Foundation, Inc.]
+ncurses/base/lib_freeall.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_getch.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+ncurses/base/lib_getstr.c: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2011, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_hline.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_immedok.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_inchstr.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_initscr.c: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_insch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2013, 2016 Free Software Foundation, Inc.]
+ncurses/base/lib_insdel.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_insnstr.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2004-2009, 2016 Free Software Foundation, Inc.]
+ncurses/base/lib_instr.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_isendwin.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2009, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_leaveok.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_mouse.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_move.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2004, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_mvwin.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/lib_newterm.c: UNKNOWN
+  [Copyright: 2018-2020, 2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_newwin.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_nl.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_overlay.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2013, 2016 Free Software Foundation, Inc.]
+ncurses/base/lib_pad.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_printw.c: UNKNOWN
+  [Copyright: 2018-2020 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+ncurses/base/lib_redrawln.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/lib_refresh.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2011 Free Software Foundation, Inc.]
+ncurses/base/lib_restart.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2012, 2015 Free Software Foundation, Inc.]
+ncurses/base/lib_scanw.c: UNKNOWN
+  [Copyright: 2018-2020 Thomas E. Dickey / 1998-2009, 2011 Free Software Foundation, Inc.]
+ncurses/base/lib_screen.c: UNKNOWN
+  [Copyright: 2019-2021, 2023 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+ncurses/base/lib_scroll.c: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2011 Free Software Foundation, Inc.]
+ncurses/base/lib_scrollok.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_scrreg.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_set_term.c: UNKNOWN
+  [Copyright: 2018-2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_slk.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2011 Free Software Foundation, Inc.]
+ncurses/base/lib_slkatr_set.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_slkatrof.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2005, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_slkatron.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/lib_slkatrset.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2005, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_slkattr.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/lib_slkclear.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2007, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_slkcolor.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_slkinit.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2009, 2017 Free Software Foundation, Inc.]
+ncurses/base/lib_slklab.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_slkrefr.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2014 Free Software Foundation, Inc.]
+ncurses/base/lib_slkset.c: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2012 Free Software Foundation, Inc.]
+ncurses/base/lib_slktouch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_touch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_ungetch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2012 Free Software Foundation, Inc.]
+ncurses/base/lib_vline.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/base/lib_wattroff.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2006, 2009 Free Software Foundation, Inc.]
+ncurses/base/lib_wattron.c: UNKNOWN
+  [Copyright: 2020, 2022 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/lib_winch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/lib_window.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2016 Free Software Foundation, Inc.]
+ncurses/base/nc_panel.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2000, 2009 Free Software Foundation, Inc.]
+ncurses/base/new_pair.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 2017 Free Software Foundation, Inc.]
+ncurses/base/resizeterm.c: UNKNOWN
+  [Copyright: 2020-2021, 2024 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+ncurses/base/safe_sprintf.c: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2013 Free Software Foundation, Inc.]
+ncurses/base/sigaction.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003 Free Software Foundation, Inc.]
+ncurses/base/tries.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/base/use_window.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2007-2009, 2016 Free Software Foundation, Inc.]
+ncurses/base/version.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1999-2005 Free Software Foundation, Inc.]
+ncurses/base/vsscanf.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2004, 2012 Free Software Foundation, Inc.]
+ncurses/base/wresize.c: UNKNOWN
+  [Copyright: 2019-2021, 2023 Thomas E. Dickey / 1998-2011 Free Software Foundation, Inc.]
+ncurses/tinfo/MKcaptab.awk: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2007 Free Software Foundation, Inc.]
+ncurses/tinfo/MKcaptab.sh: UNKNOWN
+  [Copyright: 2019-2020, 2023 Thomas E. Dickey / 2007-2011 Free Software Foundation, Inc.]
+ncurses/tinfo/MKcodes.awk: UNKNOWN [generated file]
+  [Copyright: 2019-2020 Thomas E. Dickey / 2007-2010 Free Software Foundation, Inc.]
+ncurses/tinfo/MKfallback.sh: UNKNOWN [generated file]
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2020 Free Software Foundation, Inc.]
+ncurses/tinfo/MKkeys_list.sh: UNKNOWN
+  [Copyright: 2019-2022, 2024 Thomas E. Dickey / 2001-2003, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/MKnames.awk: UNKNOWN [generated file]
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2009 Free Software Foundation, Inc.]
+ncurses/tinfo/MKuserdefs.sh: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey]
+ncurses/tinfo/README: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998, 2006 Free Software Foundation, Inc. --]
+ncurses/tinfo/access.c: UNKNOWN
+  [Copyright: 2019-2021, 2023 Thomas E. Dickey / 1998-2012 Free Software Foundation, Inc.]
+ncurses/tinfo/add_tries.c: UNKNOWN
+  [Copyright: 2019-2020, 2023 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/tinfo/alloc_entry.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2013, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/alloc_ttype.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1999-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/captoinfo.c: UNKNOWN
+  [Copyright: 2018-2021 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/comp_error.c: UNKNOWN
+  [Copyright: 2019-2020, 2023 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+ncurses/tinfo/comp_expand.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/comp_hash.c: UNKNOWN
+  [Copyright: 2019-2020, 2023 Thomas E. Dickey / 1998-2009 Free Software Foundation, Inc.]
+ncurses/tinfo/comp_parse.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/comp_scan.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/db_iterator.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2006-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/doalloc.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2002, 2012 Free Software Foundation, Inc.]
+ncurses/tinfo/entries.c: UNKNOWN
+  [Copyright: 2019-2023 Thomas E. Dickey / 2006-2012, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/free_ttype.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 1999-2011, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/getenv_num.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2013 Free Software Foundation, Inc.]
+ncurses/tinfo/hashed_db.c: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 2006-2011, 2013 Free Software Foundation, Inc.]
+ncurses/tinfo/home_terminfo.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+ncurses/tinfo/init_keytry.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1999-2010, 2016 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_acs.c: UNKNOWN
+  [Copyright: 2018-2020 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_baudrate.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_cur_term.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_data.c: UNKNOWN
+  [Copyright: 2018-2022, 2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_has_cap.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2009, 2013 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_kernel.c: UNKNOWN
+  [Copyright: 2020-2023 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_longname.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2010, 2015 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_napms.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_options.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_print.c: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2012 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_raw.c: UNKNOWN
+  [Copyright: 2020-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_setup.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_termcap.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_termname.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2003, 2009 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_tgoto.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2000-2008, 2012 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_ti.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_tparm.c: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_tputs.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_ttyflags.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_win32con.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/tinfo/lib_win32util.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 1998-2010 Free Software Foundation, Inc.]
+ncurses/tinfo/make_hash.c: UNKNOWN
+  [Copyright: 2018-2020, 2024 Thomas E. Dickey / 2009-2013, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/make_keys.c: UNKNOWN [generated file]
+  [Copyright: 2020-2021 Thomas E. Dickey / 1998-2011, 2015 Free Software Foundation, Inc.]
+ncurses/tinfo/name_match.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2013, 2016 Free Software Foundation, Inc.]
+ncurses/tinfo/obsolete.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2013-2014, 2016 Free Software Foundation, Inc.]
+ncurses/tinfo/parse_entry.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/read_entry.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/read_termcap.c: BSD-4-Clause (University of California-Specific) BSD 3-Clause License
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc. / 1992-1993 The Regents of the University of California. / 1980, 1993 The Regents of the University of California.]
+ncurses/tinfo/strings.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2000-2012, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/tinfo_driver.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 2008-2017 Free Software Foundation, Inc.]
+ncurses/tinfo/trim_sgr0.c: UNKNOWN
+  [Copyright: 2020-2021, 2023 Thomas E. Dickey / 2005-2012, 2017 Free Software Foundation, Inc.]
+ncurses/tinfo/use_screen.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2007-2009, 2016 Free Software Foundation, Inc.]
+ncurses/tinfo/write_entry.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/trace/README: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey -- / 1998, 2006 Free Software Foundation, Inc. --]
+ncurses/trace/lib_trace.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/trace/lib_traceatr.c: UNKNOWN
+  [Copyright: 2018-2022, 2024 Thomas E. Dickey / 1998-2018 Free Software Foundation, Inc.]
+ncurses/trace/lib_tracebits.c: UNKNOWN
+  [Copyright: 2019-2020 Thomas E. Dickey / 1998-2012, 2015 Free Software Foundation, Inc.]
+ncurses/trace/lib_tracechr.c: UNKNOWN
+  [Copyright: 2020, 2024 Thomas E. Dickey / 1998-2009, 2012 Free Software Foundation, Inc.]
+ncurses/trace/lib_tracedmp.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2012, 2016 Free Software Foundation, Inc.]
+ncurses/trace/lib_tracemse.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1998-2012, 2014 Free Software Foundation, Inc.]
+ncurses/trace/trace_buf.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2012 Free Software Foundation, Inc.]
+ncurses/trace/trace_tries.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1999-2012 Free Software Foundation, Inc.]
+ncurses/trace/trace_xnames.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 1999-2010, 2016 Free Software Foundation, Inc.]
+ncurses/trace/varargs.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2001-2008, 2012 Free Software Foundation, Inc.]
+ncurses/trace/visbuf.c: UNKNOWN
+  [Copyright: 2019-2021, 2023 Thomas E. Dickey / 2001-2017 Free Software Foundation, Inc.]
+ncurses/tty/MKexpanded.sh: UNKNOWN
+  [Copyright: 2019-2021 Thomas E. Dickey / 1998-2015, 2017 Free Software Foundation, Inc.]
+ncurses/tty/hardscroll.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+ncurses/tty/hashmap.c: UNKNOWN
+  [Copyright: 2019-2020, 2023 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+ncurses/tty/lib_mvcur.c: UNKNOWN
+  [Copyright: 2018-2023 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/tty/lib_tstp.c: UNKNOWN
+  [Copyright: 2020-2022 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/tty/lib_twait.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 1998-2016 Free Software Foundation, Inc.]
+ncurses/tty/lib_vidattr.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 1998-2014, 2017 Free Software Foundation, Inc.]
+ncurses/tty/tty_update.c: UNKNOWN
+  [Copyright: 2018-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc.]
+ncurses/widechar/charable.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2003-2005, 2008 Free Software Foundation, Inc.]
+ncurses/widechar/lib_add_wch.c: UNKNOWN
+  [Copyright: 2019-2021, 2023 Thomas E. Dickey / 2004-2011, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_box_set.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2002-2009, 2011 Free Software Foundation, Inc.]
+ncurses/widechar/lib_cchar.c: UNKNOWN
+  [Copyright: 2019-2022 Thomas E. Dickey / 2001-2017 Free Software Foundation, Inc.]
+ncurses/widechar/lib_erasewchar.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2002-2010, 2014 Free Software Foundation, Inc.]
+ncurses/widechar/lib_get_wch.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2002-2011, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_get_wstr.c: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 2002-2009, 2011 Free Software Foundation, Inc.]
+ncurses/widechar/lib_hline_set.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2002-2010, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_in_wch.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2002-2009, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_in_wchnstr.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2002-2007, 2009 Free Software Foundation, Inc.]
+ncurses/widechar/lib_ins_wch.c: UNKNOWN
+  [Copyright: 2019-2020, 2023 Thomas E. Dickey / 2002-2017 Free Software Foundation, Inc.]
+ncurses/widechar/lib_inwstr.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2002-2017 Free Software Foundation, Inc.]
+ncurses/widechar/lib_key_name.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2007-2008, 2017 Free Software Foundation, Inc.]
+ncurses/widechar/lib_pecho_wchar.c: UNKNOWN
+  [Copyright: 2020-2021 Thomas E. Dickey / 2004, 2009 Free Software Foundation, Inc.]
+ncurses/widechar/lib_slk_wset.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2003-2011, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_unget_wch.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2002-2011, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_vid_attr.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2002-2014, 2017 Free Software Foundation, Inc.]
+ncurses/widechar/lib_vline_set.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2002-2010, 2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_wacs.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2002-2016 Free Software Foundation, Inc.]
+ncurses/widechar/lib_wunctrl.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2001-2012 Free Software Foundation, Inc.]
+ncurses/widechar/widechars.c: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey / 2012-2013 Free Software Foundation, Inc.]
+ncurses/win32con/gettimeofday.c: UNKNOWN
+  [Copyright: 2020, 2023 Thomas E. Dickey / 2008-2010, 2014 Free Software Foundation, Inc.]
+ncurses/win32con/wcwidth.c: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey / 2010 Free Software Foundation, Inc.]
+ncurses/win32con/win32_driver.c: UNKNOWN
+  [Copyright: 2018-2020, 2023 Thomas E. Dickey / 2008-2017 Free Software Foundation, Inc.]
+ncurses/win32con/win_driver.c: UNKNOWN
+  [Copyright: 2018-2021, 2023 Thomas E. Dickey / 2008-2017 Free Software Foundation, Inc.]
+package/debian/copyright: X11 License MIT License BSD 3-Clause License
+  [Copyright: 2017-2024 Thomas E. Dickey / 2001 Pradeep Padala / 1998-2017 Free Software Foundation, Inc. / 1996-2024 Thomas E. Dickey / 1994 X Consortium / 1980, 1991-1993 The Regents of the University of California.]
+package/debian-mingw/copyright: X11 License MIT License BSD 3-Clause License
+  [Copyright: 2017-2024 Thomas E. Dickey / 2001 Pradeep Padala / 1998-2017 Free Software Foundation, Inc. / 1996-2024 Thomas E. Dickey / 1994 X Consortium / 1980, 1991-1993 The Regents of the University of California.]
+package/debian-mingw/rules: UNKNOWN
+  [Copyright: 1997 Joey Hess.]
+package/debian-mingw64/copyright: X11 License MIT License BSD 3-Clause License
+  [Copyright: 2017-2024 Thomas E. Dickey / 2001 Pradeep Padala / 1998-2017 Free Software Foundation, Inc. / 1996-2024 Thomas E. Dickey / 1994 X Consortium / 1980, 1991-1993 The Regents of the University of California.]
+package/debian-mingw64/rules: UNKNOWN
+  [Copyright: 1997 Joey Hess.]
+test/package/mingw-ncurses-examples.spec: *No copyright* X11 License
+test/package/ncurses-examples.spec: *No copyright* MIT License
+Ada95/package/debian/copyright: X11 License MIT License [generated file]
+  [Copyright: 2017-2024 Thomas E. Dickey / 2010-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc. / 1994 X Consortium]
+Ada95/package/debian/rules: UNKNOWN
+  [Copyright: 1997 Joey Hess.]
+doc/html/ada/terminal_interface-curses-aux__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-aux__ads.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1998-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-alpha__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-alpha__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-alphanumeric__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-alphanumeric__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-enumeration-ada__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2004, 2011 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-enumeration-ada__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-enumeration__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-enumeration__ads.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-intfield__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-intfield__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-ipv4_address__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-ipv4_address__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-numeric__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-numeric__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-regexp__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-regexp__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-user-choice__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-user-choice__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2008, 2011 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-user__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types-user__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2009, 2011 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_types__ads.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1998-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_user_data__adb.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-field_user_data__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-form_user_data__adb.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms-form_user_data__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-forms__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-menus-item_user_data__adb.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-menus-item_user_data__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2006, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-menus-menu_user_data__adb.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-menus-menu_user_data__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-menus__adb.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-menus__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-mouse__adb.htm: UNKNOWN
+  [Copyright: 2018, 2020 Thomas E. Dickey --</em></span> / 1999-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-mouse__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2015 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-panels-user_data__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-panels-user_data__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-panels__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2004, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-panels__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1998-2009, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-putwin__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000-2003 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-putwin__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000-2003 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-termcap__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000-2006, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-termcap__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000-2003 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-terminfo__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000-2006, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-terminfo__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000-2003 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-aux__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2006, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-aux__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2006, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-complex_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-complex_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-decimal_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-decimal_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-enumeration_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-enumeration_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-fixed_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-fixed_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-float_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-float_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-integer_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-integer_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-modular_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io-modular_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-text_io__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2009 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-trace__adb.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2001-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses-trace__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 2000, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses__adb.htm: UNKNOWN
+  [Copyright: 2018-2020, 2024 Thomas E. Dickey --</em></span> / 2007-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface-curses__ads.htm: UNKNOWN
+  [Copyright: 2020, 2024 Thomas E. Dickey --</em></span> / 1998-2011, 2014 Free Software Foundation, Inc. --</em></span>]
+doc/html/ada/terminal_interface__ads.htm: UNKNOWN
+  [Copyright: 2020 Thomas E. Dickey --</em></span> / 1999-2003, 2006 Free Software Foundation, Inc. --</em></span>]
+test/package/debian/copyright: X11 License MIT License [generated file]
+  [Copyright: 2017-2024 Thomas E. Dickey / 2003-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc. / 1994 X Consortium]
+test/package/debian/rules: UNKNOWN
+  [Copyright: 1997 Joey Hess.]
+test/package/debian-mingw/copyright: X11 License MIT License [generated file]
+  [Copyright: 2017-2024 Thomas E. Dickey / 2003-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc. / 1994 X Consortium]
+test/package/debian-mingw/rules: UNKNOWN
+  [Copyright: 1997 Joey Hess.]
+test/package/debian-mingw64/copyright: X11 License MIT License [generated file]
+  [Copyright: 2017-2024 Thomas E. Dickey / 2003-2024 Thomas E. Dickey / 1998-2017 Free Software Foundation, Inc. / 1994 X Consortium]
+test/package/debian-mingw64/rules: UNKNOWN
+  [Copyright: 1997 Joey Hess.]

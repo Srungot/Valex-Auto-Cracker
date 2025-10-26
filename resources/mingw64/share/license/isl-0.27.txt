@@ -1,0 +1,562 @@
+LICENSE: *No copyright* MIT License
+Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2021 Free Software Foundation, Inc.]
+README: *No copyright* MIT License
+aclocal.m4: FSF Unlimited License (with License Retention) [generated file]
+  [Copyright: 2009-2021 Free Software Foundation, Inc. / 2006-2021 Free Software Foundation, Inc. / 2004-2021 Free Software Foundation, Inc. / 2003-2021 Free Software Foundation, Inc. / 2002-2021 Free Software Foundation, Inc. / 2001-2021 Free Software Foundation, Inc. / 1999-2021 Free Software Foundation, Inc. / 1997-2021 Free Software Foundation, Inc. / 1996-2021 Free Software Foundation, Inc.]
+basis_reduction_tab.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+basis_reduction_templ.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven / 2006-2007 Universiteit Leiden]
+check_parse_fail_test_templ.c: MIT License
+  [Copyright: 2021 Cerebras Systems]
+codegen.c: MIT License
+  [Copyright: 2012, 2014 Ecole Normale Superieure]
+compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2021 Free Software Foundation, Inc.]
+config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+configure: FSF Unlimited License GNU General Public License, Version 2 [generated file]
+  [Copyright: 2021 Free Software Foundation, Inc. / 2014 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2021 Free Software Foundation,]
+depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2021 Free Software Foundation, Inc.]
+extract_key.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+flow.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+flow_cmp.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+isl_aff.c: MIT License
+  [Copyright: 2021-2022 Cerebras Systems / 2021 Sven Verdoolaege / 2018, 2020 Cerebras Systems / 2016 Sven Verdoolaege / 2014 INRIA Rocquencourt / 2012-2014 Ecole Normale Superieure / 2011 Sven Verdoolaege / 2011 INRIA Saclay]
+isl_aff_lex_templ.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt]
+isl_aff_map.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege / 2012-2013 Ecole Normale Superieure / 2011 INRIA Saclay]
+isl_affine_hull.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_align_params_templ.c: MIT License
+  [Copyright: 2011 Sven Verdoolaege]
+isl_arg.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_ast.c: MIT License
+  [Copyright: 2022 Cerebras Systems / 2012-2013 Ecole Normale Superieure]
+isl_ast_build.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt / 2012-2013 Ecole Normale Superieure]
+isl_ast_build_expr.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt / 2012-2014 Ecole Normale Superieure]
+isl_ast_codegen.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt / 2012-2014 Ecole Normale Superieure]
+isl_ast_graft.c: MIT License
+  [Copyright: 2019 Cerebras Systems / 2014 INRIA Rocquencourt / 2012 Ecole Normale Superieure]
+isl_ast_node_set_field_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_basis_reduction.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_bernstein.c: MIT License
+  [Copyright: for (i = 0; i < n; ++i) / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven / 2006-2007 Universiteit Leiden]
+isl_bind_domain_templ.c: MIT License
+  [Copyright: 2018 Cerebras Systems]
+isl_blk.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_blk.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_bound.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_box.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2010-2011 INRIA Saclay]
+isl_coalesce.c: MIT License
+  [Copyright: 2020 Cerebras Systems / 2016 INRIA Paris / 2014 INRIA Rocquencourt / 2012-2013 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_constraint.c: MIT License
+  [Copyright: 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_convex_hull.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt / 2008-2009 Katholieke Universiteit Leuven]
+isl_copy_tuple_id_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_ctx.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_dim_map.c: MIT License
+  [Copyright: 2010-2011 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_domain_factor_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege / 2012 Ecole Normale Superieure]
+isl_drop_unused_params_templ.c: *No copyright* MIT License
+isl_equalities.c: MIT License
+  [Copyright: 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_equalities.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_factorization.c: MIT License
+  [Copyright: 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven / 2005-2007 Universiteit Leiden]
+isl_farkas.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_flow.c: MIT License
+  [Copyright: 2014 Ecole Normale Superieure / 2012 Universiteit Leiden / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven / 2005-2007 Universiteit Leiden]
+isl_fold.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_from_range_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_gmp.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_hash.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_id.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_id_private.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_ilp.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_ilp_opt_fn_val_templ.c: MIT License
+  [Copyright: 2018 Sven Verdoolaege]
+isl_ilp_opt_multi_val_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_ilp_opt_val_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_input.c: MIT License
+  [Copyright: pwaff = isl_pw_aff_ceil(pwaff); / 2019, 2022 Cerebras Systems / 2012-2013 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_insert_domain_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_int.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_int_sioimath.h: MIT License
+  [Copyright: 2015 INRIA Paris-Rocquencourt]
+isl_list_read_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_list_read_yaml_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_list_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege / 2012-2013 Ecole Normale Superieure / 2011 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_local.c: MIT License
+  [Copyright: 2015 Sven Verdoolaege / 2014 Ecole Normale Superieure / 2011 INRIA Saclay]
+isl_local_space.c: MIT License
+  [Copyright: 2019 Cerebras Systems / 2012-2014 Ecole Normale Superieure / 2011 INRIA Saclay]
+isl_lp.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_map.c: MIT License
+  [Copyright: 2021-2022 Cerebras Systems / 2018-2019 Cerebras Systems / 2016 Sven Verdoolaege / 2016 INRIA Paris / 2014 INRIA Rocquencourt / 2012-2014 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_map_bound_templ.c: MIT License
+  [Copyright: 2018 Cerebras Systems]
+isl_map_lexopt_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_map_private.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_map_simplify.c: MIT License
+  [Copyright: 2021, 2023 Cerebras Systems / 2016 Sven Verdoolaege / 2014-2015 INRIA Rocquencourt / 2012-2013 Ecole Normale Superieure / 2008-2009 Katholieke Universiteit Leuven]
+isl_map_subtract.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_mat.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege / 2014 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_morph.c: MIT License
+  [Copyright: 2014 Ecole Normale Superieure / 2010-2011 INRIA Saclay]
+isl_morph.h: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_multi_add_constant_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_multi_apply_explicit_domain_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_apply_no_explicit_domain_templ.c: MIT License
+  [Copyright: 2022 Cerebras Systems]
+isl_multi_apply_templ.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_arith_templ.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_bin_val_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_bind_domain_templ.c: MIT License
+  [Copyright: 2018 Cerebras Systems]
+isl_multi_bind_templ.c: MIT License
+  [Copyright: 2018 Cerebras Systems]
+isl_multi_check_domain_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_cmp.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege]
+isl_multi_coalesce.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_dim_id_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_dims.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_domain_reverse_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_multi_domain_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_explicit_domain.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_floor.c: MIT License
+  [Copyright: 2014 Ecole Normale Superieure]
+isl_multi_from_base_templ.c: MIT License
+  [Copyright: 2012, 2014 Ecole Normale Superieure]
+isl_multi_from_tuple_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_gist.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_hash.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege]
+isl_multi_identity_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_multi_insert_domain_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_multi_intersect.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_locals_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_multi_min_max_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_multi_move_dims_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_nan_templ.c: MIT License
+  [Copyright: 2014 Ecole Normale Superieure]
+isl_multi_no_domain_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_no_explicit_domain.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_param_templ.c: *No copyright* MIT License
+isl_multi_product_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_multi_pw_aff_explicit_domain.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_pw_aff_pullback_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_read_no_explicit_domain_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_multi_splice_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_multi_templ.c: MIT License
+  [Copyright: 2012-2014 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_tuple_id_templ.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure / 2011 Sven Verdoolaege]
+isl_multi_un_op_templ.c: MIT License
+  [Copyright: 2014 Ecole Normale Superieure]
+isl_multi_unbind_params_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_multi_union_add_templ.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_union_pw_aff_explicit_domain.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+isl_multi_zero_space_templ.c: MIT License
+  [Copyright: 2020 Cerebras Systems]
+isl_multi_zero_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_obj.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt / 2014 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_opt_mpa_templ.c: MIT License
+  [Copyright: 2018 Cerebras Systems]
+isl_options.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_output.c: MIT License
+  [Copyright: 2019 Cerebras Systems / 2012-2013 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_point.c: MIT License
+  [Copyright: 2019, 2022 Cerebras Systems / 2015 Sven Verdoolaege / 2013 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_polynomial.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_project_out_all_params_templ.c: *No copyright* MIT License
+isl_project_out_param_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_pw_add_constant_multi_val_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_pw_add_constant_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_pw_add_constant_val_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_pw_add_disjoint_templ.c: MIT License
+  [Copyright: 2011 Sven Verdoolaege / 2010 INRIA Saclay]
+isl_pw_bind_domain_templ.c: MIT License
+  [Copyright: 2018 Cerebras Systems]
+isl_pw_domain_reverse_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_pw_eval.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_pw_from_range_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_pw_hash.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege]
+isl_pw_insert_dims_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_insert_domain_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems]
+isl_pw_lift_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_locals_templ.c: MIT License
+  [Copyright: 2020 Cerebras Systems]
+isl_pw_morph_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_move_dims_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_neg_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_opt_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_print_templ.c: MIT License
+  [Copyright: 2011 Sven Verdoolaege]
+isl_pw_pullback_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_pw_range_tuple_id_templ.c: MIT License
+  [Copyright: 2019 Cerebras Systems / 2018 Sven Verdoolaege]
+isl_pw_scale_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_split_dims_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_sub_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_templ.c: MIT License
+  [Copyright: 2012-2014 Ecole Normale Superieure / 2011 Sven Verdoolaege / 2010-2011 INRIA Saclay]
+isl_pw_un_op_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_pw_union_opt.c: MIT License
+  [Copyright: 2020 Cerebras Systems / 2012 Ecole Normale Superieure / 2011 INRIA Saclay]
+isl_read_from_str_templ.c: MIT License
+  [Copyright: 2008 Katholieke Universiteit Leuven]
+isl_reordering.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_sample.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_sample.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_scan.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_scan.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_schedule.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege / 2012-2014 Ecole Normale Superieure / 2011 INRIA Saclay]
+isl_schedule_band.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt / 2013-2014 Ecole Normale Superieure]
+isl_schedule_constraints.c: MIT License
+  [Copyright: 2015-2016 Sven Verdoolaege / 2012 Ecole Normale Superieure]
+isl_schedule_node.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege / 2014 INRIA Rocquencourt / 2013-2014 Ecole Normale Superieure]
+isl_schedule_tree.c: MIT License
+  [Copyright: 2016 INRIA Paris / 2014 INRIA Rocquencourt / 2013-2014 Ecole Normale Superieure]
+isl_scheduler.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege / 2016 INRIA Paris / 2015-2016 Sven Verdoolaege / 2012-2014 Ecole Normale Superieure / 2011 INRIA Saclay]
+isl_scheduler_clustering.c: MIT License
+  [Copyright: 2015 Sven Verdoolaege]
+isl_scheduler_scc.c: MIT License
+  [Copyright: 2021 Sven Verdoolaege]
+isl_seq.c: MIT License
+  [Copyright: 2011 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_seq.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_sort.c: *No copyright* MIT License
+isl_space.c: MIT License
+  [Copyright: 2018-2019 Cerebras Systems / 2013-2014 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_stream.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_stream_read_pw_with_params_templ.c: MIT License
+  [Copyright: 2011 Sven Verdoolaege]
+isl_stream_read_with_params_templ.c: MIT License
+  [Copyright: 2011 Sven Verdoolaege]
+isl_stride.c: MIT License
+  [Copyright: 2012-2013 Ecole Normale Superieure]
+isl_tab.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege / 2014 INRIA Rocquencourt / 2013 Ecole Normale Superieure / 2008-2009 Katholieke Universiteit Leuven]
+isl_tab.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+isl_tab_lexopt_templ.c: MIT License
+  [Copyright: 2023 Cerebras Systems / 2011 Sven Verdoolaege / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_tab_pip.c: MIT License
+  [Copyright: 2023 Cerebras Systems / 2016-2017 Sven Verdoolaege / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_tarjan.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure / 2010-2011 INRIA Saclay]
+isl_test.c: MIT License
+  [Copyright: 2022 Cerebras Systems / 2014 INRIA Rocquencourt / 2012-2013 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_test2.cc: MIT License
+  [Copyright: 2021-2022 Cerebras Systems / 2014 INRIA Rocquencourt / 2012-2013 Ecole Normale Superieure / 2010 INRIA Saclay / 2008-2009 Katholieke Universiteit Leuven]
+isl_test_cpp-checked-conversion.cc: MIT License
+  [Copyright: 2018 Sven Verdoolaege]
+isl_test_cpp-checked.cc: MIT License
+  [Copyright: 2016-2017 Tobias Grosser]
+isl_test_cpp-generic.cc: MIT License
+  [Copyright: 2016-2017 Tobias Grosser]
+isl_test_cpp.cc: MIT License
+  [Copyright: 2016-2017 Tobias Grosser]
+isl_test_imath.c: MIT License
+  [Copyright: 2015 INRIA Paris-Rocquencourt]
+isl_test_int.c: MIT License
+  [Copyright: 2015 INRIA Paris-Rocquencourt]
+isl_test_plain_equal_templ.c: MIT License
+  [Copyright: 2012 Ecole Normale Superieure]
+isl_test_python.py: MIT License
+  [Copyright: 2016-2017 Tobias Grosser]
+isl_transitive_closure.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_type_check_equal_space_templ.c: MIT License
+  [Copyright: 2011 Sven Verdoolaege]
+isl_type_has_equal_space_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_type_has_space_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_unbind_params_templ.c: MIT License
+  [Copyright: 2018 Sven Verdoolaege]
+isl_union_domain_reverse_templ.c: MIT License
+  [Copyright: 2023 Sven Verdoolaege]
+isl_union_eval.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_union_locals_templ.c: MIT License
+  [Copyright: 2020 Cerebras Systems]
+isl_union_map.c: MIT License
+  [Copyright: 2022 Cerebras Systems / 2016-2017 Sven Verdoolaege / 2014 INRIA Rocquencourt / 2013-2014 Ecole Normale Superieure / 2010-2011 INRIA Saclay]
+isl_union_map_lex_templ.c: MIT License
+  [Copyright: 2014 INRIA Rocquencourt]
+isl_union_multi.c: MIT License
+  [Copyright: 2015 INRIA Paris-Rocquencourt / 2013 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_union_neg.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_union_print_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_union_single.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_union_sub_templ.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+isl_union_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure / 2010 INRIA Saclay]
+isl_val.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure]
+isl_vec.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure / 2011 Sven Verdoolaege / 2008-2009 Katholieke Universiteit Leuven]
+isl_vertices.c: MIT License
+  [Copyright: 2010 INRIA Saclay]
+ltmain.sh: GNU General Public License v3.0 or later GNU General Public License v2.0 or later
+  [Copyright: 2010-2015 Free Software Foundation, Inc. / 2004-2015 Free Software Foundation, Inc. / 1996-2015 Free Software Foundation, Inc.]
+missing: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1996-2021 Free Software Foundation, Inc.]
+pip.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+polyhedron_detect_equalities.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+polyhedron_minimize.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+polyhedron_remove_redundant_equalities.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege]
+polyhedron_sample.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+polytope_scan.c: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+py-compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2000-2021 Free Software Foundation, Inc.]
+schedule.c: MIT License
+  [Copyright: 2016 Sven Verdoolaege]
+schedule_cmp.c: MIT License
+  [Copyright: 2017 Sven Verdoolaege]
+test-driver: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2011-2021 Free Software Foundation, Inc.]
+doc/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2021 Free Software Foundation, Inc.]
+doc/isl.bib: UNKNOWN
+  [Copyright: onference on {C}ompilers, {A}rchitectures, and {S}ynthesis for {E}mbedded Systems, CASES 2006, {S}eoul, {K}orea}, / onference on {C}ompiler {C}onstruction, {E}dinburgh, {S}cotland},]
+imath/gmp_compat.c: MIT License
+  [Copyright: 2012 Qualcomm Innovation Center, Inc.]
+imath/gmp_compat.h: MIT License
+  [Copyright: 2012 Qualcomm Innovation Center, Inc.]
+imath/imath.c: MIT License
+  [Copyright: 2002-2007 Michael J. Fromberger]
+imath/imath.h: MIT License
+  [Copyright: 2002-2007 Michael J. Fromberger]
+imath/imrat.c: MIT License
+  [Copyright: 2002-2007 Michael J. Fromberger]
+imath/imrat.h: MIT License
+  [Copyright: 2002-2007 Michael J. Fromberger]
+interface/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2021 Free Software Foundation, Inc.]
+interface/aclocal.m4: FSF Unlimited License (with License Retention) [generated file]
+  [Copyright: 2009-2021 Free Software Foundation, Inc. / 2006-2021 Free Software Foundation, Inc. / 2004-2021 Free Software Foundation, Inc. / 2003-2021 Free Software Foundation, Inc. / 2002-2021 Free Software Foundation, Inc. / 2001-2021 Free Software Foundation, Inc. / 1999-2021 Free Software Foundation, Inc. / 1997-2021 Free Software Foundation, Inc. / 1996-2021 Free Software Foundation, Inc.]
+interface/compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2021 Free Software Foundation, Inc.]
+interface/config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+interface/config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2022 Free Software Foundation, Inc. / 1992-2022 Free Software Foundation, Inc.]
+interface/configure: FSF Unlimited License GNU General Public License, Version 2 [generated file]
+  [Copyright: 2021 Free Software Foundation, Inc. / 2014 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2021 Free Software Foundation,]
+interface/cpp.cc: BSD 2-Clause with views sentence
+  [Copyright: 2016-2017 Tobias Grosser.]
+interface/cpp_conversion.cc: MIT License
+  [Copyright: 2018 Sven Verdoolaege]
+interface/depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2021 Free Software Foundation, Inc.]
+interface/extract_interface.cc: BSD 2-Clause with views sentence
+  [Copyright: 2011 Sven Verdoolaege.]
+interface/generator.cc: BSD 2-Clause with views sentence
+  [Copyright: 2011, 2015 Sven Verdoolaege.]
+interface/install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+interface/ltmain.sh: GNU General Public License v3.0 or later GNU General Public License v2.0 or later
+  [Copyright: 2010-2015 Free Software Foundation, Inc. / 2004-2015 Free Software Foundation, Inc. / 1996-2015 Free Software Foundation, Inc.]
+interface/missing: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1996-2021 Free Software Foundation, Inc.]
+interface/plain_cpp.cc: BSD 2-Clause with views sentence
+  [Copyright: 2016-2017 Tobias Grosser.]
+interface/python.cc: BSD 2-Clause with views sentence
+  [Copyright: 2011, 2015 Sven Verdoolaege.]
+interface/template_cpp.cc: BSD 2-Clause with views sentence
+  [Copyright: 2020 Cerebras Systems.]
+m4/ax_c___attribute__.m4: GNU General Public License v2.0 or later
+  [Copyright: 2008 Stepan Kasal <skasal@redhat.com> / 2008 Ryan McCabe <ryan@numb.org> / 2008 Christian Haggstrom]
+m4/ax_cc_maxopt.m4: GNU General Public License v3.0 or later
+  [Copyright: 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_check_compile_flag.m4: FSF All Permissive License
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_compiler_vendor.m4: GNU General Public License v3.0 or later
+  [Copyright: 2018 -19 John Zaitseff <J.Zaitseff@zap.org.au> / 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_create_pkgconfig_info.m4: GNU General Public License v3.0 or later
+  [Copyright: 2008 Sven Verdoolaege <skimo@kotnet.org> / 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_create_stdint_h.m4: FSF All Permissive License
+  [Copyright: 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_cxx_compile_stdcxx.m4: FSF All Permissive License
+  [Copyright: 2020 Jason Merrill <jason@redhat.com> / 2019 Enji Cooper <yaneurabeya@gmail.com> / 2016, 2018 Krzesimir Nowak <qdlacz@gmail.com> / 2015 Paul Norman <penorman@mac.com> / 2015 Moritz Klammler <moritz@klammler.eu> / 2014-2015 Google Inc.; contributed by Alexey Sokolov <sokolov@google.com> / 2013 Roy Stogner <roystgnr@ices.utexas.edu> / 2012 Zack Weinberg <zackw@panix.com> / 2008 Benjamin Kosnik <bkoz@redhat.com>]
+m4/ax_cxx_compile_stdcxx_11.m4: FSF All Permissive License
+  [Copyright: 2015 Paul Norman <penorman@mac.com> / 2015 Moritz Klammler <moritz@klammler.eu> / 2014-2015 Google Inc.; contributed by Alexey Sokolov <sokolov@google.com> / 2013 Roy Stogner <roystgnr@ices.utexas.edu> / 2012 Zack Weinberg <zackw@panix.com> / 2008 Benjamin Kosnik <bkoz@redhat.com>]
+m4/ax_cxx_compile_stdcxx_17.m4: FSF All Permissive License
+  [Copyright: 2016 Krzesimir Nowak <qdlacz@gmail.com> / 2015 Moritz Klammler <moritz@klammler.eu>]
+m4/ax_gcc_archflag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2017-2018 Alexey Kopytov / 2014 Tsukasa Oi / 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_gcc_warn_unused_result.m4: FSF All Permissive License
+  [Copyright: 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_gcc_x86_cpuid.m4: GNU General Public License v3.0 or later
+  [Copyright: 2015 Michael Petch <mpetch@capp-sysware.com> / 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_prog_cc_for_build.m4: FSF All Permissive License
+  [Copyright: 2008 Paolo Bonzini <bonzini@gnu.org>]
+m4/ax_prog_cxx_for_build.m4: FSF All Permissive License
+  [Copyright: 2012 Avionic Design GmbH / 2008 Paolo Bonzini <bonzini@gnu.org>]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License, Version 2
+  [Copyright: 2014 Free Software Foundation, Inc. / 2011 Free Software Foundation, Inc. / 1996-2001, 2003-2015 Free Software Foundation, Inc.]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2015 Free Software]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2015 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2015 Free Software Foundation, Inc.]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2015 Free Software]
+include/isl/arg.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/constraint.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/ctx.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/fixed_box.h: *No copyright* MIT License
+include/isl/hash.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/hmap_templ.c: MIT License
+  [Copyright: 2013 Ecole Normale Superieure / 2011 INRIA Saclay]
+include/isl/ilp.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/list.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/lp.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/map.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/mat.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/options.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/set.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/space.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/stream.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]
+include/isl/stride_info.h: *No copyright* MIT License
+include/isl/vec.h: MIT License
+  [Copyright: 2008-2009 Katholieke Universiteit Leuven]

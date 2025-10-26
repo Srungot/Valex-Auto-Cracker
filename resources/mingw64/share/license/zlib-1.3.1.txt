@@ -1,0 +1,205 @@
+LICENSE: zlib License
+  [Copyright: 1995-2022 Jean-loup Gailly and Mark Adler]
+Makefile.in: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly, Mark Adler]
+README: zlib License
+  [Copyright: 1995-2024 Jean-loup Gailly and Mark Adler]
+adler32.c: UNKNOWN
+  [Copyright: 1995-2011, 2016 Mark Adler]
+compress.c: UNKNOWN
+  [Copyright: 1995-2005, 2014, 2016 Jean-loup Gailly, Mark Adler]
+crc32.c: UNKNOWN
+  [Copyright: 1995-2022 Mark Adler]
+deflate.c: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly and Mark Adler "; / 1995-2024 Jean-loup Gailly and Mark Adler]
+deflate.h: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly]
+gzclose.c: UNKNOWN
+  [Copyright: 2004, 2010 Mark Adler]
+gzguts.h: UNKNOWN
+  [Copyright: 2004-2024 Mark Adler]
+gzlib.c: UNKNOWN
+  [Copyright: 2004-2024 Mark Adler]
+gzread.c: UNKNOWN
+  [Copyright: 2004-2017 Mark Adler]
+gzwrite.c: UNKNOWN
+  [Copyright: 2004-2019 Mark Adler]
+infback.c: UNKNOWN
+  [Copyright: 1995-2022 Mark Adler]
+inffast.c: UNKNOWN
+  [Copyright: 1995-2017 Mark Adler]
+inffast.h: UNKNOWN
+  [Copyright: 1995-2003, 2010 Mark Adler]
+inflate.c: UNKNOWN
+  [Copyright: 1995-2022 Mark Adler]
+inflate.h: UNKNOWN
+  [Copyright: 1995-2019 Mark Adler]
+inftrees.c: UNKNOWN
+  [Copyright: 1995-2024 Mark Adler "; / 1995-2024 Mark Adler]
+inftrees.h: UNKNOWN
+  [Copyright: 1995-2005, 2010 Mark Adler]
+trees.c: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly]
+uncompr.c: UNKNOWN
+  [Copyright: 1995-2003, 2010, 2014, 2016 Jean-loup Gailly, Mark Adler]
+zconf.h: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly, Mark Adler]
+zconf.h.cmakein: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly, Mark Adler]
+zconf.h.in: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly, Mark Adler]
+zlib.3: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly and Mark Adler]
+zlib.h: zlib License
+  [Copyright: 1995-2024 Jean-loup Gailly and Mark Adler]
+zutil.c: UNKNOWN
+  [Copyright: 1995-2017 Jean-loup Gailly]
+zutil.h: UNKNOWN
+  [Copyright: 1995-2024 Jean-loup Gailly, Mark Adler]
+amiga/Makefile.pup: UNKNOWN
+  [Copyright: 1998 Andreas R. Kleinert]
+amiga/Makefile.sas: UNKNOWN
+  [Copyright: Jean-loup Gailly]
+doc/rfc1950.txt: UNKNOWN
+  [Copyright: 1996 L. Peter Deutsch and Jean-Loup Gailly]
+doc/rfc1951.txt: UNKNOWN
+  [Copyright: 1996 L. Peter Deutsch]
+doc/rfc1952.txt: UNKNOWN
+  [Copyright: 1996 L. Peter Deutsch]
+examples/enough.c: UNKNOWN
+  [Copyright: 2007-2008, 2012, 2018 Mark Adler]
+examples/gun.c: UNKNOWN
+  [Copyright: 2003-2010 Mark Adler "); / 2003, 2005, 2008, 2010, 2012 Mark Adler]
+examples/gzappend.c: zlib License
+  [Copyright: 2003, 2012 Mark Adler " / 2003, 2012 Mark Adler]
+examples/gzjoin.c: zlib License
+  [Copyright: 2004-2005, 2012 Mark Adler]
+examples/gzlog.c: UNKNOWN
+  [Copyright: 2004, 2008, 2012, 2016, 2019 Mark Adler]
+examples/gzlog.h: zlib License
+  [Copyright: 2004, 2008, 2012 Mark Adler]
+examples/gznorm.c: UNKNOWN
+  [Copyright: 2018 Mark Adler]
+examples/zran.c: UNKNOWN
+  [Copyright: 2005, 2012, 2018, 2023 Mark Adler]
+examples/zran.h: UNKNOWN
+  [Copyright: 2005, 2012, 2018, 2023 Mark Adler]
+msdos/Makefile.dj2: UNKNOWN
+  [Copyright: 1995-1998 Jean-loup Gailly.]
+msdos/Makefile.emx: UNKNOWN
+  [Copyright: 1995-1998 Jean-loup Gailly.]
+old/Makefile.emx: UNKNOWN
+  [Copyright: 1995-1998 Jean-loup Gailly.]
+os400/make.sh: UNKNOWN
+  [Copyright: 1995-2017 Jean-Loup Gailly, Mark Adler. OS/400 version by P. Monnerat.")' >> os400.c]
+test/example.c: UNKNOWN
+  [Copyright: 1995-2006, 2011, 2016 Jean-loup Gailly]
+test/infcover.c: UNKNOWN
+  [Copyright: 2011, 2016 Mark Adler]
+test/minigzip.c: UNKNOWN
+  [Copyright: 1995-2006, 2010-2011, 2016 Jean-loup Gailly]
+win32/Makefile.gcc: UNKNOWN
+  [Copyright: 1995-2003 Jean-loup Gailly.]
+win32/Makefile.msc: UNKNOWN
+  [Copyright: 1995-2017 Jean-loup Gailly and Mark Adler]
+win32/README-WIN32.txt: zlib License
+  [Copyright: 1995-2017 Jean-loup Gailly and Mark Adler]
+contrib/ada/buffer_demo.adb: UNKNOWN
+  [Copyright: 2002-2004 Dmitriy Anisimkov --]
+contrib/ada/mtest.adb: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/read.adb: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/test.adb: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/zlib-streams.adb: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/zlib-streams.ads: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/zlib-thin.adb: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/zlib-thin.ads: UNKNOWN
+  [Copyright: 2002-2003 Dmitriy Anisimkov --]
+contrib/ada/zlib.adb: UNKNOWN
+  [Copyright: 2002-2004 Dmitriy Anisimkov --]
+contrib/ada/zlib.ads: GNU General Public License
+  [Copyright: 2002-2004 Dmitriy Anisimkov --]
+contrib/blast/blast.c: UNKNOWN
+  [Copyright: 2003, 2012-2013 Mark Adler]
+contrib/blast/blast.h: zlib License
+  [Copyright: 2003, 2012-2013 Mark Adler]
+contrib/delphi/ZLib.pas: UNKNOWN
+  [Copyright: 1997 99 Borland Corporation }]
+contrib/delphi/readme.txt: UNKNOWN
+  [Copyright: 1997 99 Borland Corp.,]
+contrib/dotzlib/LICENSE_1_0.txt: *No copyright* Boost Software License 1.0
+contrib/dotzlib/readme.txt: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/gcc_gvmat64/gvmat64.S: UNKNOWN
+  [Copyright: 1995-2010 Jean-loup Gailly, Brian Raiter and Gilles Vollant.]
+contrib/infback9/infback9.c: UNKNOWN
+  [Copyright: 1995-2008 Mark Adler]
+contrib/infback9/infback9.h: UNKNOWN
+  [Copyright: 2003 Mark Adler]
+contrib/infback9/inflate9.h: UNKNOWN
+  [Copyright: 1995-2003 Mark Adler]
+contrib/infback9/inftree9.c: UNKNOWN
+  [Copyright: 1995-2024 Mark Adler "; / 1995-2024 Mark Adler]
+contrib/infback9/inftree9.h: UNKNOWN
+  [Copyright: 1995-2008 Mark Adler]
+contrib/iostream2/zstream.h: NTP License
+  [Copyright: 1997 Christian Michelsen Research AS]
+contrib/minizip/MiniZip64_info.txt: zlib License
+  [Copyright: 1998-2010 Gilles Vollant - version 1.1 64 bits from Mathias Svensson]
+contrib/minizip/crypt.h: UNKNOWN
+  [Copyright: 1998-2005 Gilles Vollant]
+contrib/minizip/ioapi.c: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/ioapi.h: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/iowin32.c: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/iowin32.h: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/miniunz.c: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 2007-2008 Even Rouault / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/minizip.c: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 2007-2008 Even Rouault / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/mztools.c: *No copyright* zlib License
+contrib/minizip/unzip.c: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 2007-2008 Even Rouault / 1998-2010 Gilles Vollant, Even Rouault, Mathias Svensson / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html ) / 1998-2004 Gilles Vollant - http://www.winimage.com/zLibDll"; / 1990-2000 Info-ZIP.]
+contrib/minizip/unzip.h: zlib License
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 2007-2008 Even Rouault / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/minizip/zip.c: UNKNOWN
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html ) / 1998-2004 Gilles Vollant - http://www.winimage.com/zLibDll";]
+contrib/minizip/zip.h: zlib License
+  [Copyright: 2009-2010 Mathias Svensson ( http://result42.com ) / 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )]
+contrib/pascal/example.pas: UNKNOWN
+  [Copyright: 2003 Cosmin Truta. / 1998 Jacques Nomssi Nzali. / 1995-2003 Jean-loup Gailly.]
+contrib/pascal/readme.txt: zlib License
+  [Copyright: 2003 Cosmin Truta. / 2003 Cosmin Truta. / 1998-2000 Jacques Nomssi Nzali. / 1998 Bob Dellaca. / 1995-2003 Jean-loup Gailly. / 1995-2003 Jean-loup Gailly and Mark Adler.]
+contrib/pascal/zlibpas.pas: UNKNOWN
+  [Copyright: 2003 Cosmin Truta.]
+contrib/puff/puff.c: UNKNOWN
+  [Copyright: 2002-2013 Mark Adler]
+contrib/puff/puff.h: zlib License
+  [Copyright: 2002-2013 Mark Adler]
+contrib/puff/pufftest.c: UNKNOWN
+  [Copyright: 2002-2013 Mark Adler]
+contrib/untgz/untgz.c: *No copyright* zlib License
+contrib/dotzlib/DotZLib/ChecksumImpl.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/CircularBuffer.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/CodecBase.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/Deflater.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/DotZLib.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/GZipStream.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/Inflater.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]
+contrib/dotzlib/DotZLib/UnitTests.cs: Boost Software License 1.0
+  [Copyright: Henrik Ravn 2004]

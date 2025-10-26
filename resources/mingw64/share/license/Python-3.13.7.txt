@@ -1,0 +1,1136 @@
+LICENSE: Python Software Foundation License 2.0 CNRI Python Open Source GPL Compatible License Agreement BSD 0-Clause License GNU General Public License
+  [Copyright: i.e., "Copyright (c) 2001-2024 Python Software Foundation; / i.e., "Copyright (c) / 1991-1995 Stichting Mathematisch Centrum Amsterdam,]
+README.rst: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation. / 2000 BeOpen.com. / 1995-2001 Corporation for National Research Initiatives. All / 1991-1995 Stichting Mathematisch Centrum.]
+aclocal.m4: FSF Unlimited License (with License Retention) FSF All Permissive License GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2012-2015 Dan Nicholson <dbn.lists@gmail.com> / 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2009-2010 Zmanda Inc. <http://www.zmanda.com/> / 2009-2010 Dustin J. Mitchell <dustin@zmanda.com> / 2008, 2023 Daniel Amelang <dan@amelang.net> / 2008 Guido U. Draheim <guidod@gmx.de> / 2006-2021 Free Software Foundation, Inc. / 2004 Scott James Remnant <scott@netsplit.com>. / 1997-2021 Free Software Foundation, Inc. / 1996-2021 Free Software Foundation, Inc.]
+config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2021 Free Software Foundation, Inc. / 1992-2021 Free Software Foundation, Inc.]
+config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+configure: FSF Unlimited License [generated file]
+  [Copyright: 2021 Free Software Foundation, Inc. / 2021 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2021 Free Software Foundation,]
+install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+Doc/copyright.rst: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation. / 2000 BeOpen.com. / 1995-2000 Corporation for National Research Initiatives. All rights / 1991-1995 Stichting Mathematisch Centrum.]
+Doc/license.rst: zlib License Python Software Foundation License 2.0 MIT License CNRI Python Open Source GPL Compatible License Agreement CNRI Python License BSD 3-Clause License BSD 2-Clause License BSD 0-Clause License GNU General Public License Apache License 2.0
+  [Copyright: i.e., "Copyright \x{00a9} 2001-2024 Python Software Foundation; All Rights / i.e., "Copyright \x{00a9} 1995-2001 Corporation for National Research Initiatives; All / 2019-2020 Jeffrey Roberson <jeff@FreeBSD.org> / 2018-2021 Microsoft Corporation, Daan Leijen / 2015-2021 MagicStack Inc. http://magic.io / 2013 W3C(R) (MIT, ERCIM, Keio, Beihang), / 2013 Marek Majkowski <marek@popcount.org> / 2008-2020 Stefan Krah. / 2005 Don Owens / 2001-2006 Twisted Matrix Laboratories. / 2001 Autonomous Zones Industries, Inc., all rights... / 2000 Timothy O'Malley <timo@alum.mit.edu> / 2000 Mojam Media, Inc. / 2000 Doug White, 2006 James Knight, 2007 Christian Heimes / 1999-2002 Secret Labs AB / 1999-2002 Fredrik Lundh / 1999 Bioreason, Inc. / 1998-2000 Thai Open Source Software Center Ltd / 1997-2002 Makoto Matsumoto and Takuji Nishimura, / 1996-2008 Red Hat, Inc and others. / 1996 Sam Rushing / 1995-2011 Jean-loup Gailly and Mark Adler / 1995-1997 and 1998 WIDE Project. / 1995-1997 Automatrix, Inc. / 1994 Lance Ellinghouse / 1991-1995 Stichting Mathematisch Centrum Amsterdam, The / 1991-1995 Stichting Mathematisch Centrum / 1991, 2000-2001 Lucent Technologies.]
+Include/codecs.h: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives.]
+Include/dynamic_annotations.h: UNKNOWN
+  [Copyright: 2008-2009 Google Inc.]
+Include/opcode_ids.h: *No copyright* UNKNOWN [generated file]
+Include/pylifecycle.h: UNKNOWN
+  [Copyright: (void);]
+Include/unicodeobject.h: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives. / 1999 Secret Labs AB. / 1999 Secret Labs AB / 1999 Fredrik Lundh. / 1999 Fredrik Lundh]
+Lib/_collections_abc.py: UNKNOWN
+  [Copyright: 2007 Google, Inc.]
+Lib/_opcode_metadata.py: *No copyright* UNKNOWN [generated file]
+Lib/_pydecimal.py: UNKNOWN
+  [Copyright: 2004 Python Software Foundation.]
+Lib/abc.py: UNKNOWN
+  [Copyright: 2007 Google, Inc.]
+Lib/ast.py: CNRI Python License
+  [Copyright: 2008 Armin Ronacher.]
+Lib/code.py: UNKNOWN
+  [Copyright: messages")]
+Lib/codecs.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/functools.py: UNKNOWN
+  [Copyright: 2006-2013 Python Software Foundation.]
+Lib/hashlib.py: UNKNOWN
+  [Copyright: 2005-2010 Gregory P. Smith (greg@krypto.org)]
+Lib/ipaddress.py: UNKNOWN
+  [Copyright: 2007 Google Inc.]
+Lib/keyword.py: *No copyright* UNKNOWN [generated file]
+Lib/numbers.py: UNKNOWN
+  [Copyright: 2007 Google, Inc.]
+Lib/optparse.py: BSD 3-Clause License [generated file]
+  [Copyright: 2002-2006 Python Software Foundation. / 2001-2006 Gregory P. Ward.]
+Lib/platform.py: UNKNOWN
+  [Copyright: 2000-2010 eGenix.com Software GmbH; mailto:info@egenix.com / 1999-2000 Marc-Andre Lemburg; mailto:mal@lemburg.com]
+Lib/profile.py: Apache License 2.0
+  [Copyright: Disney Enterprises, Inc.]
+Lib/pstats.py: Apache License 2.0
+  [Copyright: Disney Enterprises, Inc.]
+Lib/socketserver.py: UNKNOWN
+  [Copyright: 2000 Luke Kenneth Casson Leighton <lkcl@samba.org>]
+Lib/stringprep.py: *No copyright* UNKNOWN [generated file]
+Lib/subprocess.py: UNKNOWN
+  [Copyright: 2003-2005 Peter Astrand <astrand@lysator.liu.se>]
+Lib/tarfile.py: MIT License
+  [Copyright: 2002 Lars Gustaebel <lars@gustaebel.de>]
+Lib/textwrap.py: UNKNOWN
+  [Copyright: 2002-2003 Python Software Foundation. / 1999-2001 Gregory P. Ward.]
+Lib/trace.py: CNRI Python License
+  [Copyright: 2001 Autonomous Zones Industries, Inc., all rights... / 2000 Mojam Media, Inc. / 1999 Bioreason, Inc. / 1995-1997 Automatrix, Inc. / 1991-1995 Stichting Mathematisch Centrum]
+Lib/turtle.py: zlib License
+  [Copyright: 2006-2010 Gregor Lingl]
+Misc/HISTORY: CNRI Python License
+  [Copyright: was assigned to the Python Software Foundation (PSF) and a / The __get__ method didn't check whether the argument was an]
+Misc/NEWS: UNKNOWN
+  [Copyright: and Python code.]
+Misc/python.man: UNKNOWN
+  [Copyright: messages. These messages are]
+Modules/Setup.stdlib.in: *No copyright* UNKNOWN [generated file]
+Modules/_codecsmodule.c: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives.]
+Modules/_cursesmodule.c: UNKNOWN
+  [Copyright: 1996-1997 Oliver Andrich, Koblenz, Germany. / 1994 Lance Ellinghouse,]
+Modules/_elementtree.c: UNKNOWN
+  [Copyright: 1999-2009 Secret Labs AB. / 1999-2009 Fredrik Lundh.]
+Modules/_functoolsmodule.c: UNKNOWN
+  [Copyright: 2004-2006 Python Software Foundation.]
+Modules/_hashopenssl.c: UNKNOWN
+  [Copyright: 2005-2010 Gregory P. Smith (greg@krypto.org)]
+Modules/_localemodule.c: UNKNOWN
+  [Copyright: 1997, 2002-2003, 2007-2008 Martin von Loewis]
+Modules/_randommodule.c: BSD 3-Clause License
+  [Copyright: 1997-2002 Makoto Matsumoto and Takuji Nishimura,]
+Modules/_tkinter.c: UNKNOWN
+  [Copyright: 1994 Steen Lumholt.]
+Modules/_winapi.c: UNKNOWN
+  [Copyright: 2004 Secret Labs AB, http://www.pythonware.com / 2004 Peter Astrand <astrand@lysator.liu.se> / 2004 Fredrik Lundh <fredrik@pythonware.com>]
+Modules/addrinfo.h: BSD 3-Clause License
+  [Copyright: 1995-1998 and 1999 WIDE Project.]
+Modules/atexitmodule.c: UNKNOWN
+  [Copyright: 2007 Python Software Foundation.]
+Modules/binascii.c: UNKNOWN
+  [Copyright: 1986 Gary S. Brown. You may use this program, or]
+Modules/config.c.in: UNKNOWN
+  [Copyright: 2000 BeOpen.com. / 1995-2000 Corporation for National Research Initiatives. / 1990-1995 Stichting Mathematisch Centrum.]
+Modules/getaddrinfo.c: BSD 3-Clause License
+  [Copyright: 1995-1997 and 1998 WIDE Project.]
+Modules/getnameinfo.c: BSD 3-Clause License
+  [Copyright: 1995-1997 and 1998 WIDE Project.]
+Modules/md5module.c: UNKNOWN
+  [Copyright: 2005-2007 Gregory P. Smith (greg@krypto.org)]
+Modules/selectmodule.c: BSD 2-Clause License
+  [Copyright: 2000 Doug White, 2006 James Knight, 2007 Christian Heimes]
+Modules/sha1module.c: UNKNOWN
+  [Copyright: 2005-2007 Gregory P. Smith (greg@krypto.org)]
+Modules/sha2module.c: UNKNOWN
+  [Copyright: 2005-2007 Gregory P. Smith (greg@krypto.org)]
+Modules/sha3module.c: UNKNOWN
+  [Copyright: 2012-2022 Christian Heimes (christian@python.org)]
+Modules/syslogmodule.c: UNKNOWN
+  [Copyright: 1994 Lance Ellinghouse,]
+Modules/unicodedata.c: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives.]
+Objects/unicodectype.c: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives.]
+Objects/unicodeobject.c: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives. / 1999 Secret Labs AB / 1999 Fredrik Lundh]
+PC/_wmimodule.cpp: UNKNOWN
+  [Copyright: Microsoft Corporation]
+PC/crtlicense.txt: CNRI Python License
+  [Copyright: trademark or patent notice in Microsoft's]
+PC/launcher.c: UNKNOWN
+  [Copyright: 2011-2013 Vinay Sajip.]
+PC/python_ver_rc.h: UNKNOWN
+  [Copyright: xA9 2001-2024 Python Software Foundation. Copyright xA9 2000 BeOpen.com. Copyright xA9 1995-2001 CNRI. Copyright xA9 1991-1995 SMC."]
+PC/store_info.txt: UNKNOWN
+  [Copyright: i.e., "Copyright \x{00a9} 2001-2018 Python Software Foundation; All Rights / Trademark Information / Python Software Foundation]
+PC/winsound.c: UNKNOWN
+  [Copyright: 1999 Toby Dickenson]
+Python/codecs.c: UNKNOWN
+  [Copyright: Corporation for National Research Initiatives.]
+Python/dtoa.c: UNKNOWN
+  [Copyright: 1991, 2000-2001 Lucent Technologies.]
+Python/dynamic_annotations.c: UNKNOWN
+  [Copyright: 2008-2009 Google Inc.]
+Python/executor_cases.c.h: *No copyright* UNKNOWN [generated file]
+Python/generated_cases.c.h: *No copyright* UNKNOWN [generated file]
+Python/getcopyright.c: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation. / 2000 BeOpen.com. / 1995-2001 Corporation for National Research Initiatives. / 1991-1995 Stichting Mathematisch Centrum, Amsterdam. / (void)]
+Python/getopt.c: UNKNOWN
+  [Copyright: 1992-1994 David Gottner]
+Python/hashtable.c: BSD 3-Clause License
+  [Copyright: 2005 Don Owens]
+Python/initconfig.c: UNKNOWN
+  [Copyright: messages on interactive startup]
+Python/optimizer_cases.c.h: *No copyright* UNKNOWN [generated file]
+Python/pyhash.c: MIT License
+  [Copyright: 2013 Marek Majkowski <marek@popcount.org>]
+Python/qsbr.c: UNKNOWN
+  [Copyright: 2019-2020 Jeffrey Roberson <jeff@FreeBSD.org>]
+Python/sysmodule.c: UNKNOWN
+  [Copyright: notice pertaining to this interpreter]
+Doc/c-api/init.rst: UNKNOWN
+  [Copyright: 1991-1995 Stichting Mathematisch Centrum, Amsterdam'`` / (in module sys)]
+Doc/data/refcounts.dat: UNKNOWN
+  [Copyright: const char*:::]
+Doc/data/stable_abi.dat: UNKNOWN
+  [Copyright: 3.2,,]
+Doc/extending/newtypes_tutorial.rst: UNKNOWN
+  [Copyright: functions]
+Doc/faq/general.rst: UNKNOWN
+  [Copyright: rules, it's OK to use Python for / restrictions on the use of Python?]
+Doc/library/constants.rst: UNKNOWN
+  [Copyright: credits]
+Doc/library/hashlib.rst: *No copyright* Creative Commons Public Domain Dedication
+Doc/library/idle.rst: CNRI Python License
+  [Copyright: license, credits, and more.]
+Doc/library/locale.rst: UNKNOWN
+  [Copyright: locale]
+Doc/library/pprint.rst: *No copyright* MIT License
+Doc/library/signal.rst: UNKNOWN
+  [Copyright: signal]
+Doc/library/sys.rst: UNKNOWN
+  [Copyright: pertaining to the Python interpreter.]
+Doc/library/time.rst: *No copyright* NTP License
+Doc/library/xml.etree.elementtree.rst: UNKNOWN
+  [Copyright: <xi:include href="year.txt" parse="text" />. / 2003]
+Doc/tutorial/venv.rst: *No copyright* Apache License 2.0
+Doc/whatsnew/3.8.rst: UNKNOWN
+  [Copyright: 2019]
+Include/cpython/pythonrun.h: UNKNOWN
+  [Copyright: NULL) / NULL)]
+Include/internal/pycore_opcode_metadata.h: *No copyright* UNKNOWN [generated file]
+Include/internal/pycore_uop_ids.h: *No copyright* UNKNOWN [generated file]
+Include/internal/pycore_uop_metadata.h: *No copyright* UNKNOWN [generated file]
+Lib/_pyrepl/__init__.py: UNKNOWN
+  [Copyright: 2000-2008 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/base_eventqueue.py: UNKNOWN
+  [Copyright: 2000-2008 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/commands.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/completing_reader.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/console.py: UNKNOWN
+  [Copyright: 2000-2004 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/curses.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/fancy_termios.py: UNKNOWN
+  [Copyright: 2000-2004 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/historical_reader.py: UNKNOWN
+  [Copyright: 2000-2004 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/input.py: UNKNOWN
+  [Copyright: 2000-2004 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/keymap.py: UNKNOWN
+  [Copyright: 2000-2008 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/reader.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/readline.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/simple_interact.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/unix_console.py: UNKNOWN
+  [Copyright: 2000-2010 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/unix_eventqueue.py: UNKNOWN
+  [Copyright: 2000-2008 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/_pyrepl/windows_console.py: UNKNOWN
+  [Copyright: 2000-2004 Michael Hudson-Doyle <micahel@gmail.com>]
+Lib/asyncio/constants.py: Python Software Foundation License 2.0
+  [Copyright: Copyright (c) 2015-2021 MagicStack Inc. http://magic.io]
+Lib/asyncio/events.py: Python Software Foundation License 2.0
+  [Copyright: Copyright (c) 2015-2021 MagicStack Inc. http://magic.io]
+Lib/asyncio/sslproto.py: Python Software Foundation License 2.0
+  [Copyright: Copyright (c) 2015-2021 MagicStack Inc. http://magic.io]
+Lib/email/__init__.py: UNKNOWN
+  [Copyright: 2001-2007 Python Software Foundation]
+Lib/email/_parseaddr.py: UNKNOWN
+  [Copyright: 2002-2007 Python Software Foundation]
+Lib/email/base64mime.py: UNKNOWN
+  [Copyright: 2002-2007 Python Software Foundation]
+Lib/email/charset.py: UNKNOWN
+  [Copyright: 2001-2007 Python Software Foundation]
+Lib/email/encoders.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/errors.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/feedparser.py: UNKNOWN
+  [Copyright: 2004-2006 Python Software Foundation]
+Lib/email/generator.py: UNKNOWN
+  [Copyright: 2001-2010 Python Software Foundation]
+Lib/email/header.py: UNKNOWN
+  [Copyright: 2002-2007 Python Software Foundation]
+Lib/email/iterators.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/message.py: UNKNOWN
+  [Copyright: 2001-2007 Python Software Foundation]
+Lib/email/parser.py: UNKNOWN
+  [Copyright: 2001-2007 Python Software Foundation]
+Lib/email/quoprimime.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/utils.py: UNKNOWN
+  [Copyright: 2001-2010 Python Software Foundation]
+Lib/encodings/__init__.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/ascii.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/charmap.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/latin_1.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/mac_latin2.py: UNKNOWN
+  [Copyright: CNRI / 2000 Guido van Rossum.]
+Lib/encodings/mbcs.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/ptcp154.py: UNKNOWN
+  [Copyright: CNRI / 2000 Guido van Rossum.]
+Lib/encodings/raw_unicode_escape.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/undefined.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/unicode_escape.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/utf_16.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/utf_16_be.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/utf_16_le.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/encodings/utf_8.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/http/cookies.py: UNKNOWN
+  [Copyright: 2000 Timothy O'Malley <timo@alum.mit.edu>]
+Lib/idlelib/help_about.py: UNKNOWN
+  [Copyright: button event." / and credits are of type _sitebuiltins._Printer]
+Lib/logging/__init__.py: UNKNOWN
+  [Copyright: 2001-2022 Vinay Sajip. / 2001-2022 Vinay Sajip.]
+Lib/logging/config.py: UNKNOWN
+  [Copyright: 2001-2023 Vinay Sajip. / 2001-2022 Vinay Sajip.]
+Lib/logging/handlers.py: UNKNOWN
+  [Copyright: 2001-2021 Vinay Sajip. / 2001-2021 Vinay Sajip.]
+Lib/multiprocessing/__init__.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/connection.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/heap.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/managers.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/pool.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/process.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/queues.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/reduction.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/sharedctypes.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/spawn.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/synchronize.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/util.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/re/__init__.py: UNKNOWN
+  [Copyright: 1998-2001 Secret Labs AB.]
+Lib/re/_compiler.py: UNKNOWN
+  [Copyright: 1997-2001 Secret Labs AB.]
+Lib/re/_constants.py: UNKNOWN
+  [Copyright: 1998-2001 Secret Labs AB.]
+Lib/re/_parser.py: UNKNOWN
+  [Copyright: 1998-2001 Secret Labs AB.]
+Lib/sqlite3/__init__.py: zlib License
+  [Copyright: 2005 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/sqlite3/dbapi2.py: zlib License
+  [Copyright: 2004-2005 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_abc.py: UNKNOWN
+  [Copyright: 2007 Google, Inc.]
+Lib/test/test_charmapcodec.py: UNKNOWN
+  [Copyright: 2000 Guido van Rossum.]
+Lib/test/test_clinic.py: UNKNOWN
+  [Copyright: 2012-2013 Larry Hastings.]
+Lib/test/test_csv.py: UNKNOWN
+  [Copyright: 2001-2002 Python Software Foundation]
+Lib/test/test_decimal.py: UNKNOWN
+  [Copyright: 2004 Python Software Foundation.]
+Lib/test/test_dis.py: UNKNOWN
+  [Copyright: CONVERT_VALUE 2 (repr) / BEFORE_WITH / BEFORE_ASYNC_WITH]
+Lib/test/test_epoll.py: MIT License
+  [Copyright: 2001-2006 Twisted Matrix Laboratories.]
+Lib/test/test_gettext.py: UNKNOWN
+  [Copyright: 2001 Python Software Foundation / 2001 Python Software Foundation]
+Lib/test/test_hashlib.py: UNKNOWN
+  [Copyright: 2005-2010 Gregory P. Smith (greg@krypto.org)]
+Lib/test/test_ipaddress.py: UNKNOWN
+  [Copyright: 2007 Google Inc.]
+Lib/test/test_logging.py: UNKNOWN
+  [Copyright: \x{00c3}\x{009f}\x{00c2}\x{00af}]'), 9) / \x{00c3}\x{009f}\x{00c2}\x{00af}]' : 19, / \x{00c3}\x{009f}\x{00c2}\x{00af}] ]') / \x{00c3}\x{009f}\x{00c2}\x{00af}] ]') / \x{00c3}\x{009f}\x{00c2}\x{00af}] ' : 11, / \x{00c3}\x{009f}\x{00c2}\x{00af}' : 9, / 2001-2022 Vinay Sajip.]
+Lib/test/test_plistlib.py: UNKNOWN
+  [Copyright: 2003-2013 Python Software Foundation]
+Lib/test/test_raise.py: UNKNOWN
+  [Copyright: 2007 Google, Inc.]
+Lib/test/test_random.py: UNKNOWN
+  [Copyright: is False and we take the elif branch, (E). For it to be True, / if u1 <= x ** (alpha - 1.0): # <=== (D) / evaluates to True. We / True, (D) True [while loop breaks] / True, (D) False --> [next iteration of while]]
+Lib/test/test_shutil.py: UNKNOWN
+  [Copyright: 2003 Python Software Foundation]
+Lib/test/test_str.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/test/test_sys.py: UNKNOWN
+  [Copyright: str)]
+Lib/test/test_ucn.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/test/test_unicodedata.py: UNKNOWN
+  [Copyright: CNRI]
+Lib/test/test_venv.py: UNKNOWN
+  [Copyright: 2011-2012 Vinay Sajip.]
+Lib/test/test_weakref.py: UNKNOWN
+  [Copyright: isn't reachable from c1 then, so protecting / from getting tp_clear'ed before c2.cb is invoked.]
+Lib/test/testcodec.py: UNKNOWN
+  [Copyright: 2000 Guido van Rossum.]
+Lib/tkinter/simpledialog.py: UNKNOWN
+  [Copyright: 1997 Fredrik Lundh]
+Lib/tomllib/__init__.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/tomllib/_parser.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/tomllib/_re.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/tomllib/_types.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/unittest/__init__.py: UNKNOWN
+  [Copyright: message / 2003-2010 Python Software Foundation / 1999-2003 Steve Purcell]
+Lib/urllib/robotparser.py: UNKNOWN
+  [Copyright: 2000 Bastian Kleineidam]
+Lib/venv/__init__.py: UNKNOWN
+  [Copyright: 2011-2014 Vinay Sajip.]
+Lib/wsgiref/headers.py: UNKNOWN
+  [Copyright: 2001-2002 Python Software Foundation, and were]
+Lib/wsgiref/validate.py: MIT License Apache License 2.0
+  [Copyright: 2005 Ian Bicking and contributors; written for Paste (http://pythonpaste.org)]
+Lib/xmlrpc/client.py: UNKNOWN
+  [Copyright: 1999-2002 Secret Labs AB. / 1999-2002 Secret Labs AB / 1999-2002 Fredrik Lundh. / 1999-2002 Fredrik Lundh]
+Mac/PythonLauncher/FileSettings.h: UNKNOWN
+  [Copyright: 2002]
+Mac/PythonLauncher/FileSettings.m: UNKNOWN
+  [Copyright: 2002]
+Mac/PythonLauncher/Info.plist.in: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation</string> / 2001-2024 Python Software Foundation</string>]
+Mac/PythonLauncher/MyDocument.h: UNKNOWN
+  [Copyright: 2002]
+Mac/PythonLauncher/MyDocument.m: UNKNOWN
+  [Copyright: 2002]
+Mac/PythonLauncher/doscript.h: UNKNOWN
+  [Copyright: 2002]
+Mac/PythonLauncher/doscript.m: UNKNOWN
+  [Copyright: 2002]
+Mac/PythonLauncher/main.m: UNKNOWN
+  [Copyright: 2002]
+Modules/_decimal/_decimal.c: BSD 2-Clause License
+  [Copyright: 2008-2012 Stefan Krah.]
+Modules/_decimal/docstrings.h: UNKNOWN
+  [Copyright: 2001-2012 Python Software Foundation.]
+Modules/_hacl/Hacl_Hash_MD5.c: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_MD5.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_SHA1.c: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_SHA1.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_SHA2.c: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_SHA2.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_SHA3.c: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Hash_SHA3.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/Hacl_Streaming_Types.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_multiprocessing/multiprocessing.c: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Modules/_multiprocessing/semaphore.c: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Modules/_sqlite/connection.c: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/connection.h: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/cursor.c: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/cursor.h: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/microprotocols.c: zlib License
+  [Copyright: 2003-2004 Federico Di Gregorio <fog@debian.org>]
+Modules/_sqlite/microprotocols.h: zlib License
+  [Copyright: 2003-2004 Federico Di Gregorio <fog@debian.org>]
+Modules/_sqlite/module.c: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/module.h: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/prepare_protocol.c: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/prepare_protocol.h: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/row.c: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/row.h: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/statement.c: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/statement.h: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/util.c: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sqlite/util.h: zlib License
+  [Copyright: 2005-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Modules/_sre/sre.c: UNKNOWN
+  [Copyright: as Python attribute, not global / 1997-2002 Secret Labs AB "; / 1997-2001 Secret Labs AB.]
+Modules/_sre/sre.h: UNKNOWN
+  [Copyright: 1997-2001 Secret Labs AB.]
+Modules/_sre/sre_constants.h: UNKNOWN
+  [Copyright: 1997-2001 Secret Labs AB.]
+Modules/_sre/sre_lib.h: UNKNOWN
+  [Copyright: 1997-2001 Secret Labs AB.]
+Modules/_sre/sre_targets.h: UNKNOWN
+  [Copyright: 1997-2001 Secret Labs AB.]
+Modules/cjkcodecs/alg_jisx0201.h: UNKNOWN
+  [Copyright: 0xfec0;]
+Modules/expat/COPYING: MIT License
+  [Copyright: 2001-2022 Expat maintainers / 1998-2000 Thai Open Source Software Center Ltd and Clark Cooper]
+Modules/expat/ascii.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2007 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1999-2000 Thai Open Source Software Center Ltd]
+Modules/expat/asciitab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/expat.h: MIT License
+  [Copyright: 2024 Taichi Haradaguchi <20001722@ymail.ne.jp> / 2023 Sony Corporation / Snild Dolkow <snild@sony.com> / 2023 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2022 Thijs Schreijer <thijs@thijsschreijer.nl> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2016 Thomas Beutlich <tc@tbeu.de> / 2016 Cristian Rodr\x{00ed}guez <crrodriguez@opensuse.org> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2001-2002 Greg Stein <gstein@users.sourceforge.net> / 2000-2005 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/expat_external.h: MIT License
+  [Copyright: 2018 Yury Gribov <tetra2005@gmail.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2019 Sebastian Pipping <sebastian@pipping.org> / 2016 Cristian Rodr\x{00ed}guez <crrodriguez@opensuse.org> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2001-2002 Greg Stein <gstein@users.sourceforge.net> / 2000-2004 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/iasciitab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/internal.h: MIT License
+  [Copyright: 2024 Taichi Haradaguchi <20001722@ymail.ne.jp> / 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Yury Gribov <tetra2005@gmail.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2003 Greg Stein <gstein@users.sourceforge.net> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2002-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net>]
+Modules/expat/latin1tab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/nametab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+Modules/expat/pyexpatns.h: UNKNOWN
+  [Copyright: 2005-2006 ActiveState Software Inc.]
+Modules/expat/utf8tab.h: MIT License
+  [Copyright: 2017 Sebastian Pipping <sebastian@pipping.org> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/winconfig.h: MIT License
+  [Copyright: 2023 Orgad Shaneh <orgad.shaneh@audiocodes.com> / 2017-2023 Sebastian Pipping <sebastian@pipping.org> / 2005 Karl Waclawek <karl@waclawek.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net>]
+Modules/expat/xmlparse.c: MIT License
+  [Copyright: 2024-2025 Berkay Eren \x{00dc}r\x{00fc}n <berkay.ueruen@siemens.com> / 2024 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2023-2024 Sony Corporation / Snild Dolkow <snild@sony.com> / 2023 Owain Davies <owaind@bath.edu> / 2022 Sean McBride <sean@rogue-research.com> / 2022 Samanta Navarro <ferivoz@riseup.net> / 2022 Jeffrey Walton <noloader@gmail.com> / 2022 Jann Horn <jannh@google.com> / 2021 Donghee Na <donghee.na@python.org> / 2019-2020 Ben Wagner <bungeman@chromium.org> / 2019 Vadim Zeitlin <vadim@zeitlins.org> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Mariusz Zaborski <oshogbo@vexillium.org> / 2018 Marco Maggi <marco.maggi-ipsu@poste.it> / 2018 Benjamin Peterson <benjamin@python.org> / 2018 Anton Maklakov <antmak.pub@gmail.com> / 2017-2022 Rhodri James <rhodri@wildebeest.org.uk> / 2017 V\x{00e1}clav Slav\x{00ed}k <vaclav@slavik.io> / 2017 Viktor Szakats <commit@vsz.me> / 2017 Rolf Eike Beer <eike@sf-mail.de> / 2017 Hans Wennborg <hans@chromium.org> / 2017 Chanho Park <chanho61.park@samsung.com> / 2016-2025 Sebastian Pipping <sebastian@pipping.org> / 2016 Thomas Beutlich <tc@tbeu.de> / 2016 Pascal Cuoq <cuoq@trust-in-soft.com> / 2016 Gustavo Grieco <gustavo.grieco@imag.fr> / 2016 Gaurav <g.gupta@samsung.com> / 2016 Eric Rahm <erahm@mozilla.com> / 2016 Ed Schouten <ed@nuxi.nl> / 2005-2009 Steven Solie <steven@solie.ca> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2001-2002 Greg Stein <gstein@users.sourceforge.net> / 2000-2006 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmlrole.c: MIT License
+  [Copyright: 2021 Donghee Na <donghee.na@python.org> / 2019 David Loffredo <loffredo@steptools.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2023 Sebastian Pipping <sebastian@pipping.org> / 2005-2009 Steven Solie <steven@solie.ca> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2002-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmlrole.h: MIT License
+  [Copyright: 2017-2024 Sebastian Pipping <sebastian@pipping.org> / 2002 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmltok.c: MIT License
+  [Copyright: 2023 Hanno B\x{00f6}ck <hanno@gentoo.org> / 2022 Sean McBride <sean@rogue-research.com> / 2022 Martin Ettl <ettl.martin78@googlemail.com> / 2021 Donghee Na <donghee.na@python.org> / 2019 David Loffredo <loffredo@steptools.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2017 Jos\x{00e9} Guti\x{00e9}rrez de la Concha <jose@zeroc.com> / 2017 Benbuck Nason <bnason@netflix.com> / 2017 Alexander Bluhm <alexander.bluhm@gmx.net> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2016 Pascal Cuoq <cuoq@trust-in-soft.com> / 2016 Don Lewis <truckman@apache.org> / 2005-2009 Steven Solie <steven@solie.ca> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2001-2003 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmltok.h: MIT License
+  [Copyright: 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2024 Sebastian Pipping <sebastian@pipping.org> / 2002-2005 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmltok_impl.c: MIT License
+  [Copyright: 2022 Martin Ettl <ettl.martin78@googlemail.com> / 2020 Boris Kolpackov <boris@codesynthesis.com> / 2019 David Loffredo <loffredo@steptools.com> / 2018 Benjamin Peterson <benjamin@python.org> / 2018 Anton Maklakov <antmak.pub@gmail.com> / 2017 Rhodri James <rhodri@wildebeest.org.uk> / 2016-2022 Sebastian Pipping <sebastian@pipping.org> / 2002-2016 Karl Waclawek <karl@waclawek.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmltok_impl.h: MIT License
+  [Copyright: 2017-2019 Sebastian Pipping <sebastian@pipping.org> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Modules/expat/xmltok_ns.c: MIT License
+  [Copyright: 2017-2021 Sebastian Pipping <sebastian@pipping.org> / 2002-2006 Karl Waclawek <karl@waclawek.net> / 2002 Greg Stein <gstein@users.sourceforge.net> / 2002 Fred L. Drake, Jr. <fdrake@users.sourceforge.net> / 2000 Clark Cooper <coopercc@users.sourceforge.net> / 1997-2000 Thai Open Source Software Center Ltd]
+Objects/mimalloc/alloc-aligned.c: MIT License
+  [Copyright: 2018-2021 Microsoft Research, Daan Leijen]
+Objects/mimalloc/alloc-override.c: MIT License
+  [Copyright: 2018-2021 Microsoft Research, Daan Leijen]
+Objects/mimalloc/alloc-posix.c: MIT License
+  [Copyright: 2018-2021 Microsoft Research, Daan Leijen]
+Objects/mimalloc/alloc.c: MIT License
+  [Copyright: 2018-2022 Microsoft Research, Daan Leijen]
+Objects/mimalloc/arena.c: MIT License
+  [Copyright: 2019-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/bitmap.c: MIT License
+  [Copyright: 2019-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/bitmap.h: MIT License
+  [Copyright: 2019-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/heap.c: MIT License
+  [Copyright: 2018-2021 Microsoft Research, Daan Leijen]
+Objects/mimalloc/init.c: MIT License
+  [Copyright: 2018-2022 Microsoft Research, Daan Leijen]
+Objects/mimalloc/options.c: MIT License
+  [Copyright: 2018-2021 Microsoft Research, Daan Leijen]
+Objects/mimalloc/os.c: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/page-queue.c: MIT License
+  [Copyright: 2018-2020 Microsoft Research, Daan Leijen]
+Objects/mimalloc/page.c: MIT License
+  [Copyright: 2018-2020 Microsoft Research, Daan Leijen]
+Objects/mimalloc/random.c: MIT License
+  [Copyright: 2019-2021 Microsoft Research, Daan Leijen]
+Objects/mimalloc/segment-map.c: MIT License
+  [Copyright: 2019-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/segment.c: MIT License
+  [Copyright: 2018-2020 Microsoft Research, Daan Leijen]
+Objects/mimalloc/static.c: MIT License
+  [Copyright: 2018-2020 Microsoft Research, Daan Leijen]
+Objects/mimalloc/stats.c: MIT License
+  [Copyright: 2018-2021 Microsoft Research, Daan Leijen]
+Tools/build/generate_sre_constants.py: UNKNOWN
+  [Copyright: 1997-2001 Secret Labs AB.]
+Tools/cases_generator/generators_common.py: *No copyright* UNKNOWN [generated file]
+Tools/clinic/clinic.py: UNKNOWN
+  [Copyright: 2012-2013 Larry Hastings.]
+Tools/ssl/multissltests.py: UNKNOWN
+  [Copyright: 2013-2017 Christian Heimes <christian@python.org>]
+Tools/unicode/Makefile: UNKNOWN
+  [Copyright: Marc-Andre Lemburg, 2005.]
+Tools/unicode/comparecodecs.py: UNKNOWN
+  [Copyright: 2005 Marc-Andre Lemburg (mal@lemburg.com).]
+Tools/unicode/gencodec.py: UNKNOWN
+  [Copyright: Marc-Andre Lemburg, 2005. / Guido van Rossum, 2000. / CNRI]
+Tools/unicode/listcodecs.py: UNKNOWN
+  [Copyright: 2005 Marc-Andre Lemburg (mal@lemburg.com).]
+Tools/unicode/makeunicodedata.py: UNKNOWN
+  [Copyright: 1999-2000 Secret Labs AB]
+Tools/unicode/mkstringprep.py: *No copyright* UNKNOWN [generated file]
+Tools/unittestgui/unittestgui.py: UNKNOWN
+  [Copyright: message / 1999-2001 Steve Purcell]
+iOS/Resources/Info.plist.in: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation.</string>]
+Doc/tools/extensions/pyspecific.py: CNRI Python License
+  [Copyright: 2008-2014 Georg Brandl.]
+Include/internal/mimalloc/mimalloc.h: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Lib/concurrent/futures/__init__.py: UNKNOWN
+  [Copyright: 2009 Brian Quinlan.]
+Lib/concurrent/futures/_base.py: UNKNOWN
+  [Copyright: 2009 Brian Quinlan.]
+Lib/concurrent/futures/process.py: UNKNOWN
+  [Copyright: 2009 Brian Quinlan.]
+Lib/concurrent/futures/thread.py: UNKNOWN
+  [Copyright: 2009 Brian Quinlan.]
+Lib/ctypes/macholib/README.ctypes: *No copyright* MIT License
+Lib/email/mime/application.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/mime/audio.py: UNKNOWN
+  [Copyright: 2001-2007 Python Software Foundation]
+Lib/email/mime/base.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/mime/image.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/mime/message.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/email/mime/multipart.py: UNKNOWN
+  [Copyright: 2002-2006 Python Software Foundation]
+Lib/email/mime/nonmultipart.py: UNKNOWN
+  [Copyright: 2002-2006 Python Software Foundation]
+Lib/email/mime/text.py: UNKNOWN
+  [Copyright: 2001-2006 Python Software Foundation]
+Lib/importlib/metadata/__init__.py: *No copyright* UNKNOWN [generated file]
+Lib/multiprocessing/dummy/__init__.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/multiprocessing/dummy/connection.py: UNKNOWN
+  [Copyright: 2006-2008 R Oudkerk]
+Lib/test/decimaltestdata/abs.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/add.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/and.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/base.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/clamp.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2000, 2008.]
+Lib/test/decimaltestdata/class.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/compare.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/comparetotal.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/comparetotmag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/copy.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/copyabs.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/copynegate.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/copysign.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddAbs.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddAdd.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddAnd.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddBase.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCanonical.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddClass.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCompare.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCompareSig.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCompareTotal.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCompareTotalMag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCopy.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCopyAbs.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCopyNegate.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddCopySign.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddDivide.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddDivideInt.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddEncode.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2000, 2008.]
+Lib/test/decimaltestdata/ddFMA.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddInvert.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddLogB.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2005, 2008.]
+Lib/test/decimaltestdata/ddMax.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddMaxMag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddMin.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddMinMag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddMinus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddMultiply.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddNextMinus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddNextPlus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddNextToward.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddOr.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddPlus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddQuantize.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddReduce.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2003, 2008.]
+Lib/test/decimaltestdata/ddRemainder.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddRemainderNear.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddRotate.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddSameQuantum.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/ddScaleB.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddShift.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddSubtract.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ddToIntegral.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/ddXor.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/decDouble.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/decQuad.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/decSingle.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/divide.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/divideint.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqAbs.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqAdd.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqAnd.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqBase.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCanonical.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqClass.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCompare.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCompareSig.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCompareTotal.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCompareTotalMag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCopy.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCopyAbs.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCopyNegate.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqCopySign.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqDivide.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqDivideInt.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqEncode.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2000, 2008.]
+Lib/test/decimaltestdata/dqFMA.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqInvert.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqLogB.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2005, 2008.]
+Lib/test/decimaltestdata/dqMax.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqMaxMag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqMin.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqMinMag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqMinus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqMultiply.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqNextMinus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqNextPlus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqNextToward.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqOr.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqPlus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqQuantize.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqReduce.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2003, 2008.]
+Lib/test/decimaltestdata/dqRemainder.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqRemainderNear.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqRotate.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqSameQuantum.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/dqScaleB.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqShift.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqSubtract.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dqToIntegral.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/dqXor.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dsBase.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/dsEncode.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2000, 2008.]
+Lib/test/decimaltestdata/exp.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2005, 2008.]
+Lib/test/decimaltestdata/fma.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/inexact.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/invert.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/ln.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2005, 2008.]
+Lib/test/decimaltestdata/log10.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2005, 2008.]
+Lib/test/decimaltestdata/logb.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2005, 2009.]
+Lib/test/decimaltestdata/max.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/maxmag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/min.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/minmag.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/minus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/multiply.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/nextminus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/nextplus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/nexttoward.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/or.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/plus.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/power.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/powersqrt.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2004, 2008.]
+Lib/test/decimaltestdata/quantize.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/randomBound32.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/randoms.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/reduce.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2003, 2008.]
+Lib/test/decimaltestdata/remainder.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/remainderNear.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/rescale.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/rotate.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/rounding.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/samequantum.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/scaleb.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/shift.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/squareroot.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2003, 2008.]
+Lib/test/decimaltestdata/subtract.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/testall.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/decimaltestdata/tointegral.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/tointegralx.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 2001, 2008.]
+Lib/test/decimaltestdata/xor.decTest: UNKNOWN
+  [Copyright: IBM Corporation, 1981, 2008.]
+Lib/test/support/asynchat.py: UNKNOWN
+  [Copyright: 1996 Sam Rushing]
+Lib/test/support/asyncore.py: UNKNOWN
+  [Copyright: 1996 Sam Rushing]
+Lib/test/test_asyncio/test_ssl.py: Python Software Foundation License 2.0
+  [Copyright: Copyright (c) 2015-2021 MagicStack Inc. http://magic.io]
+Lib/test/test_email/test_asian_codecs.py: UNKNOWN
+  [Copyright: 2002-2006 Python Software Foundation]
+Lib/test/test_email/test_email.py: UNKNOWN
+  [Copyright: 2001-2010 Python Software Foundation]
+Lib/test/test_email/torture_test.py: UNKNOWN
+  [Copyright: 2002-2004 Python Software Foundation]
+Lib/test/test_sqlite3/test_dbapi.py: zlib License
+  [Copyright: 2004-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_sqlite3/test_factory.py: zlib License
+  [Copyright: 2005-2007 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_sqlite3/test_hooks.py: zlib License
+  [Copyright: 2006-2007 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_sqlite3/test_regression.py: zlib License
+  [Copyright: 2006-2010 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_sqlite3/test_transactions.py: zlib License
+  [Copyright: 2005-2007 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_sqlite3/test_types.py: zlib License
+  [Copyright: 2005 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_sqlite3/test_userfunctions.py: zlib License
+  [Copyright: 2005-2007 Gerhard H\x{00e4}ring <gh@ghaering.de>]
+Lib/test/test_tomllib/__init__.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/test/test_tomllib/burntsushi.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/test/test_tomllib/test_data.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/test/test_tomllib/test_error.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/test/test_tomllib/test_misc.py: MIT License
+  [Copyright: 2021 Taneli Hukkinen]
+Lib/xml/etree/ElementInclude.py: UNKNOWN
+  [Copyright: 2003-2004 Fredrik Lundh. / 1999-2008 Fredrik Lundh]
+Lib/xml/etree/ElementPath.py: UNKNOWN
+  [Copyright: 2003-2009 Fredrik Lundh. / 1999-2009 Fredrik Lundh]
+Lib/xml/etree/ElementTree.py: UNKNOWN
+  [Copyright: 1999-2008 Fredrik Lundh. / 1999-2008 Fredrik Lundh]
+Lib/xml/etree/__init__.py: UNKNOWN
+  [Copyright: 1999-2008 Fredrik Lundh]
+Mac/BuildScript/resources/License.rtf: Python Software Foundation License 2.0 CNRI Python Open Source GPL Compatible License Agreement BSD 0-Clause License GNU General Public License
+  [Copyright: i.e., "Copyright (c) 1995-2001 Corporation for National Research Initiatives; / i.e., "Copyright 'a9 2001-2020 Python Software Foundation; / 1991-1995 Stichting Mathematisch Centrum Amsterdam, The Netherlands.]
+Mac/Resources/app/Info.plist.in: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation.</string> / 2001-2024 Python Software Foundation.</string>]
+Mac/Resources/framework/Info.plist.in: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation.</string> / 2001-2024 Python Software Foundation.</string>]
+Modules/_decimal/libmpdec/basearith.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/basearith.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/bench.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/bench_full.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/bits.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/constants.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/constants.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/context.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/convolute.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/convolute.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/crt.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/crt.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/difradix2.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/difradix2.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/fnt.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/fnt.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/fourstep.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/fourstep.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/io.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/io.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/mpalloc.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/mpalloc.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/mpdecimal.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/mpdecimal.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/mpsignal.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/numbertheory.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/numbertheory.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/sixstep.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/sixstep.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/transpose.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/transpose.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/typearith.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/umodarith.h: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/vcdiv64.asm: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/tests/bench.py: UNKNOWN
+  [Copyright: 2001-2012 Python Software Foundation.]
+Modules/_decimal/tests/deccheck.py: BSD 2-Clause License
+  [Copyright: 2008-2012 Stefan Krah.]
+Modules/_decimal/tests/formathelper.py: BSD 2-Clause License
+  [Copyright: 2008-2012 Stefan Krah.]
+Modules/_decimal/tests/randdec.py: BSD 2-Clause License
+  [Copyright: 2008-2012 Stefan Krah.]
+Modules/_decimal/tests/randfloat.py: UNKNOWN
+  [Copyright: 2010 Python Software Foundation.]
+Modules/_hacl/internal/Hacl_Hash_MD5.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/internal/Hacl_Hash_SHA1.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/internal/Hacl_Hash_SHA2.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Modules/_hacl/internal/Hacl_Hash_SHA3.h: MIT License
+  [Copyright: 2022-2023 HACL* Contributors / 2016-2022 INRIA, CMU and Microsoft Corporation]
+Objects/mimalloc/prim/prim.c: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Tools/clinic/libclinic/language.py: UNKNOWN
+  [Copyright: in it]
+Tools/clinic/libclinic/utils.py: UNKNOWN
+  [Copyright: {a}"]
+Tools/peg_generator/pegen/keywordgen.py: *No copyright* UNKNOWN [generated file]
+Tools/unicode/python-mappings/CP1140.TXT: Unicode strict
+  [Copyright: Marc-Andre Lemburg, 2005. / 2002 Unicode, Inc.]
+Tools/unicode/python-mappings/GB2312.TXT: Unicode strict
+  [Copyright: 1991-1999 Unicode, Inc.]
+Tools/unicode/python-mappings/KOI8-U.TXT: Unicode strict
+  [Copyright: Marc-Andre Lemburg, 2005. / 1991-1999 Unicode, Inc.]
+Tools/unicode/python-mappings/TIS-620.TXT: Unicode strict
+  [Copyright: Marc-Andre Lemburg, 2005. / 2002 Unicode, Inc.]
+Tools/unicode/python-mappings/jisx0213-2004-std.txt: UNKNOWN
+  [Copyright: 2001 earthian@tama.or.jp / 2001 I'O]
+Include/internal/mimalloc/mimalloc/atomic.h: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Include/internal/mimalloc/mimalloc/internal.h: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Include/internal/mimalloc/mimalloc/prim.h: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Include/internal/mimalloc/mimalloc/track.h: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Include/internal/mimalloc/mimalloc/types.h: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Lib/test/test_unittest/testmock/testcallable.py: UNKNOWN
+  [Copyright: 2007-2012 Michael Foord & the mock team]
+Lib/test/test_unittest/testmock/testpatch.py: UNKNOWN
+  [Copyright: 2007-2012 Michael Foord & the mock team]
+Lib/test/xmltestdata/c14n-20/README: UNKNOWN
+  [Copyright: 2013 W3C\x{00c2}\x{00ae} (MIT, ERCIM, Keio, Beihang),]
+Mac/IDLE/IDLE.app/Contents/Info.plist: UNKNOWN
+  [Copyright: 2001-2024 Python Software Foundation</string>]
+Modules/_decimal/libmpdec/examples/compare.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/div.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/divmod.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/multiply.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/pow.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/powmod.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/shift.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/examples/sqrt.c: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/literature/fnt.py: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/literature/matrix-transform.txt: UNKNOWN
+  [Copyright: 2011-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/literature/mulmod-64.txt: UNKNOWN
+  [Copyright: 2011-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/literature/mulmod-ppro.txt: UNKNOWN
+  [Copyright: 2011-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/literature/six-step.txt: UNKNOWN
+  [Copyright: 2011-2020 Stefan Krah.]
+Modules/_decimal/libmpdec/literature/umodarith.lisp: BSD 2-Clause License
+  [Copyright: 2008-2020 Stefan Krah.]
+Modules/_hacl/include/krml/FStar_UInt128_Verified.h: Apache License 2.0
+  [Copyright: INRIA and Microsoft Corporation.]
+Modules/_hacl/include/krml/FStar_UInt_8_16_32_64.h: Apache License 2.0
+  [Copyright: INRIA and Microsoft Corporation.]
+Modules/_hacl/include/krml/fstar_uint128_struct_endianness.h: Apache License 2.0
+  [Copyright: INRIA and Microsoft Corporation.]
+Modules/_hacl/include/krml/lowstar_endianness.h: Apache License 2.0
+  [Copyright: INRIA and Microsoft Corporation.]
+Objects/mimalloc/prim/osx/alloc-override-zone.c: MIT License
+  [Copyright: 2018-2022 Microsoft Research, Daan Leijen]
+Objects/mimalloc/prim/osx/prim.c: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/prim/unix/prim.c: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/prim/wasi/prim.c: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Objects/mimalloc/prim/windows/etw.h: UNKNOWN
+  [Copyright: Microsoft Corporation.]
+Objects/mimalloc/prim/windows/prim.c: MIT License
+  [Copyright: 2018-2023 Microsoft Research, Daan Leijen]
+Tools/msi/bundle/bootstrap/LICENSE.txt: Microsoft Reciprocal License
+  [Copyright: If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically. / Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.]
+Tools/msi/bundle/bootstrap/PythonBootstrapperApplication.cpp: Microsoft Reciprocal License
+  [Copyright: file="WixStandardBootstrapperApplication.cpp" company="Outercurve Foundation"> / 2004 Outercurve Foundation.]
+Tools/msi/bundle/bootstrap/pch.h: Microsoft Reciprocal License
+  [Copyright: file="precomp.h" company="Outercurve Foundation"> / 2004 Outercurve Foundation.]
+Tools/msi/bundle/bootstrap/pythonba.cpp: Microsoft Reciprocal License
+  [Copyright: file="wixstdba.cpp" company="Outercurve Foundation"> / 2004 Outercurve Foundation.]
+Tools/msi/bundle/bootstrap/pythonba.def: Microsoft Reciprocal License
+  [Copyright: file="wixstdba.def" company="Outercurve Foundation"> / 2004 Outercurve Foundation.]
+Tools/msi/bundle/bootstrap/resource.h: Microsoft Reciprocal License
+  [Copyright: file="resource.h" company="Outercurve Foundation"> / 2004 Outercurve Foundation.]
+Tools/unicode/python-mappings/diff/jisx0213-2004-std.txt.diff: UNKNOWN
+  [Copyright: 2001 earthian@tama.or.jp / 2001 I'O]
+Modules/_hacl/include/krml/internal/target.h: Apache License 2.0
+  [Copyright: INRIA and Microsoft Corporation.]

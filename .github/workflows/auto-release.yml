@@ -1,0 +1,48 @@
+name: auto-release
+
+on:
+  push:
+    branches:
+      - '**'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: windows-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: add bundled mingw to path
+        shell: cmd
+        run: echo resources\mingw64\bin>> %GITHUB_PATH%
+
+      - name: verify toolchain
+        shell: cmd
+        run: |
+          g++ --version
+          windres --version
+
+      - name: build exe
+        shell: cmd
+        run: builder.bat
+
+      - name: upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: xylera-exe
+          path: xylera.exe
+
+      - name: create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: auto-${{ github.run_number }}
+          name: Auto Release ${{ github.run_number }}
+          prerelease: false
+          draft: false
+          files: |
+            xylera.exe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

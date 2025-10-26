@@ -1,0 +1,696 @@
+COPYING: GNU Lesser General Public License, Version 2.1
+  [Copyright: 1991, 1999 Free Software Foundation, Inc.]
+Makefile.am: UNKNOWN
+  [Copyright: packaging/debian.templates/docs]
+configure.ac: GNU Lesser General Public License
+  [Copyright: value])]
+m4/ax_ac_append_to_file.m4: FSF All Permissive License
+  [Copyright: 2009 Allan Caffee <allan.caffee@gmail.com>]
+m4/ax_ac_print_to_file.m4: FSF All Permissive License
+  [Copyright: 2009 Allan Caffee <allan.caffee@gmail.com>]
+m4/ax_add_am_macro_static.m4: FSF All Permissive License
+  [Copyright: 2009 Tom Howard <tomhoward@users.sf.net> / 2009 Allan Caffee <allan.caffee@gmail.com>]
+m4/ax_am_macros_static.m4: FSF All Permissive License
+  [Copyright: 2009 Tom Howard <tomhoward@users.sf.net> / 2009 Allan Caffee <allan.caffee@gmail.com>]
+m4/ax_check_compile_flag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_check_gnu_make.m4: FSF All Permissive License
+  [Copyright: 2015 Enrico M. Crisostomo <enrico.m.crisostomo@gmail.com> / 2008 John Darrington <j.darrington@elvis.murdoch.edu.au>]
+m4/ax_code_coverage.m4: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015, 2018 Bastien ROUCARIES / 2012, 2016 Philip Withnall / 2012 Xan Lopez / 2012 Paolo Borelli / 2012 Dan Winship / 2012 Christian Persch]
+m4/ax_file_escapes.m4: FSF All Permissive License
+  [Copyright: 2008 Tom Howard <tomhoward@users.sf.net>]
+m4/ax_pthread.m4: GNU General Public License v3.0 or later
+  [Copyright: 2019 Marc Stevens <marc.stevens@cwi.nl> / 2011 Daniel Richard G. <skunk@iSKUNK.ORG> / 2008 Steven G. Johnson <stevenj@alum.mit.edu>]
+m4/ax_valgrind_check.m4: FSF All Permissive License
+  [Copyright: 2014-2016 Philip Withnall <philip.withnall@collabora.co.uk>]
+m4/m4_ax_func_getopt_long.m4: GNU General Public License v2.0 or later
+  [Copyright: 2008 Alexandre Duret-Lutz <adl@gnu.org>]
+packaging/opensc.spec: *No copyright* GNU Lesser General Public License, Version 2.1
+win32/customactions.cpp: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 vincent.letoux@mysmartlogon.com]
+packaging/debian.templates/copyright: GNU Lesser General Public License, Version 2.1 GNU Lesser General Public License v3.0 or later
+  [Copyright: 2001-2013 OpenSC developers <opensc-devel@lists.sourceforge.net>]
+src/common/LICENSE.compat_getopt: MIT License
+  [Copyright: 1997-2001 Benjamin Sittler]
+src/common/README.compat_getopt: UNKNOWN
+  [Copyright: 1997-2002 Benjamin Sittler]
+src/common/README.compat_strlcpy: UNKNOWN
+  [Copyright: 1998, 2000 Todd C. Miller]
+src/common/compat_getopt.3: UNKNOWN
+  [Copyright: 1993 Thomas Koenig (ig25@rz.uni-karlsruhe.de)]
+src/common/compat_getopt.c: MIT License
+  [Copyright: 1997, 2000-2002 Benjamin Sittler]
+src/common/compat_getopt.h: MIT License
+  [Copyright: 1997, 2000-2002 Benjamin Sittler]
+src/common/compat_overflow.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: Frank Morgner <frankmorgner@gmail.com>]
+src/common/compat_overflow.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: Frank Morgner <frankmorgner@gmail.com>]
+src/common/compat_report_rangecheckfailure.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux <vincent.letoux@gmail.com>]
+src/common/compat_strlcat.c: BSD 3-Clause License
+  [Copyright: 1998 Todd C. Miller <Todd.Miller@courtesan.com>]
+src/common/compat_strlcpy.3: ISC License
+  [Copyright: 1998, 2000 Todd C. Miller <Todd.Miller@courtesan.com>]
+src/common/compat_strlcpy.c: ISC License
+  [Copyright: 1998 Todd C. Miller <Todd.Miller@courtesan.com>]
+src/common/compat_strlcpy.h: BSD 3-Clause License
+  [Copyright: 2004-2010 Ludovic Rousseau <ludovic.rousseau@free.fr>]
+src/common/compat_strnlen.c: ISC License
+  [Copyright: 2010 Todd C. Miller <Todd.Miller@courtesan.com>]
+src/common/libpkcs11.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/common/libpkcs11.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Martin Paljak <martin@paljak.pri.ee>]
+src/common/libscdl.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Martin Paljak <martin@martinpaljak.net>]
+src/common/libscdl.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Martin Paljak <martin@paljak.pri.ee>]
+src/common/simclist.c: ISC License
+  [Copyright: 2007-2010 Mij <mij@bitchx.it>]
+src/common/simclist.h: ISC License
+  [Copyright: 2007-2008 Mij <mij@bitchx.it>]
+src/libopensc/apdu.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Nils Larsch <nils@larsch.net>]
+src/libopensc/asn1.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/asn1.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/authentic.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/aux-data.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Viktor Tarasov <viktor.tarasov@gmail.com>]
+src/libopensc/aux-data.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Viktor Tarasov <viktor.tarasov@gmail.com>]
+src/libopensc/base64.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-asepcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007 Athena Smartcard Solutions Inc.]
+src/libopensc/card-atrust-acos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Franz Brandl <brandl@a-trust.at> based on work from]
+src/libopensc/card-authentic.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/card-belpic.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Zetes Belgium]
+src/libopensc/card-cac-common.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018 Red Hat, Inc.]
+src/libopensc/card-cac-common.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018 Red Hat, Inc.]
+src/libopensc/card-cac.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2018 Red Hat, Inc. / 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, Thomas Harning <thomas.harning@identityalliance.com> / 2005-2010 Douglas E. Engert <deengert@anl.gov> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-cac1.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2018 Red Hat, Inc. / 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, Thomas Harning <thomas.harning@identityalliance.com> / 2005-2010 Douglas E. Engert <deengert@anl.gov> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-cardos-common.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Mario Haustein <mario.haustein@hrz.tu-chemnitz.de>]
+src/libopensc/card-cardos-common.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Mario Haustein <mario.haustein@hrz.tu-chemnitz.de>]
+src/libopensc/card-cardos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Nils Larsch <nils@larsch.net> / 2002 Andreas Jellinghaus <aj@dungeon.inka.de> / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-coolkey.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Red Hat, Inc. / 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, Thomas Harning <thomas.harning@identityalliance.com> / 2005-2010 Douglas E. Engert <deengert@anl.gov> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-default.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-dnie.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Juan Antonio Martinez <jonsito@terra.es>]
+src/libopensc/card-dtrust.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2023 Mario Haustein <mario.haustein@hrz.tu-chemnitz.de>]
+src/libopensc/card-edo.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Piotr Majkrzak]
+src/libopensc/card-entersafe.c: *No copyright* GNU Lesser General Public License v2.1 or later
+src/libopensc/card-eoi.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Luka Logar <luka.logar@iname.com>]
+src/libopensc/card-eoi.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Luka Logar <luka.logar@iname.com>]
+src/libopensc/card-epass2003.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Xiaoshuo Wu <xiaoshuo@ftsafe.com> / 2008 Weitao Sun <weitao@ftsafe.com>]
+src/libopensc/card-esteid2018.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Martin Paljak <martin@martinpaljak.net>]
+src/libopensc/card-flex.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-gemsafeV1.c: *No copyright* GNU Lesser General Public License v2.1 or later
+src/libopensc/card-gids.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux (My Smart Logon) <vincent.letoux@mysmartlogon.com>]
+src/libopensc/card-gids.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux (My Smart Logon) <vincent.letoux@mysmartlogon.com>]
+src/libopensc/card-iasecc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@gmail.com>]
+src/libopensc/card-idprime.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/libopensc/card-isoApplet.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2014 Philip Wendland <wendlandphilip@gmail.com>]
+src/libopensc/card-itacns.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2010 Emanuele Pucciarelli <ep@acm.org> / 2005 ST Incard srl, Giuseppe Amato <giuseppe dot amato at st dot com>, <midori3@gmail.com> / 2002 Andreas Jellinghaus <aj@dungeon.inka.de> / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-jpki.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 HAMANO Tsukasa <hamano@osstech.co.jp>]
+src/libopensc/card-masktech.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux (My Smart Logon) <vincent.letoux@mysmartlogon.com> / 2011-2015 MaskTech GmbH Fischerstrasse 19, 87435 Kempten, Germany / 2011 Andrey Uvarov (X-Infotech) <andrejs.uvarovs@x-infotech.com>]
+src/libopensc/card-mcrd.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2004 Priit Randla <priit.randla@eyp.ee> / 2004 Martin Paljak <martin@martinpaljak.net> / 2003 Marie Fischer <marie@vtl.ee> / 2002 g10 Code GmbH / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-muscle.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <support@identityalliance.com>]
+src/libopensc/card-myeid.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2019 Aventra Ltd.]
+src/libopensc/card-npa.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2018 Frank Morgner <frankmorgner@gmail.com>]
+src/libopensc/card-npa.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2014-2015 Frank Morgner]
+src/libopensc/card-nqApplet.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 jozsefd <jozsef.dojcsak@gmail.com>]
+src/libopensc/card-oberthur.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009 Viktor Tarasov <viktor.tarasov@opentrust.com>, / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-openpgp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/card-openpgp.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Peter Marschall <peter@adpm.de>]
+src/libopensc/card-piv.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, Thomas Harning <thomas.harning@identityalliance.com> / 2005-2023 Douglas E. Engert <deengert@gmail.com> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-rtecp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009 Aleksey Samsonov <samsonov@guardant.ru>]
+src/libopensc/card-rutoken.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007 Pavel Mironchik <rutoken@rutoken.ru> / 2007 Eugene Hermann <rutoken@rutoken.ru>]
+src/libopensc/card-sc-hsm.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018-2019 GSMK - Gesellschaft f\x{00fc}r Sichere Mobile Kommunikation mbH / 2012 Andreas Schwier, CardContact, Minden, Germany, and others]
+src/libopensc/card-sc-hsm.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012 Andreas Schwier, CardContact, Minden, Germany]
+src/libopensc/card-setcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Zetes / 2005 Antti Tapaninen <aet@cc.hut.fi> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card-skeid.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Juraj \x{0160}arinay <juraj@sarinay.com>]
+src/libopensc/card-starcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 J\x{00f6}rn Zukowski <zukowski@trustcenter.de> and]
+src/libopensc/card-tcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Peter Koch <pk@opensc-project.org> / 2002 g10 Code GmbH / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/card.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/cardctl.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018-2019 GSMK - Gesellschaft f\x{00fc}r Sichere Mobile Kommunikation mbH / 2003 Olaf Kirch <okir@lse.de>]
+src/libopensc/cards.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Antti Tapaninen <aet@cc.hut.fi>]
+src/libopensc/ccid-types.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2015 Frank Morgner]
+src/libopensc/compression.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <thomas.harning@identityalliance.com>]
+src/libopensc/compression.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <thomas.harning@identityalliance.com>]
+src/libopensc/ctbcs.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/libopensc/ctbcs.h: GNU Library General Public License v2 or later
+  [Copyright: 1998-2000 Carlos Prados <cprados@yahoo.com>]
+src/libopensc/ctx.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/cwa-dnie.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Juan Antonio Martinez <jonsito@terra.es>]
+src/libopensc/cwa-dnie.h: *No copyright* GNU Lesser General Public License v2.1 or later
+src/libopensc/cwa14890.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Juan Antonio Martinez <jonsito@terra.es>]
+src/libopensc/cwa14890.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Juan Antonio Martinez <jonsito@terra.es>]
+src/libopensc/dir.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/ef-atr.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/ef-gdo.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/libopensc/errors.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/errors.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/gp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018 Red Hat, Inc.]
+src/libopensc/gp.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018 Red Hat, Inc.]
+src/libopensc/iasecc-sdo.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/iasecc-sdo.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/iasecc-sm.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/iasecc.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/internal-winscard.h: BSD 3-Clause License
+  [Copyright: 2002-2009 Ludovic Rousseau <ludovic.rousseau@free.fr> / 1999-2003 David Corcoran <corcoran@musclecard.com>]
+src/libopensc/internal.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/iso7816.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/jpki.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 HAMANO Tsukasa <hamano@osstech.co.jp>]
+src/libopensc/log.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Antti Tapaninen <aet@cc.hut.fi> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/log.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Antti Tapaninen <aet@cc.hut.fi> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/muscle-filesystem.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <support@identityalliance.com>]
+src/libopensc/muscle-filesystem.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <support@identityalliance.com>]
+src/libopensc/muscle.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <support@identityalliance.com>]
+src/libopensc/muscle.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <support@identityalliance.com>]
+src/libopensc/opensc.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pace.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010-2012 Frank Morgner <frankmorgner@gmail.com>]
+src/libopensc/padding.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003-2007 Nils Larsch <larsch@trustcenter.de> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-actalis.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Sirio Capizzi <graaf@virgilio.it> / 2005 Andrea Frigido <andrea@frisoft.it> / 2004 Antonino Iacono <ant_iacono@tin.it> / 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-algo.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-atrust-acos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Franz Brandl <brandl@a-trust.at> based on work from]
+src/libopensc/pkcs15-cac.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Red Hat, Inc. / 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, / 2005-2010 Douglas E. Engert <deengert@anl.gov>]
+src/libopensc/pkcs15-cache.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-cardos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Douglas E. Engert <DEEngert@gmail.com> / 2016 Viktor Tarasov <viktor.tarasov@gmail.com> / 2004 Bud P. Bruegger <bud@comune.grosseto.it> / 2004 Antonino Iacono <ant_iacono@tin.it> / 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-cert.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-coolkey.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Red Hat, Inc. / 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, / 2005-2010 Douglas E. Engert <deengert@anl.gov>]
+src/libopensc/pkcs15-data.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Danny De Cock <daniel.decock@postbox.be>]
+src/libopensc/pkcs15-din-66291.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner]
+src/libopensc/pkcs15-dnie.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Juan Antonio Martinez <jonsito@terra.es> / 2011 Andre Zepezauer <andre.zepezauer@student.uni-halle.de>]
+src/libopensc/pkcs15-dtrust.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Mario Haustein <mario.haustein@hrz.tu-chemnitz.de>]
+src/libopensc/pkcs15-emulator-filter.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/libopensc/pkcs15-emulator-filter.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/libopensc/pkcs15-eoi.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Luka Logar <luka.logar@iname.com>]
+src/libopensc/pkcs15-esinit.c: *No copyright* GNU Lesser General Public License v2.1 or later
+src/libopensc/pkcs15-esteid2018.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Martin Paljak <martin@martinpaljak.net>]
+src/libopensc/pkcs15-gemsafeV1.c: *No copyright* GNU Lesser General Public License v2.1 or later
+src/libopensc/pkcs15-gids.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux (My Smart Logon) <vincent.letoux@mysmartlogon.com>]
+src/libopensc/pkcs15-iasecc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Viktor Tarasov <viktor.tarasov@gmail.com> / 2004 Bud P. Bruegger <bud@comune.grosseto.it> / 2004 Antonino Iacono <ant_iacono@tin.it> / 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-idprime.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/libopensc/pkcs15-itacns.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008 Emanuele Pucciarelli <ep@acm.org>]
+src/libopensc/pkcs15-jpki.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 HAMANO Tsukasa <hamano@osstech.co.jp>]
+src/libopensc/pkcs15-nqApplet.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 jozsefd <jozsef.dojcsak@gmail.com>]
+src/libopensc/pkcs15-oberthur.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com> / 2005 Sirio Capizzi <graaf@virgilio.it> / 2005 Andrea Frigido <andrea@frisoft.it> / 2004 Antonino Iacono <ant_iacono@tin.it> / 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-openpgp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-pin.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-piv.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Douglas E. Engert <deengert@gmail.com> / 2007 EMC, Russell Larner <rlarner@rsa.com> / 2006 Identity Alliance, / 2005-2010 Douglas E. Engert <deengert@anl.gov>]
+src/libopensc/pkcs15-prkey.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-pteid.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Nuno Goncalves <nunojpg@gmail.com> / 2009 Joao Poupino <joao.poupino@ist.utl.pt> / 2004 Martin Paljak <martin@martinpaljak.net>]
+src/libopensc/pkcs15-pubkey.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-sc-hsm.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012 Andreas Schwier, CardContact, Minden, Germany]
+src/libopensc/pkcs15-sec.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007 Nils Larsch <nils@larsch.net> / 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-skeid.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Juraj \x{0160}arinay <juraj@sarinay.com>]
+src/libopensc/pkcs15-skey.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Viktor Tarasov <viktor.tarasov@opentrust.com> / 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15-starcert.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2004 Nils <larsch@trustcenter.de>]
+src/libopensc/pkcs15-starcos-esign.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 jozsefd]
+src/libopensc/pkcs15-syn.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-syn.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/pkcs15-tccardos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Nils Larsch <nils@larsch.net>]
+src/libopensc/pkcs15-tcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Peter Koch <pk@opensc-project.org>]
+src/libopensc/pkcs15.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/pkcs15.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/reader-cryptotokenkit.m: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/libopensc/reader-ctapi.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/reader-openct.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Olaf Kirch <okir@suse.de>]
+src/libopensc/reader-pcsc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009-2010 Martin Paljak <martin@martinpaljak.net> / 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/reader-tr03119.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2013-2018 Frank Morgner]
+src/libopensc/reader-tr03119.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2013-2018 Frank Morgner]
+src/libopensc/sc-ossl-compat.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Douglas E. Engert <deengert@gmail.com>]
+src/libopensc/sc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/sec.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/libopensc/simpletlv.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Red Hat, Inc.]
+src/libopensc/simpletlv.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016 Red Hat, Inc.]
+src/libopensc/sm.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2013 Viktor Tarasov <viktor.tarasov@gmail.com>]
+src/libopensc/sm.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/libopensc/types.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/minidriver/cardmod-mingw-compat.h: *No copyright* GNU Lesser General Public License v2.1 or later
+src/minidriver/minidriver.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 vincent.letoux@mysmartlogon.com / 2009-2010 francois.leblanc@cev-sa.com]
+src/pkcs11/debug.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Olaf Kirch <okir@suse.de>]
+src/pkcs11/framework-pkcs15.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/framework-pkcs15init.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/mechanism.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/pkcs11/misc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/openssl.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/pkcs11/pkcs11-display.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Mathias Brossard <mathias@brossard.org>]
+src/pkcs11/pkcs11-display.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Mathias Brossard <mathias@brossard.org>]
+src/pkcs11/pkcs11-global.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/pkcs11-object.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/pkcs11-session.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/pkcs11-spy.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Mathias Brossard <mathias@brossard.org>]
+src/pkcs11/pkcs11.h: UNKNOWN
+  [Copyright: 2006-2007 g10 Code GmbH / 2006 Andreas Jellinghaus]
+src/pkcs11/sc-pkcs11.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs11/slot.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009 Martin Paljak <martin@martinpaljak.net> / 2002 Timo Ter\x{00e4}s <timo.teras@iki.fi>]
+src/pkcs15init/pkcs15-asepcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007 Athena Smartcard Solutions Inc.]
+src/pkcs15init/pkcs15-authentic.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com> / 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/pkcs15init/pkcs15-cardos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005 Nils Larsch <nils@larsch.net> / 2002 Olaf Kirch <okir@suse.de>]
+src/pkcs15init/pkcs15-cflex.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/pkcs15init/pkcs15-entersafe.c: *No copyright* GNU Lesser General Public License v2.1 or later
+src/pkcs15init/pkcs15-epass2003.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Xiaoshuo Wu <xiaoshuo@ftsafe.com> / 2008 Weitao Sun <weitao@ftsafe.com>]
+src/pkcs15init/pkcs15-gids.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux (My Smart Logon) <vincent.letoux@mysmartlogon.com>]
+src/pkcs15init/pkcs15-iasecc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com> / 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/pkcs15init/pkcs15-iasecc.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Vincent JARDIN <vjardin/ATfree.fr>]
+src/pkcs15init/pkcs15-init.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/pkcs15init/pkcs15-isoApplet.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2014 Philip Wendland <wendlandphilip@gmail.com>]
+src/pkcs15init/pkcs15-lib.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/pkcs15init/pkcs15-muscle.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2006 Identity Alliance, Thomas Harning <support@identityalliance.com>]
+src/pkcs15init/pkcs15-myeid.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008-2009 Aventra Ltd.]
+src/pkcs15init/pkcs15-oberthur-awp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <viktor.tarasov@opentrust.com> / 2002 Juha Yrjola <juha.yrjola@iki.fi>]
+src/pkcs15init/pkcs15-oberthur.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009 Viktor Tarasov <viktor.tarasov@opentrust.com>, / 2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/pkcs15init/pkcs15-openpgp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012 Nguyen Hong Quan <ng.hong.quan@gmail.com>.]
+src/pkcs15init/pkcs15-rtecp.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009 Aleksey Samsonov <samsonov@guardant.ru>]
+src/pkcs15init/pkcs15-rutoken.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2007 Pavel Mironchik <rutoken@rutoken.ru> / 2007 Eugene Hermann <rutoken@rutoken.ru>]
+src/pkcs15init/pkcs15-sc-hsm.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012 Andreas Schwier, CardContact, Minden, Germany]
+src/pkcs15init/pkcs15-setcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003, 2005 Zetes]
+src/pkcs15init/pkcs15-starcos.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2004 Nils Larsch <larsch@trustcenter.de>]
+src/pkcs15init/profile.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/pkcs15init/profile.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/scconf/internal.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Antti Tapaninen <aet@cc.hut.fi>]
+src/scconf/lex-parse.l: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Antti Tapaninen <aet@cc.hut.fi>]
+src/scconf/parse.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Antti Tapaninen <aet@cc.hut.fi>]
+src/scconf/scconf.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Antti Tapaninen <aet@cc.hut.fi>]
+src/scconf/scconf.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Antti Tapaninen <aet@cc.hut.fi>]
+src/scconf/sclex.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2003 Jamie Honan <jhonan@optusnet.com.au>]
+src/scconf/write.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Antti Tapaninen <aet@cc.hut.fi>]
+src/sm/sm-common.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/sm/sm-common.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2013 Viktor Tarasov <viktor.tarasov@gmail.com>]
+src/sm/sm-eac.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2018 Frank Morgner]
+src/sm/sm-eac.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2015 Frank Morgner]
+src/sm/sm-iso-internal.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2015 Frank Morgner]
+src/sm/sm-iso.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011-2015 Frank Morgner]
+src/sm/sm-iso.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2015 Frank Morgner]
+src/smm/sm-card-authentic.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/smm/sm-card-iasecc.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/smm/sm-cwa14890.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/smm/sm-global-platform.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/smm/sm-module.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/smm/smm-local.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Viktor Tarasov <vtarasov@opentrust.com>]
+src/tests/lottery.c: UNKNOWN
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tests/opensc-minidriver-test.c: BSD 3-Clause License
+  [Copyright: 2017 CardContact Systems GmbH, Minden, Germany]
+src/tests/p15dump.c: UNKNOWN
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tests/pintest.c: UNKNOWN
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tests/print.c: UNKNOWN
+  [Copyright: 2001-2002 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tests/prngtest.c: UNKNOWN
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tests/sc-test.c: UNKNOWN
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/cardos-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008 Andreas Jellinghaus <aj@dungeon.inka.de> / 2007 Jean-Pierre Szikora <jean-pierre.szikora@uclouvain.be> / 2003 Andreas Jellinghaus <aj@dungeon.inka.de> / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/cryptoflex-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/dnie-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Juan Antonio Martinez <jonsito@terra.es>]
+src/tools/dtrust-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 mario.haustein@hrz.tu-chemnitz.de]
+src/tools/egk-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/tools/eidenv.c: GNU Library General Public License, Version 2.0 GNU Lesser General Public License v2.1 or later
+  [Copyright: 2004 Martin Paljak <martin@martinpaljak.net> " / 2004 Martin Paljak <martin@martinpaljak.net>]
+src/tools/fread_to_eof.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Frank Morgner]
+src/tools/fread_to_eof.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010 Frank Morgner]
+src/tools/gids-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2015 Vincent Le Toux (My Smart Logon) <vincent.letoux@mysmartlogon.com>]
+src/tools/goid-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018 Frank Morgner <frankmorgner@gmail.com>]
+src/tools/iasecc-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Viktor TARASOV <viktor.tarasov@gmail.com> / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/netkey-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: Peter Koch <pk_opensc@web.de> "); / 2005 Peter Koch <pk_opensc@web.de>]
+src/tools/npa-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2010-2018 Frank Morgner <frankmorgner@gmail.com>]
+src/tools/openpgp-tool-helpers.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2020 Peter Marschall <peter@adpm.de>]
+src/tools/openpgp-tool-helpers.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2020 Peter Marschall <peter@adpm.de>]
+src/tools/openpgp-tool.c: GNU Library General Public License, Version 2.0 GNU Lesser General Public License v2.1 or later
+  [Copyright: 2012-2020 Peter Marschall <peter@adpm.de> " / 2012-2020 Peter Marschall <peter@adpm.de>]
+src/tools/opensc-asn1.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/tools/opensc-explorer.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/opensc-notify.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/tools/opensc-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/piv-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2005, 2010 Douglas E. Engert <deengert@gmail.com> / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/pkcs11-register.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tools/pkcs11-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/tools/pkcs15-crypt.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/pkcs15-init.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2002 Olaf Kirch <okir@suse.de>]
+src/tools/pkcs15-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2008 Andreas Jellinghaus <aj@dungeon.inka.de> / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/sc-hsm-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2018-2019 GSMK - Gesellschaft f\x{00fc}r Sichere Mobile Kommunikation mbH / 2012 www.CardContact.de, Andreas Schwier, Minden, Germany / 2001 Juha Yrj\x{00f6}l\x{00e4} <juha.yrjola@iki.fi>]
+src/tools/sceac-example.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 Frank Morgner]
+src/tools/util.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2011 OpenSC Project developers]
+src/tools/westcos-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2009 francois.leblanc@cev-sa.com]
+src/ui/char_str_from_wchar.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/ui/invisible_window.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/ui/notify.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/ui/notify.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/ui/strings.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/ui/strings.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/ui/wchar_from_char_str.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzz_asn1_print.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzz_asn1_sig_value.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzz_card.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_piv_tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_pkcs11.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_pkcs15_crypt.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_pkcs15_decode.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzz_pkcs15_encode.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_pkcs15_reader.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzz_pkcs15_tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_pkcs15init.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzz_scconf_parse_string.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/fuzzing/fuzzer.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/fuzzing/fuzzer_reader.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzzer_reader.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Frank Morgner <frankmorgner@gmail.com>]
+src/tests/fuzzing/fuzzer_tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/fuzzing/fuzzer_tool.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/p11test/p11test.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc. / 2016 Martin Strh\x{00e1}rsky <strharsky.martin@gmail.com>]
+src/tests/p11test/p11test_case_common.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_common.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_ec_derive.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/tests/p11test/p11test_case_ec_derive.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/tests/p11test/p11test_case_ec_sign.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_ec_sign.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_interface.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Red Hat, Inc.]
+src/tests/p11test/p11test_case_interface.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Red Hat, Inc.]
+src/tests/p11test/p11test_case_mechs.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_mechs.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_multipart.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_multipart.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_pss_oaep.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_pss_oaep.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_readonly.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_readonly.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_secret.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/p11test/p11test_case_secret.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/p11test/p11test_case_usage.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_usage.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_wait.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_wait.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/p11test/p11test_case_wrap.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/p11test/p11test_case_wrap.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/p11test/p11test_common.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc. / 2016 Martin Strh\x{00e1}rsky <strharsky.martin@gmail.com>]
+src/tests/p11test/p11test_helpers.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc. / 2016 Martin Strh\x{00e1}rsky <strharsky.martin@gmail.com>]
+src/tests/p11test/p11test_helpers.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc. / 2016 Martin Strh\x{00e1}rsky <strharsky.martin@gmail.com>]
+src/tests/p11test/p11test_loader.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc. / 2016 Martin Strh\x{00e1}rsky <strharsky.martin@gmail.com>]
+src/tests/p11test/p11test_loader.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc. / 2016 Martin Strh\x{00e1}rsky <strharsky.martin@gmail.com>]
+src/tests/p11test/runtest.sh: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2016-2017 Red Hat, Inc.]
+src/tests/unittests/asn1.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/tests/unittests/base64.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2024 Red Hat, Inc.]
+src/tests/unittests/cachedir.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2020 Red Hat, Inc.]
+src/tests/unittests/check_macro_reference_loop.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2023 Red Hat, Inc.]
+src/tests/unittests/compression.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/tests/unittests/decode_ecdsa_signature.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Red Hat, Inc.]
+src/tests/unittests/hextobin.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2022 Peter Popovec <popovec.peter@gmail.com>]
+src/tests/unittests/openpgp-tool.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Vincent Pelletier <plr.vincent@gmail.com>]
+src/tests/unittests/pkcs15-emulator-filter.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/unittests/simpletlv.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]
+src/tests/unittests/sm.c: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2021 Red Hat, Inc.]
+src/tests/unittests/torture.h: GNU Lesser General Public License v2.1 or later
+  [Copyright: 2019 Red Hat, Inc.]

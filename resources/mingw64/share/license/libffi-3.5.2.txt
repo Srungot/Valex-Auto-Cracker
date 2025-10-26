@@ -1,0 +1,366 @@
+ChangeLog: UNKNOWN
+  [Copyright: updates patch / headers.]
+ChangeLog.old: UNKNOWN
+  [Copyright: header to refer to]
+LICENSE: MIT License
+  [Copyright: 1996-2025 Anthony Green, Red Hat, Inc and others.]
+LICENSE-BUILDTOOLS: GNU General Public License, Version 2
+  [Copyright: 1989, 1991 Free Software Foundation, Inc.,]
+Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2024 Free Software Foundation, Inc.]
+aclocal.m4: FSF Unlimited License (with License Retention) GNU General Public License, Version 2 [generated file]
+  [Copyright: 2022-2024 Free Software Foundation, Inc. / 2022-2024 Free Software Foundation, Inc. / 2009-2024 Free Software Foundation, Inc. / 2006-2024 Free Software Foundation, Inc. / 2004-2024 Free Software Foundation, Inc. / 2003-2024 Free Software Foundation, Inc. / 2002-2024 Free Software Foundation, Inc. / 2001-2024 Free Software Foundation, Inc. / 1999-2024 Free Software Foundation, Inc. / 1999-2008, 2011-2019, 2021-2024 Free Software / 1997-2024 Free Software Foundation, Inc. / 1996-2024 Free Software Foundation, Inc.]
+compile: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+config.guess: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+config.sub: GNU General Public License v3.0 or later
+  [Copyright: 1992-2024 Free Software Foundation, Inc. / 1992-2024 Free Software Foundation, Inc.]
+configure: FSF Unlimited License GNU General Public License v2.0 or later [generated file]
+  [Copyright: 2024 Free Software Foundation, Inc. / 2023 Free Software Foundation, Inc. / 1992-1996, 1998-2017, 2020-2023 Free Software Foundation,]
+depcomp: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1999-2024 Free Software Foundation, Inc.]
+install-sh: X11 License [generated file]
+  [Copyright: 1994 X Consortium]
+libtool-ldflags: GNU General Public License v2.0 or later
+  [Copyright: 2005 Free Software Foundation, Inc.]
+ltmain.sh: MIT License GNU General Public License v2.0 or later
+  [Copyright: 2010-2019, 2021, 2023-2024 Bootstrap Authors / 2004-2019, 2021, 2023-2024 Bootstrap Authors / 1996-2019, 2021-2024 Free Software Foundation, Inc.]
+make_sunver.pl: *No copyright* UNKNOWN [generated file]
+missing: GNU General Public License v2.0 or later
+  [Copyright: 1996-2024 Free Software Foundation, Inc.]
+msvcc.sh: Mozilla Public License 1.1 GNU General Public License v2.0 or later GNU General Public License (v2 or later) or GNU Lesser General Public License (v2.1 or later)
+  [Copyright: 2009 the Initial Developer.]
+doc/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2024 Free Software Foundation, Inc.]
+doc/libffi.info: MIT License
+  [Copyright: 2008-2025 Anthony Green and Red Hat, Inc. / 2008-2025 Anthony Green and Red Hat, Inc.]
+doc/libffi.texi: MIT License
+  [Copyright: @copyright{} 2008--2025 Anthony Green and Red Hat, Inc.]
+doc/mdate-sh: GNU General Public License v2.0 or later [generated file]
+  [Copyright: 1995-2024 Free Software Foundation, Inc.]
+doc/texinfo.tex: GNU General Public License v3.0 or later
+  [Copyright: {copyright}% / we are at the start of the string. / codedashnobreak should be set to codedash. / before the first topic whose initial is c / 1985-1986, 1988, 1990-2024 Free Software Foundation, Inc.]
+include/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2024 Free Software Foundation, Inc.]
+include/ffi.h.in: MIT License
+  [Copyright: 2011, 2014, 2019, 2021-2022, 2024-2025 Anthony Green / 1996-2003, 2007-2008 Red Hat, Inc.]
+include/ffi_cfi.h: MIT License
+  [Copyright: 2014 Red Hat, Inc.]
+include/ffi_common.h: MIT License
+  [Copyright: 2011-2013 Anthony Green / 2007 Free Software Foundation, Inc / 1996 Red Hat, Inc.]
+include/tramp.h: MIT License
+  [Copyright: 2021 Microsoft, Inc.]
+m4/ax_cc_maxopt.m4: GNU General Public License v3.0 or later
+  [Copyright: 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_cflags_warn_all.m4: GNU General Public License v3.0 or later
+  [Copyright: 2018 John Zaitseff <J.Zaitseff@zap.org.au> / 2010 Rhys Ulerich <rhys.ulerich@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_check_compile_flag.m4: FSF All Permissive License
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_compiler_vendor.m4: GNU General Public License v3.0 or later
+  [Copyright: 2018 -19 John Zaitseff <J.Zaitseff@zap.org.au> / 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_configure_args.m4: FSF All Permissive License
+  [Copyright: 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_enable_builddir.m4: GNU General Public License v3.0 or later
+  [Copyright: 2009 Guido U. Draheim <guidod@gmx.de> / 2009 Alan Jenkins <alan-jenkins@tuffmail.co.uk>]
+m4/ax_gcc_archflag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2017-2018 Alexey Kopytov / 2014 Tsukasa Oi / 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_gcc_x86_cpuid.m4: GNU General Public License v3.0 or later
+  [Copyright: 2015 Michael Petch <mpetch@capp-sysware.com> / 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+m4/ax_prepend_flag.m4: FSF All Permissive License
+  [Copyright: 2018 John Zaitseff <J.Zaitseff@zap.org.au> / 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+m4/ax_require_defined.m4: FSF All Permissive License
+  [Copyright: 2014 Mike Frysinger <vapier@gentoo.org>]
+m4/libtool.m4: FSF Unlimited License (with License Retention) GNU General Public License v2.0 or later
+  [Copyright: 2024 Free Software Foundation, Inc. / 2024 Free Software Foundation, Inc. / 1996-2001, 2003-2019, 2021-2024 Free Software]
+m4/ltoptions.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2009, 2011-2019, 2021-2024 Free]
+m4/ltsugar.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007-2008, 2011-2019, 2021-2024 Free Software]
+m4/ltversion.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004, 2011-2019, 2021-2024 Free Software Foundation,]
+m4/lt~obsolete.m4: FSF Unlimited License (with License Retention)
+  [Copyright: 2004-2005, 2007, 2009, 2011-2019, 2021-2024 Free]
+man/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2024 Free Software Foundation, Inc.]
+src/closures.c: MIT License
+  [Copyright: 2019, 2022 Anthony Green / 2011 Plausible Labs Cooperative, Inc. / 2007, 2009-2010 Red Hat, Inc. / 2007, 2009-2010 Free Software Foundation, Inc]
+src/debug.c: MIT License
+  [Copyright: 1996 Red Hat, Inc.]
+src/dlmalloc.c: *No copyright* Public domain
+src/java_raw_api.c: MIT License
+  [Copyright: 1999, 2007-2008 Red Hat, Inc.]
+src/prep_cif.c: MIT License
+  [Copyright: 2022 Oracle and/or its affiliates. / 2011-2012, 2021, 2025 Anthony Green / 1996, 1998, 2007 Red Hat, Inc.]
+src/raw_api.c: MIT License
+  [Copyright: 1999, 2008 Red Hat, Inc.]
+src/tramp.c: MIT License
+  [Copyright: 2022 Anthony Green / 2020 Madhavan T. Venkataraman]
+src/types.c: MIT License
+  [Copyright: 1996, 1998, 2024-2025 Red Hat, Inc.]
+testsuite/Makefile.in: UNKNOWN [generated file]
+  [Copyright: 1994-2024 Free Software Foundation, Inc.]
+src/aarch64/ffi.c: MIT License
+  [Copyright: 2009-2012 ARM Ltd.]
+src/aarch64/ffitarget.h: MIT License
+  [Copyright: 2009-2012 ARM Ltd.]
+src/aarch64/internal.h: *No copyright* MIT License
+src/aarch64/sysv.S: MIT License
+  [Copyright: 2009-2012 ARM Ltd.]
+src/aarch64/win64_armasm.S: MIT License
+  [Copyright: 2009-2012 ARM Ltd.]
+src/alpha/ffi.c: MIT License
+  [Copyright: 2012 Anthony Green / 1998, 2001, 2007-2008 Red Hat, Inc.]
+src/alpha/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/alpha/osf.S: MIT License
+  [Copyright: 1998, 2001, 2007-2008, 2011, 2014 Red Hat]
+src/arc/arcompact.S: MIT License
+  [Copyright: 2013 Synposys, Inc. (www.synopsys.com)]
+src/arc/ffi.c: MIT License
+  [Copyright: 2013 Synopsys, Inc. (www.synopsys.com)]
+src/arc/ffitarget.h: MIT License
+  [Copyright: 2013 Synopsys, Inc. (www.synopsys.com) / 2012 Anthony Green]
+src/arm/ffi.c: MIT License
+  [Copyright: 2011 Timothy Wall / 2011 Plausible Labs Cooperative, Inc. / 2011 Free Software Foundation / 2011 Anthony Green / 1998, 2008, 2011 Red Hat, Inc.]
+src/arm/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 2010 CodeSourcery / 1996-2003 Red Hat, Inc.]
+src/arm/sysv.S: MIT License
+  [Copyright: 2011 Plausible Labs Cooperative, Inc. / 1998, 2008, 2011 Red Hat, Inc.]
+src/arm/sysv_msvc_arm32.S: MIT License
+  [Copyright: 2019 Microsoft Corporation. / 2011 Plausible Labs Cooperative, Inc. / 1998, 2008, 2011 Red Hat, Inc.]
+src/avr32/ffi.c: MIT License
+  [Copyright: 2011 Anthony Green / 2009 Bradley Smith <brad@brad-smith.co.uk>]
+src/avr32/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 2009 Bradley Smith <brad@brad-smith.co.uk>]
+src/avr32/sysv.S: MIT License
+  [Copyright: 2009 Bradley Smith <brad@brad-smith.co.uk>]
+src/bfin/ffi.c: MIT License
+  [Copyright: 2012 Alexandre K. I. de Mendonca <alexandre.keunecke@gmail.com>,]
+src/bfin/ffitarget.h: MIT License
+  [Copyright: 2012 Alexandre K. I. de Mendonca <alexandre.keunecke@gmail.com>]
+src/bfin/sysv.S: MIT License
+  [Copyright: 2012 Alexandre K. I. de Mendonca <alexandre.keunecke@gmail.com>,]
+src/cris/ffi.c: MIT License
+  [Copyright: 2007 Free Software Foundation, Inc. / 2005 Axis Communications AB / 2004 Simon Posnjak / 1998 Cygnus Solutions]
+src/cris/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/cris/sysv.S: MIT License
+  [Copyright: 2005 Axis Communications AB / 2004 Simon Posnjak]
+src/csky/ffi.c: *No copyright* MIT License
+src/csky/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 2010 CodeSourcery / 1996-2003 Red Hat, Inc.]
+src/csky/sysv.S: *No copyright* MIT License
+src/frv/eabi.S: MIT License
+  [Copyright: 2004 Anthony Green]
+src/frv/ffi.c: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2007 Free Software Foundation, Inc. / 2004 Anthony Green]
+src/frv/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2004 Red Hat, Inc.]
+src/ia64/ffi.c: MIT License
+  [Copyright: 2011 Anthony Green / 2000 Hewlett Packard Company / 1998, 2007-2008, 2012 Red Hat, Inc.]
+src/ia64/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/ia64/ia64_flags.h: MIT License
+  [Copyright: 2000 Hewlett Packard Company]
+src/ia64/unix.S: MIT License
+  [Copyright: 2000 Hewlett Packard Company / 1998, 2008 Red Hat, Inc.]
+src/kvx/ffi.c: MIT License
+  [Copyright: 2020 Kalray]
+src/kvx/ffitarget.h: MIT License
+  [Copyright: 2020 Kalray]
+src/kvx/sysv.S: MIT License
+  [Copyright: 2020 Kalray]
+src/loongarch64/ffi.c: MIT License
+  [Copyright: 2022 Xu Chenghua <xuchenghua@loongson.cn>]
+src/loongarch64/ffitarget.h: MIT License
+  [Copyright: 2022 Xu Chenghua <xuchenghua@loongson.cn>]
+src/loongarch64/sysv.S: MIT License
+  [Copyright: 2022 Xu Chenghua <xuchenghua@loongson.cn>]
+src/m32r/ffi.c: MIT License
+  [Copyright: 2022 Anthony Green / 2008 Red Hat, Inc. / 2004 Renesas Technology]
+src/m32r/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 2004 Renesas Technology.]
+src/m32r/sysv.S: MIT License
+  [Copyright: 2004 Renesas Technology]
+src/m68k/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/m68k/sysv.S: MIT License
+  [Copyright: 2012, 2016 Thorsten Glaser / 2012 Alan Hourihane / 2008 Red Hat, Inc. / 1998, 2012 Andreas Schwab]
+src/m88k/ffi.c: MIT License
+  [Copyright: 2013 Miodrag Vallat. <miod@openbsd.org>]
+src/m88k/ffitarget.h: MIT License
+  [Copyright: 2013 Miodrag Vallat. <miod@openbsd.org>]
+src/m88k/obsd.S: MIT License
+  [Copyright: 2013 Miodrag Vallat. <miod@openbsd.org>]
+src/metag/ffi.c: MIT License
+  [Copyright: 2013 Imagination Technologies]
+src/metag/ffitarget.h: MIT License
+  [Copyright: 2013 Imagination Technologies Ltd.]
+src/metag/sysv.S: MIT License
+  [Copyright: 2013 Imagination Technologies Ltd.]
+src/microblaze/ffi.c: MIT License
+  [Copyright: 2012-2013 Xilinx, Inc]
+src/microblaze/ffitarget.h: MIT License
+  [Copyright: 2012-2013 Xilinx, Inc]
+src/microblaze/sysv.S: MIT License
+  [Copyright: 2012-2013 Xilinx, Inc]
+src/mips/ffi.c: MIT License
+  [Copyright: 2011 Anthony Green / 2008 David Daney / 1996, 2007-2008, 2011 Red Hat, Inc.]
+src/mips/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/mips/n32.S: MIT License
+  [Copyright: 1996, 1998, 2005, 2007, 2009-2010 Red Hat, Inc.]
+src/mips/o32.S: MIT License
+  [Copyright: 1996, 1998, 2005 Red Hat, Inc.]
+src/moxie/eabi.S: MIT License
+  [Copyright: 2012-2013 Anthony Green]
+src/moxie/ffi.c: MIT License
+  [Copyright: 2012-2013, 2018, 2021-2022 Anthony Green]
+src/moxie/ffitarget.h: MIT License
+  [Copyright: 2012-2013 Anthony Green]
+src/or1k/ffi.c: MIT License
+  [Copyright: 2014 Sebastian Macke <sebastian@macke.de>]
+src/or1k/ffitarget.h: MIT License
+  [Copyright: 2014 Sebastian Macke <sebastian@macke.de>]
+src/or1k/sysv.S: MIT License
+  [Copyright: 2014 Sebastian Macke <sebastian@macke.de>]
+src/pa/ffi.c: MIT License
+  [Copyright: 2011 Anthony Green / 2008 Red Hat, Inc. / 2006 Free Software Foundation, Inc. / 2003-2004 Randolph Chung <tausq@debian.org>]
+src/pa/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/pa/hpux32.S: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2006 Free Software Foundation, Inc.]
+src/pa/hpux64.S: MIT License
+  [Copyright: 2005-2022 John David Anglin <dave.anglin@bell.net>]
+src/pa/linux.S: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2003-2004 Randolph Chung <tausq@debian.org>]
+src/powerpc/aix.S: MIT License
+  [Copyright: 2002, 2009 Free Software Foundation, Inc.]
+src/powerpc/aix_closure.S: MIT License
+  [Copyright: 2002-2003, 2009 Free Software Foundation, Inc.]
+src/powerpc/asm.h: MIT License
+  [Copyright: 1998 Geoffrey Keating]
+src/powerpc/darwin.S: MIT License
+  [Copyright: 2004, 2010 Free Software Foundation, Inc. / 2000 John Hornkvist]
+src/powerpc/darwin_closure.S: MIT License
+  [Copyright: 2002-2004, 2010 Free Software Foundation, Inc.]
+src/powerpc/ffi.c: MIT License
+  [Copyright: 2013 IBM / 2011 Kyle Moffett / 2011 Anthony Green / 2008 Red Hat, Inc / 2007-2008 Free Software Foundation, Inc / 1998 Geoffrey Keating]
+src/powerpc/ffi_darwin.c: MIT License
+  [Copyright: 2002, 2006-2007, 2009-2010 Free Software Foundation, Inc. / 2001 John Hornkvist / 1998 Geoffrey Keating]
+src/powerpc/ffi_linux64.c: MIT License
+  [Copyright: 2013 IBM / 2011 Kyle Moffett / 2011 Anthony Green / 2008 Red Hat, Inc / 2007-2008 Free Software Foundation, Inc / 1998 Geoffrey Keating]
+src/powerpc/ffi_powerpc.h: MIT License
+  [Copyright: 2013 IBM / 2011 Kyle Moffett / 2011 Anthony Green / 2008 Red Hat, Inc / 2007-2008 Free Software Foundation, Inc / 1998 Geoffrey Keating]
+src/powerpc/ffi_sysv.c: MIT License
+  [Copyright: 2013 IBM / 2011 Kyle Moffett / 2011 Anthony Green / 2008 Red Hat, Inc / 2007-2008 Free Software Foundation, Inc / 1998 Geoffrey Keating]
+src/powerpc/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 2007-2008, 2010 Free Software Foundation, Inc / 1996-2003 Red Hat, Inc.]
+src/powerpc/linux64.S: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2003 Jakub Jelinek <jakub@redhat.com>]
+src/powerpc/linux64_closure.S: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2003 Jakub Jelinek <jakub@redhat.com>]
+src/powerpc/ppc_closure.S: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2003 Jakub Jelinek <jakub@redhat.com>]
+src/powerpc/sysv.S: MIT License
+  [Copyright: 2007 Free Software Foundation, Inc / 1998 Geoffrey Keating]
+src/riscv/ffi.c: MIT License
+  [Copyright: 2015 Michael Knyszek <mknyszek@berkeley.edu>]
+src/riscv/ffitarget.h: *No copyright* MIT License
+src/riscv/sysv.S: MIT License
+  [Copyright: 2015 Michael Knyszek <mknyszek@berkeley.edu>]
+src/s390/ffi.c: MIT License
+  [Copyright: 2008 Red Hat, Inc / 2000, 2007 Software AG]
+src/s390/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/s390/sysv.S: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2000 Software AG]
+src/sh/ffi.c: MIT License
+  [Copyright: 2008 Red Hat, Inc. / 2002-2008, 2012 Kaz Kojima]
+src/sh/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/sh/sysv.S: MIT License
+  [Copyright: 2002-2004, 2006, 2008 Kaz Kojima]
+src/sh64/ffi.c: MIT License
+  [Copyright: 2008 Anthony Green / 2003-2004, 2006-2007, 2012 Kaz Kojima]
+src/sh64/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/sh64/sysv.S: MIT License
+  [Copyright: 2003-2004, 2006, 2008 Kaz Kojima]
+src/sparc/ffi.c: MIT License
+  [Copyright: 2011, 2013 Anthony Green / 1996, 2003-2004, 2007-2008 Red Hat, Inc.]
+src/sparc/ffi64.c: MIT License
+  [Copyright: 2011, 2013 Anthony Green / 1996, 2003-2004, 2007-2008 Red Hat, Inc.]
+src/sparc/ffitarget.h: MIT License
+  [Copyright: 2012 Anthony Green / 1996-2003 Red Hat, Inc.]
+src/sparc/v8.S: MIT License
+  [Copyright: 2013 The Written Word, Inc. / 1996-1997, 2003-2004, 2008 Red Hat, Inc.]
+src/sparc/v9.S: MIT License
+  [Copyright: 2000, 2003-2004, 2008 Red Hat, Inc.]
+src/tile/ffi.c: MIT License
+  [Copyright: 2012 Tilera Corp.]
+src/tile/ffitarget.h: MIT License
+  [Copyright: 2012 Tilera Corp.]
+src/tile/tile.S: MIT License
+  [Copyright: 2011 Tilera Corp.]
+src/vax/elfbsd.S: MIT License
+  [Copyright: 2013 Miodrag Vallat. <miod@openbsd.org>]
+src/vax/ffi.c: MIT License
+  [Copyright: 2013 Miodrag Vallat. <miod@openbsd.org>]
+src/vax/ffitarget.h: MIT License
+  [Copyright: 2013 Miodrag Vallat. <miod@openbsd.org>]
+src/wasm/ffi.c: MIT License
+  [Copyright: 2018-2023 Hood Chatham, Brion Vibber, Kleis Auke Wolthuizen, and others.]
+src/wasm/ffitarget.h: MIT License
+  [Copyright: 2018-2023 Hood Chatham, Brion Vibber, Kleis Auke Wolthuizen, and others.]
+src/x86/ffi.c: MIT License
+  [Copyright: 2017, 2022 Anthony Green / 2008, 2010 Free Software Foundation, Inc. / 2002 Roger Sayle / 2002 Ranjit Mathew / 2002 Bo Thorsen / 1996, 1998-1999, 2001, 2007-2008 Red Hat, Inc.]
+src/x86/ffi64.c: MIT License
+  [Copyright: 2013 The Written Word, Inc. / 2011, 2018, 2022 Anthony Green / 2008, 2010 Red Hat, Inc. / 2002, 2007 Bo Thorsen <bo@suse.de>]
+src/x86/ffitarget.h: MIT License
+  [Copyright: 2012, 2014, 2018 Anthony Green / 2008 Free Software Foundation, Inc. / 1996-2003, 2010 Red Hat, Inc.]
+src/x86/ffiw64.c: MIT License
+  [Copyright: 2018 Anthony Green / 2014 Red Hat, Inc.]
+src/x86/sysv.S: MIT License
+  [Copyright: 2017 Anthony Green / 2013 The Written Word, Inc. / 1996, 1998, 2001-2003, 2005, 2008, 2010 Red Hat, Inc.]
+src/x86/sysv_intel.S: MIT License
+  [Copyright: 2017, 2022 Anthony Green / 2013 The Written Word, Inc. / 1996, 1998, 2001-2003, 2005, 2008, 2010 Red Hat, Inc.]
+src/x86/unix64.S: MIT License
+  [Copyright: 2013 The Written Word, Inc. / 2008 Red Hat, Inc / 2002 Bo Thorsen <bo@suse.de>]
+src/xtensa/ffi.c: MIT License
+  [Copyright: 2013 Tensilica, Inc.]
+src/xtensa/ffitarget.h: MIT License
+  [Copyright: 2013 Tensilica, Inc.]
+src/xtensa/sysv.S: MIT License
+  [Copyright: 2013 Tensilica, Inc.]
+testsuite/lib/libffi.exp: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2005, 2008-2011, 2014, 2019, 2022, 2025 Free Software Foundation, Inc.]
+testsuite/lib/target-libpath.exp: GNU General Public License v3.0 or later
+  [Copyright: 2004-2005, 2007 Free Software Foundation, Inc.]
+testsuite/lib/wrapper.exp: GNU General Public License v3.0 or later
+  [Copyright: 2004, 2007 Free Software Foundation, Inc.]
+testsuite/libffi.bhaible/alignof.h: GNU General Public License v2.0 or later
+  [Copyright: 2003-2004, 2006, 2009-2017 Free Software Foundation, Inc.]
+testsuite/libffi.bhaible/bhaible.exp: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2006, 2009-2010, 2014, 2018 Free Software Foundation, Inc.]
+testsuite/libffi.bhaible/test-call.c: GNU General Public License v3.0 or later
+  [Copyright: 1995-2017 Bruno Haible <bruno@clisp.org> / 1993 Bill Triggs <Bill.Triggs@inrialpes.fr>]
+testsuite/libffi.bhaible/test-callback.c: GNU General Public License v3.0 or later
+  [Copyright: 1995-2017 Bruno Haible <bruno@clisp.org> / 1993 Bill Triggs <Bill.Triggs@inrialpes.fr>]
+testsuite/libffi.bhaible/testcases.c: GNU General Public License v3.0 or later
+  [Copyright: 1995-2017 Bruno Haible <bruno@clisp.org> / 1993 Bill Triggs <Bill.Triggs@inrialpes.fr>]
+testsuite/libffi.call/call.exp: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2006, 2009-2010, 2014 Free Software Foundation, Inc.]
+testsuite/libffi.closures/closure.exp: GNU General Public License v3.0 or later
+  [Copyright: 2019 Anthony Green / 2003, 2006, 2009-2010, 2014, 2019 Free Software Foundation, Inc.]
+testsuite/libffi.complex/complex.exp: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2006, 2009-2010, 2014 Free Software Foundation, Inc.]
+testsuite/libffi.complex/return_complex.inc: UNKNOWN
+  [Copyright: T_CONV cimag (c));]
+testsuite/libffi.go/go.exp: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2006, 2009-2010, 2014 Free Software Foundation, Inc.]
+testsuite/libffi.threads/threads.exp: GNU General Public License v3.0 or later
+  [Copyright: 2003, 2006, 2009-2010, 2014 Free Software Foundation, Inc.]
+msvc_build/aarch64/aarch64_include/ffi.h: MIT License
+  [Copyright: 2011, 2014 Anthony Green / 1996-2003, 2007-2008 Red Hat, Inc.]
