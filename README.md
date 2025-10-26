@@ -50,5 +50,10 @@ Minimal patcher for Valex External. You must provide the original, unmodified Va
 - `pattern_avmadb_jnz` -> `84 C0 0F 85`
 - `pattern_avmadb_jz` -> `84 C0 0F 84`
 
+[![release](https://img.shields.io/github/v/release/USER/REPO)](https://github.com/USER/REPO/releases)
+[![downloads](https://img.shields.io/github/downloads/USER/REPO/total)](https://github.com/USER/REPO/releases)
+[![build](https://img.shields.io/github/actions/workflow/status/USER/REPO/auto-release.yml?branch=main)](https://github.com/USER/REPO/actions)
+[![discord](https://img.shields.io/discord/YOUR_DISCORD_ID?logo=discord&label=discord)](https://discord.gg/YOUR_INVITE)
+
 ## Support
 - Discord -> https://nizzix.ovh/discord | <@483948013547683861>
