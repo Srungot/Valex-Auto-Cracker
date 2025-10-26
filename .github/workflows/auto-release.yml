@@ -42,7 +42,7 @@ jobs:
           }
           else {
             $version = "nightly-${{ github.run_number }}"
-            $prerelease = "true"
+            $prerelease = "false"
           }
           $file = "Xylera Valex auto cracker $version.exe"
           $releaseName = "Xylera Valex auto cracker $version"
