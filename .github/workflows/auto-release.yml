@@ -2,8 +2,9 @@ name: auto-release
 
 on:
   push:
-    branches:
-      - '**'
+    tags:
+      - 'v*'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -29,20 +30,28 @@ jobs:
         shell: cmd
         run: builder.bat
 
+      - name: rename exe with version
+        shell: pwsh
+        run: |
+          $version = "$env:GITHUB_REF_NAME"
+          $newName = "Xylera Valex auto cracker $version.exe"
+          Rename-Item -Path "xylera.exe" -NewName $newName
+          echo "built $newName"
+
       - name: upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: xylera-exe
-          path: xylera.exe
+          path: "Xylera Valex auto cracker ${{ github.ref_name }}.exe"
 
       - name: create release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: auto-${{ github.run_number }}
-          name: Auto Release ${{ github.run_number }}
+          tag_name: ${{ github.ref_name }}
+          name: Xylera Valex auto cracker ${{ github.ref_name }}
           prerelease: false
           draft: false
           files: |
-            xylera.exe
+            Xylera Valex auto cracker ${{ github.ref_name }}.exe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
