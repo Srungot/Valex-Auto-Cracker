@@ -12,7 +12,24 @@ permissions:
   contents: write
 
 jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      cpp: ${{ steps.filter.outputs.cpp }}
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: detect changes
+        id: filter
+        uses: dorny/paths-filter@v3
+        with:
+          filters: |
+            cpp:
+              - '**/*.cpp'
+
   build-and-release:
+    needs: changes
+    if: ${{ needs.changes.outputs.cpp == 'true' || github.ref_type == 'tag' || github.event_name == 'workflow_dispatch' }}
     runs-on: windows-latest
     steps:
       - name: checkout
