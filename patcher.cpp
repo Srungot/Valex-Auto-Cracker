@@ -151,7 +151,7 @@ static const std::vector<std::string> neutralize_targets = {
     skCrypt("https://extkey.Valex.io/").decrypt()
 };
 // -----------------------------------------------------------------------------------------------------
-// -> No more ADB into valex
+// -> No more ADB into valex :)
 static const std::vector<int> pattern_avmadb_jnz = {0x84, 0xC0, 0x0F, 0x85, -1, -1, 0x00, 0x00};
 static const std::vector<int> pattern_avmadb_jz = {0x84, 0xC0, 0x0F, 0x84, -1, -1, 0x00, 0x00};
 // -----------------------------------------------------------------------------------------------------
