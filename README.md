@@ -33,6 +33,12 @@ Minimal patcher for Valex External. You must provide the original, unmodified Va
 - v1.0.0
   - Initial release.
 
+## Valex don't want my protection :( so I release this
+
+![image](resources/image.png)
+
+![image](resources/image2.png)
+
 ## Signatures
 - `pattern_call` -> `E8 ? ? ? ? 84 C0 0F 85 8D 00 00 00`
 - `pattern_version` -> `48 8D 0D ? ? ? ? 48 89 08 48 8D 0D`
