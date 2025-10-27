@@ -79,7 +79,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: xylera-exe
-          path: "${{ env.FILE_NAME }}"
+          path: |
+            ${{ env.FILE_NAME }}
+            auto_dumper_patterns.py
 
       - name: create release
         uses: softprops/action-gh-release@v2
@@ -90,5 +92,6 @@ jobs:
           draft: false
           files: |
             ${{ env.FILE_NAME }}
+            auto_dumper_patterns.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
