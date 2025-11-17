@@ -104,11 +104,11 @@ namespace skc
 //call    sub_?????????
 //test    al, al
 //jnz     loc_?????????
-static const std::string pattern_call = skCrypt("E8 ? ? ? ? 84 C0 0F 85 8D 00 00 00").decrypt();
+static const std::string pattern_call = skCrypt("E8 ? ? ? ? 84 C0 0F 85 87 00 00 00 48 8D 05 ? ? ? ? 48 89 84 24 20 01 00 00 48 C7 84 24 28 01 00 00 15 00 00 00").decrypt();
 //lea     rcx, aVersion38d71f9 ; "version-????????????????"
 static const std::string pattern_version = skCrypt("48 8D 0D ? ? ? ? 48 89 08 48 8D 0D").decrypt();
 //jnz     loc_?????????
-static const std::string pattern_jnz = skCrypt("0F 85 8D 00 00 00 48 8D 05").decrypt();
+static const std::string pattern_jnz = skCrypt("0F 85 87 00 00 00 48 8D 05 ? ? ? ? 48 89 84 24 20 01 00 00 48 C7 84 24 28 01 00 00 15 00 00 00").decrypt();
 // jnz     loc_?????????
 static const std::string pattern_jnz_before_links = skCrypt("0F 85 0D 01 00 00 48 8D 15").decrypt();
 
